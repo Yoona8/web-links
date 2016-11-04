@@ -1,5 +1,8 @@
 # Личный сборник полезной информации по web-разработке
 
+##workflow
+[Bower](https://github.com/bower/bower)
+
 ## Списки полезных ссылок
 https://github.com/ademaro/frontend-tips
 
