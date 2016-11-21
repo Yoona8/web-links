@@ -4,6 +4,11 @@
 ###Front-end
 [Bower](https://github.com/bower/bower)
 
+(https://www.youtube.com/watch?v=x0hw8llIZkY)
+
+##JavaScript
+https://github.com/rwaldron/idiomatic.js/
+
 ## Списки полезных ссылок
 https://github.com/ademaro/frontend-tips
 
