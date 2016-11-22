@@ -11,6 +11,7 @@
 * touch app/{css/main.css,js/main.js,index.html}
 * ls
 * ls -f
+* ls -a
 * clear
 * rm
 * rm -r
