@@ -1,5 +1,8 @@
-# Con-EMU
+# Console
 
+- [Con Emu](http://www.conemu.ru/)
+
+## Команды
 * pwd (путь, по которому сейчас находимся)
 * cd - (вернуться)
 * mkdir (создать папку)
@@ -11,6 +14,10 @@
 * clear
 * rm
 * rm -r
+* explorer .
+* subl .
+* atom .
+* echo $PATH (for changing: win + break > settings > for user)
 
 # Bower
 
