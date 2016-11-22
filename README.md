@@ -93,3 +93,30 @@ PSD -
 
 Отзывы -
 - https://vk.com/topic-76297300_33053701
+
+## Books
+- Новая большая книга CSS (CSS: The Missing Manual) Дэвид Сойер Макфарланд https://www.ozon.ru/context/detail/id/135731189/
+- Выразительный Javascript Marijn Haverbeke https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru/details
+- JavaScript для профессиональных веб-разработчиков Николас Закас Professional JavaScript for Web Developers http://www.ozon.ru/context/detail/id/31257038/
+- Разработка веб-приложений с помощью PHP и MySQL PHP and MySQL Web Development Люк Веллинг, Лаура Томсон http://www.ozon.ru/context/detail/id/4538872/
+- Node.js в действии 	Майк Кантелон, Марк Хартер http://www.ozon.ru/context/detail/id/135464486/
+
+## Video Lessons
+- https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJwXErx2dREKRrM4krmJMB3x
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJz25gq63HjXIOPg0ailynCN
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJwqwHBF4KFMIo9U0HKIR3UP
+- http://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6
+- https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJZgILzgN4svtdpptYwdK
+- https://www.youtube.com/playlist?list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K
+- https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
