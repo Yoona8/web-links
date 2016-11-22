@@ -19,7 +19,3 @@
 * subl .
 * atom .
 * echo $PATH (for changing: win + break > settings > for user)
-
-# Bower
-
-* .bowerrc
