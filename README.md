@@ -4,11 +4,11 @@
 ### Bower
 - https://github.com/bower/bower
 ### Console
-- [ConEmu видео](https://www.youtube.com/watch?v=x0hw8llIZkY)
+- [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
 ### IDE и редакторы кода
 - [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 #### PhpStorm
-- [PhpStorm видео](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+- [PhpStorm серия видео-уроков от LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
 #### Sublime Text
 - [Sublime Text official site](https://www.sublimetext.com/)
 - [Documentation RU](http://sublimetext.ru/documentation)
@@ -113,21 +113,23 @@ PSD -
 - Node.js в действии 	Майк Кантелон, Марк Хартер http://www.ozon.ru/context/detail/id/135464486/
 
 ## Video Lessons
-- https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJwXErx2dREKRrM4krmJMB3x
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJz25gq63HjXIOPg0ailynCN
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJwqwHBF4KFMIo9U0HKIR3UP
-- http://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6
-- https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJZgILzgN4svtdpptYwdK
-- https://www.youtube.com/playlist?list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K
-- https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
+- Из PSD в HTML, как сверстать так, чтобы не было стыдно https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
+- [Terminal серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
+- Создание адаптивных сайтов https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
+- Основы javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
+- Основы jQuery https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
+- jQuery plugins https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS
+- Продвинутый javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg
+- Плагины для FRONTEND разработчика https://www.youtube.com/playlist?list=PLY4rE9dstrJwXErx2dREKRrM4krmJMB3x
+- Базовые элементы веб-страниц https://www.youtube.com/playlist?list=PLY4rE9dstrJz25gq63HjXIOPg0ailynCN
+- Основы PHP https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq
+- [Git серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
+- [Gulp серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
+- [Bower серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwqwHBF4KFMIo9U0HKIR3UP)
+- ПРЕПРОЦЕССОР JADE http://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
+- Введение Sass & Compass https://www.youtube.com/playlist?list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6
+- PostCSS https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJZgILzgN4svtdpptYwdK
+- Видеоуроки - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K
+- Вебинары - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
+- Шаг за шагом создаём свой сайт-портфолио! https://www.youtube.com/playlist?list=PLbZerpEHZ8s0duDoFQmjICbZuUVvvbmls и исходники https://www.dropbox.com/sh/9v8kz1lijg07chv/AAB1_KcK592LVg9rXOZprAyga?dl=0
+- [BrowserSync серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJxchfQOLIN2peO-G6_zNjD4)
