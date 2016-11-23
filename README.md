@@ -1,22 +1,22 @@
 # Личный сборник полезной информации по web-разработке
 
-##workflow
-### Bower
+#workflow
+## Bower
 - https://github.com/bower/bower
-### Console
+## Console
 - [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
-### IDE и редакторы кода
+## IDE и редакторы кода
 - [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
-#### Color themes
+### Color themes
 - [Themes (for all)](http://color-themes.com/?view=index)
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
 - [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
-#### PhpStorm
+### PhpStorm
 - [PhpStorm official site](https://www.jetbrains.com/phpstorm/download/#section=windows-version)
 - [Hotkeys](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
 - [PhpStorm серия видео-уроков от LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
 - [Themes (not only PhpStorm)]: http://color-themes.com/?view=index,
-#### Sublime Text
+### Sublime Text
 - [Sublime Text official site](https://www.sublimetext.com/)
 - [Documentation RU](http://sublimetext.ru/documentation)
 - [Hotkeys for Windows](http://sublimetext.ru/documentation/hotkeys/windows)
@@ -25,7 +25,7 @@
 - [How to start ST with terminal](http://tvovochka.ru/sections/administrirovanie/apple-os-x/zapusk-sublime-text-2-iz-terminala-apple-os-x)
 - [Video (not only about Sublime Text)](https://www.youtube.com/watch?v=XolLCRNGCgw)
 - [Video by LoftSchool](http://loftblog.ru/material/sublime-text-2-sftp/)
-#### Atom
+### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
 
 ##JavaScript
