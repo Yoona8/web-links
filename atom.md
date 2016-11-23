@@ -1,0 +1,3 @@
+# Atom TIPS
+## Snippets
+1. File > Snippets...
