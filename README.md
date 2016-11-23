@@ -7,8 +7,15 @@
 - [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
 ### IDE и редакторы кода
 - [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
+#### Color themes
+- [Themes (for all)](http://color-themes.com/?view=index)
+- [Themes for PhpStorm](http://www.phpstorm-themes.com/)
+- [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 #### PhpStorm
+- [PhpStorm official site](https://www.jetbrains.com/phpstorm/download/#section=windows-version)
+- [Hotkeys](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
 - [PhpStorm серия видео-уроков от LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+- [Themes (not only PhpStorm)]: http://color-themes.com/?view=index,
 #### Sublime Text
 - [Sublime Text official site](https://www.sublimetext.com/)
 - [Documentation RU](http://sublimetext.ru/documentation)
