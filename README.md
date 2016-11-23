@@ -1,11 +1,25 @@
 # Личный сборник полезной информации по web-разработке
 
 ##workflow
-###Front-end
-- [Bower](https://github.com/bower/bower)
-
-- ConEmu(https://www.youtube.com/watch?v=x0hw8llIZkY)
-- PhpStorm(https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+### Bower
+- https://github.com/bower/bower
+### Console
+- [ConEmu видео](https://www.youtube.com/watch?v=x0hw8llIZkY)
+### IDE и редакторы кода
+- [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
+#### PhpStorm
+- [PhpStorm видео](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+#### Sublime Text
+- [Sublime Text official site](https://www.sublimetext.com/)
+- [Documentation RU](http://sublimetext.ru/documentation)
+- [Hotkeys for Windows](http://sublimetext.ru/documentation/hotkeys/windows)
+- [Hotkeys for OSX](http://sublimetext.ru/documentation/hotkeys/osx)
+- [Presentation](http://aalexeev239.github.io/sublime-presentation/)
+- [How to start ST with terminal](http://tvovochka.ru/sections/administrirovanie/apple-os-x/zapusk-sublime-text-2-iz-terminala-apple-os-x)
+- [Video (not only about Sublime Text)](https://www.youtube.com/watch?v=XolLCRNGCgw)
+- [Video by LoftSchool](http://loftblog.ru/material/sublime-text-2-sftp/)
+#### Atom
+- [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
 
 ##JavaScript
 - https://github.com/rwaldron/idiomatic.js/
@@ -18,9 +32,6 @@
 
 ## Naming
 - https://github.com/yoksel/common-words
-
-## IDE's
-- [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 
 ## Git
 - https://git-scm.com/book/ru/v2
