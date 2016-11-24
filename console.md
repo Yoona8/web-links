@@ -15,6 +15,7 @@ $ touch app/{css/main.css,js/main.js,index.html}
 $ ls
 $ ls -f
 $ ls -a
+$ ls -t # от нового к старому
 $ clear
 $ rm
 $ rm -r

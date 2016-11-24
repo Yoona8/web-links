@@ -1,6 +1,6 @@
 # Sublime Text (TIPS)
 ## Установка плагинов
-1. Package Control (менеджер плагинов)
+1. [Package Control](https://packagecontrol.io/)
 2. Emmet
 3. SideBarEnhancements
 4. AdvancedNewFile
