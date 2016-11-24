@@ -7,6 +7,10 @@
 
 ## Console
 - [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
+- [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
+- [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
+- [VIM wiki](https://ru.wikipedia.org/wiki/Vim)
+- [VIM hotkeys](http://bullium.com/support/vim.html)
 
 ## IDE и редакторы кода
 - [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
@@ -33,6 +37,9 @@
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
+
+## Markdown
+- [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ##JavaScript
 - https://github.com/rwaldron/idiomatic.js/
