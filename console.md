@@ -1,6 +1,6 @@
 # Console
 
-- [Con Emu](http://www.conemu.ru/)
+- [Con Emu](https://conemu.github.io/)
 
 ## Команды
 Общие:

@@ -6,6 +6,7 @@
 - https://github.com/bower/bower
 
 ## Console
+- [Terminal серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
 - [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
 - [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
 - [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
@@ -134,7 +135,6 @@ PSD -
 
 ## Video Lessons
 - Из PSD в HTML, как сверстать так, чтобы не было стыдно https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
-- [Terminal серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
 - Создание адаптивных сайтов https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
 - Основы javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
 - Основы jQuery https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
