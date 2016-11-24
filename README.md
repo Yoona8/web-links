@@ -2,9 +2,6 @@
 
 #workflow
 
-## Bower
-- https://github.com/bower/bower
-
 ## Console
 - [Terminal серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
 - [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
@@ -38,6 +35,9 @@
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
+
+## Bower
+- https://github.com/bower/bower
 
 ## Markdown
 - [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
