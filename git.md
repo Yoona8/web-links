@@ -1,7 +1,6 @@
 # Git Console Commands
-Клонировать из удаленного репозитория к себе локально, в текущей директории создает папку с таким же названием, как и удаленный репозиторий, по умолчанию клонируется только ветка master:
-```
-$ git clone URL
+```bash
+$ git clone URL # clones from remote repo to local (by default only master branch is cloned)
 ```
 Скопировать ветку удаленного репозитория (origin/branch) к себе локально в branch:
 ```
