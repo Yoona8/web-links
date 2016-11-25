@@ -2,6 +2,15 @@
 
 - [Con Emu](https://conemu.github.io/)
 
+Если ввести два восклицательных знака !! и нажать ввод, то вы
+выполните последнюю введённую команду. Также есть шорткат(shortcut
+- сочетание клавиш) и для использования аргумента от предыдущей
+команды, для этого надо ввести имя_команды !$ и нажать ввод —
+вместо !$ будет подставлен аргумент от предыдущей команды.
+
+Для очистки окна терминала можно воспользоваться клавишами
+Сmd + K (Сtrl + K)
+
 ## Commands
 
 ### General:
@@ -12,7 +21,7 @@ $ cd - # go back
 $ cd ~ # go to root user directory
 $ mkdir folder
 $ cd !$ # go to new folder
-$ mkdir -p app/{css,js}
+$ mkdir -p app/{css,js} # -p means recursively
 $ touch app/{css/main.css,js/main.js,index.html}
 $ ls
 $ ls -f

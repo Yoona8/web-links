@@ -1,17 +1,27 @@
-# Личный сборник полезной информации по web-разработке
+# My personal list of links
 
 #workflow
 
 ## Console
-- [Terminal серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
-- [ConEmu видео-урок от LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
+- [Terminal video lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
+- [ConEmu video lesson by LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
+- [ConEmu habr article](https://habrahabr.ru/post/164687/)
 - [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
 - [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
 - [VIM wiki](https://ru.wikipedia.org/wiki/Vim)
 - [VIM hotkeys](http://bullium.com/support/vim.html)
+- [Commands list for OSX](http://osxh.ru/content/spisok-terminalnyh-komand-os-x)
+- [Commands list cmd](http://cmd-command.ru/komandy-cmd)
 
-## IDE и редакторы кода
-- [Обзор редакторов кода](https://htmlacademy.ru/blog/40-editors-for-the-coders)
+## Git
+- https://git-scm.com/book/ru/v2
+- https://githowto.com/ru
+- http://firstaidgit.ru/#/
+- https://habrahabr.ru/company/Voximplant/blog/276695/
+- [Git lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
+
+## IDE, CR
+- [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 
 ### Color themes
 - [Themes (for all)](http://color-themes.com/?view=index)
@@ -21,7 +31,7 @@
 ### PhpStorm
 - [PhpStorm official site](https://www.jetbrains.com/phpstorm/download/#section=windows-version)
 - [Hotkeys](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
-- [PhpStorm серия видео-уроков от LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+- [PhpStorm video lessons by LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
 
 ### Sublime Text
 - [Sublime Text official site](https://www.sublimetext.com/)
@@ -36,16 +46,31 @@
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
 
+## Tools
+- https://color.adobe.com/ru/
+
 ## Bower
 - https://github.com/bower/bower
+
+# Source
+
+## HTML
+
+## CSS
+
+## HTML + CSS
+- [From PSD to HTML+CSS by LoftSchool](https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7)
+
+## JavaScript
+- https://github.com/rwaldron/idiomatic.js/
 
 ## Markdown
 - [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-##JavaScript
-- https://github.com/rwaldron/idiomatic.js/
 
-## Списки полезных ссылок
+# Other
+
+## Lists of links
 - https://github.com/ademaro/frontend-tips
 
 ## Free Code Camp
@@ -54,17 +79,8 @@
 ## Naming
 - https://github.com/yoksel/common-words
 
-## Git
-- https://git-scm.com/book/ru/v2
-- https://githowto.com/ru
-- http://firstaidgit.ru/#/
-- https://habrahabr.ru/company/Voximplant/blog/276695/
-
 ## GitHub
 - https://htmlacademy.ru/blog/99-github-as-hosting
-
-## Tools
-- https://color.adobe.com/ru/
 
 ## Other
 - What happens when... https://github.com/alex/what-happens-when
@@ -76,8 +92,7 @@
 - http://frontender.info/
 - http://informatics.mccme.ru/
 
-
-PSD -
+## PSD
 - http://designscrazed.org/free-photoshop-psd-website-templates/
 - http://ru.365psd.com/
 - http://freebiesbug.com/psd-freebies/website-template/
@@ -86,7 +101,7 @@ PSD -
 - http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/
 - https://vk.com/fuckdesigner
 
-Сервисы по разработке -
+## Services
 - https://www.smashingmagazine.com/
 - https://css-tricks.com/
 - http://tympanus.net/codrops/
@@ -96,7 +111,7 @@ PSD -
 - http://www.paulirish.com/blog/archives/
 - https://uptodate.frontendrescue.org/
 
-Фотостоки -
+## Photostocks
 - https://unsplash.com/
 - http://littlevisuals.co/
 - http://join.deathtothestockphoto.com/
@@ -120,11 +135,8 @@ PSD -
 - http://moockup.me/
 - https://stocksnap.io/
 
-Вопросы Front-End разработчику -
+## Q & A
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Russian
-
-Отзывы -
-- https://vk.com/topic-76297300_33053701
 
 ## Books
 - Новая большая книга CSS (CSS: The Missing Manual) Дэвид Сойер Макфарланд https://www.ozon.ru/context/detail/id/135731189/
@@ -134,7 +146,6 @@ PSD -
 - Node.js в действии 	Майк Кантелон, Марк Хартер http://www.ozon.ru/context/detail/id/135464486/
 
 ## Video Lessons
-- Из PSD в HTML, как сверстать так, чтобы не было стыдно https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
 - Создание адаптивных сайтов https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
 - Основы javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
 - Основы jQuery https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
@@ -143,7 +154,6 @@ PSD -
 - Плагины для FRONTEND разработчика https://www.youtube.com/playlist?list=PLY4rE9dstrJwXErx2dREKRrM4krmJMB3x
 - Базовые элементы веб-страниц https://www.youtube.com/playlist?list=PLY4rE9dstrJz25gq63HjXIOPg0ailynCN
 - Основы PHP https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq
-- [Git серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
 - [Gulp серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
 - [Bower серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwqwHBF4KFMIo9U0HKIR3UP)
 - ПРЕПРОЦЕССОР JADE http://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
