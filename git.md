@@ -48,4 +48,6 @@ $ git init
 $ git log
 $ git reset # remove from indexed files for commit
 $ git reset --hard # rollback to previous commit
+$ git rm --cached file # deletes file from indexed list for commit
+$ git push -u pseudo-name branch # sets defaul push link
 ```
