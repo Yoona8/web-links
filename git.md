@@ -1,4 +1,11 @@
 # Git Console Commands
+
+## Configurations (-g or --global for global settings)
+```bash
+$ git config --list
+$ git config --list --show-origin
+$ git config user.name "user-name"
+```
 ```bash
 $ git clone URL # clones from remote repo to local (by default only master branch is cloned)
 ```
@@ -33,4 +40,12 @@ $ git remote set-url pseudo-name URL
 привязать другой удаленный репозиторий, _pseudo-name_ - название псевдонима
 ```
 $ git remote add pseudo-name URL
+```
+
+```bash
+$ git commit -am "msg" # -a add, -m message
+$ git init
+$ git log
+$ git reset # remove from indexed files for commit
+$ git reset --hard # rollback to previous commit
 ```

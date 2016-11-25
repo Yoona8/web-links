@@ -2,28 +2,24 @@
 
 - [Con Emu](https://conemu.github.io/)
 
-Если ввести два восклицательных знака !! и нажать ввод, то вы
-выполните последнюю введённую команду. Также есть шорткат(shortcut
-- сочетание клавиш) и для использования аргумента от предыдущей
-команды, для этого надо ввести имя_команды !$ и нажать ввод —
-вместо !$ будет подставлен аргумент от предыдущей команды.
-
-Для очистки окна терминала можно воспользоваться клавишами
-Сmd + K (Сtrl + K)
+## Hotkeys
+- Сtrl + K - to clear
 
 ## Commands
 
 ### General:
 ```bash
+$ !! # runs last entered command
 $ set -o # to check terminal settings
 $ pwd # current path
 $ cd - # go back
-$ cd ~ # go to root user directory
+$ cd ~ # windows> cd /d %userprofile% go to root user directory
+$ cd d: # windows> d:
 $ mkdir folder
-$ cd !$ # go to new folder
+$ cd !$ # go to new folder, !$ could be used with any command
 $ mkdir -p app/{css,js} # -p means recursively
 $ touch app/{css/main.css,js/main.js,index.html}
-$ ls
+$ ls # windows> dir
 $ ls -f
 $ ls -a
 $ ls -t # from the newest
@@ -36,17 +32,21 @@ $ mv file* folder # moves all files (named file*) to folder
 $ mv file file2 # renames file into file2
 $ cp file file2.txt # copies file to file2.txt
 $ cp -r folder folder2 # copies folders
-$ clear
+$ clear # windows> cls
 $ rm
 $ rmdir # for empty folders
 $ rm -r # for folders with content
+$ rm -rf # recursively force
 $ ln -s file softlink # makes soft link to file (when file is removed, link doesn't work)
 $ ln file hardlink # makes hard link (when file is removed, link still works)
 $ cat file # displays the content of a file
+$ vim file # i - print, esc - block print, :w - save, :q - quite
 $ explorer .
 $ subl .
 $ atom .
 $ echo $PATH # to change: win + break > settings > for user
+$ echo text > file # rewrites
+$ echo text >> file # adds text to file
 $ find . # search in current directory
 $ find ~/folder/... # search in root directory
 $ find . -type f # by file types
