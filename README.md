@@ -56,6 +56,11 @@
 
 ## HTML
 
+## PUG (Jade)
+- [PUG official site](https://pugjs.org/api/getting-started.html)
+- [PUG on GitHub](https://github.com/pugjs/pug)
+- PUG video lessons by LoftSchool (link is in classroom)
+
 ## CSS
 
 ## HTML + CSS
@@ -66,6 +71,7 @@
 
 ## Markdown
 - [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown language modes](http://codemirror.net/mode/)
 
 
 # Other
