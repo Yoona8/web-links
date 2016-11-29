@@ -3,6 +3,7 @@
 # Workflow
 
 - [Console](./console.md)
+- [Gulp](./gulp.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
@@ -36,9 +37,6 @@
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
-
-## Gulp
-[Gulp plugins](http://gulpjs.com/plugins/)
 
 ## Tools
 - https://color.adobe.com/ru/
