@@ -1,4 +1,4 @@
-# SSH TIPS
+# SSH
 
 ## Create a new key
 ```bash

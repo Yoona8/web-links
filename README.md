@@ -1,17 +1,8 @@
-# My personal list of links
+# Content
 
-#workflow
+# Workflow
 
-## Console
-- [Terminal video lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
-- [ConEmu video lesson by LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
-- [ConEmu habr article](https://habrahabr.ru/post/164687/)
-- [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
-- [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
-- [VIM wiki](https://ru.wikipedia.org/wiki/Vim)
-- [VIM hotkeys](http://bullium.com/support/vim.html)
-- [Commands list for OSX](http://osxh.ru/content/spisok-terminalnyh-komand-os-x)
-- [Commands list cmd](http://cmd-command.ru/komandy-cmd)
+- [Console](./console.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
@@ -45,6 +36,9 @@
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
+
+## Gulp
+[Gulp plugins](http://gulpjs.com/plugins/)
 
 ## Tools
 - https://color.adobe.com/ru/

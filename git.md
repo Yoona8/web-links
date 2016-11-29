@@ -1,4 +1,4 @@
-# Git Console Commands
+# Git
 
 ## Configurations (-g or --global for global settings)
 ```bash

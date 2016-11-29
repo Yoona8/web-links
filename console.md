@@ -1,6 +1,16 @@
 # Console
 
+## Links
 - [Con Emu](https://conemu.github.io/)
+- [Terminal video lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJy5P2z0sr8K3Nzr7l_UAN2b)
+- [ConEmu video lesson by LoftSchool](https://www.youtube.com/watch?v=x0hw8llIZkY)
+- [ConEmu habr article](https://habrahabr.ru/post/164687/)
+- [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
+- [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
+- [VIM wiki](https://ru.wikipedia.org/wiki/Vim)
+- [VIM hotkeys](http://bullium.com/support/vim.html)
+- [Commands list for OSX](http://osxh.ru/content/spisok-terminalnyh-komand-os-x)
+- [Commands list cmd](http://cmd-command.ru/komandy-cmd)
 
 ## Hotkeys
 - Сtrl + K - to clear
