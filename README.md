@@ -1,7 +1,4 @@
 # Content
-
-# Workflow
-
 - [Console](./console.md)
 - [Gulp](./gulp.md)
 - [PUG](./pug.md)
@@ -9,6 +6,17 @@
 - [Sublime Text 3](./sublimetext.md)
 - [PhpStorm](./phpstorm.md)
 - [Slack](./slack.md)
+
+# Services
+- [Can I use](http://caniuse.com/)
+- [JS Fiddle](https://jsfiddle.net/)
+- [CodePen](http://codepen.io/)
+- [Favicon Generator](http://realfavicongenerator.net/)
+- [Font Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+
+
+
+
 
 ## Git
 - https://git-scm.com/book/ru/v2
