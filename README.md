@@ -5,6 +5,7 @@
 - [Console](./console.md)
 - [Gulp](./gulp.md)
 - [PUG](./pug.md)
+- [Photoshop](./photoshop.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
