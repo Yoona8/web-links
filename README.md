@@ -4,6 +4,7 @@
 
 - [Console](./console.md)
 - [Gulp](./gulp.md)
+- [PUG](./pug.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
@@ -47,11 +48,6 @@
 # Source
 
 ## HTML
-
-## PUG (Jade)
-- [PUG official site](https://pugjs.org/api/getting-started.html)
-- [PUG on GitHub](https://github.com/pugjs/pug)
-- PUG video lessons by LoftSchool (link is in classroom)
 
 ## CSS
 
@@ -161,3 +157,10 @@
 - Вебинары - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
 - Шаг за шагом создаём свой сайт-портфолио! https://www.youtube.com/playlist?list=PLbZerpEHZ8s0duDoFQmjICbZuUVvvbmls и исходники https://www.dropbox.com/sh/9v8kz1lijg07chv/AAB1_KcK592LVg9rXOZprAyga?dl=0
 - [BrowserSync серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJxchfQOLIN2peO-G6_zNjD4)
+
+
+- Path patterns https://github.com/isaacs/minimatch
+- Flows node.js https://nodejs.org/api/stream.html
+- Jade https://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
+- Register domen https://www.youtube.com/watch?v=ClUTfXplGWQ&list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K&index=6
+- Reg hosting https://www.youtube.com/watch?v=GkQgwo_HwgU&list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K&index=7
