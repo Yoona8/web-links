@@ -1,4 +1,16 @@
 # Sublime Text (TIPS)
+
+## Links
+- [Sublime Text official site](https://www.sublimetext.com/)
+- [Documentation RU](http://sublimetext.ru/documentation)
+- [Hotkeys for Windows](http://sublimetext.ru/documentation/hotkeys/windows)
+- [Hotkeys for OSX](http://sublimetext.ru/documentation/hotkeys/osx)
+- [Presentation](http://aalexeev239.github.io/sublime-presentation/)
+- [How to start ST with terminal](http://tvovochka.ru/sections/administrirovanie/apple-os-x/zapusk-sublime-text-2-iz-terminala-apple-os-x)
+- [Video (not only about Sublime Text)](https://www.youtube.com/watch?v=XolLCRNGCgw)
+- [Video by LoftSchool](http://loftblog.ru/material/sublime-text-2-sftp/)
+- [Themes (for all)](http://color-themes.com/?view=index)
+
 ## Установка плагинов
 1. [Package Control](https://packagecontrol.io/)
 2. Emmet

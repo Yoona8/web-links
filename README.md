@@ -6,6 +6,8 @@
 - [Gulp](./gulp.md)
 - [PUG](./pug.md)
 - [Photoshop](./photoshop.md)
+- [Sublime Text 3](./sublimetext.md)
+- [PhpStorm](./phpstorm.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
@@ -22,20 +24,7 @@
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
 - [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 
-### PhpStorm
-- [PhpStorm official site](https://www.jetbrains.com/phpstorm/download/#section=windows-version)
-- [PhpStorm Hotkeys](https://resources.jetbrains.com/storage/products/phpstorm/docs/PhpStorm_ReferenceCard.pdf)
-- [PhpStorm video lessons by LoftSchool](https://www.youtube.com/watch?v=-K55ms3mTHg&index=7&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
 
-### Sublime Text
-- [Sublime Text official site](https://www.sublimetext.com/)
-- [Documentation RU](http://sublimetext.ru/documentation)
-- [Hotkeys for Windows](http://sublimetext.ru/documentation/hotkeys/windows)
-- [Hotkeys for OSX](http://sublimetext.ru/documentation/hotkeys/osx)
-- [Presentation](http://aalexeev239.github.io/sublime-presentation/)
-- [How to start ST with terminal](http://tvovochka.ru/sections/administrirovanie/apple-os-x/zapusk-sublime-text-2-iz-terminala-apple-os-x)
-- [Video (not only about Sublime Text)](https://www.youtube.com/watch?v=XolLCRNGCgw)
-- [Video by LoftSchool](http://loftblog.ru/material/sublime-text-2-sftp/)
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
