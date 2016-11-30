@@ -8,6 +8,7 @@
 - [Photoshop](./photoshop.md)
 - [Sublime Text 3](./sublimetext.md)
 - [PhpStorm](./phpstorm.md)
+- [Slack](./slack.md)
 
 ## Git
 - https://git-scm.com/book/ru/v2
