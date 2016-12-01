@@ -7,6 +7,7 @@
 - [PhpStorm](./phpstorm.md)
 - [Slack](./slack.md)
 - [Git](./git.md)
+- [Node.js and npm](./nodejs.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
@@ -35,12 +36,6 @@
 ## Bower
 - https://github.com/bower/bower
 
-# Source
-
-## HTML
-
-## CSS
-
 ## HTML + CSS
 - [From PSD to HTML+CSS by LoftSchool](https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7)
 
@@ -50,9 +45,6 @@
 ## Markdown
 - [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown language modes](http://codemirror.net/mode/)
-
-
-# Other
 
 ## Lists of links
 - https://github.com/ademaro/frontend-tips

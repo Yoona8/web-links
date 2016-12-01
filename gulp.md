@@ -3,6 +3,7 @@
 ## Why Gulp?
 Gulp - virtual vinyl-fs.
 Grunt - tmp fs.
+Webpach - specially for JS.
 
 ## Links
 - [Gulp on GitHub](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
@@ -68,4 +69,18 @@ gulp.task('default', gulp.series(
   ),
   'watch' // always last
 ));
+```
+
+## Tasks completion
+```javascript
+// callback
+gulp.task('clean', function(done) {
+  del('build', done);
+});
+
+// return stream
+gulp.task('copy:imgs', function() {
+  return gulp.src('app/imgs/*.*')
+    .pipe(gulp.dest('dist/imgs'));
+});
 ```

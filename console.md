@@ -7,10 +7,14 @@
 - [ConEmu habr article](https://habrahabr.ru/post/164687/)
 - [Emacs wiki](https://ru.wikipedia.org/wiki/Emacs)
 - [Emacs hotkeys](http://ss64.com/osx/syntax-bashkeyboard.html)
+- [Commands guide](http://ss64.com/)
 - [VIM wiki](https://ru.wikipedia.org/wiki/Vim)
 - [VIM hotkeys](http://bullium.com/support/vim.html)
 - [Commands list for OSX](http://osxh.ru/content/spisok-terminalnyh-komand-os-x)
 - [Commands list cmd](http://cmd-command.ru/komandy-cmd)
+- [Base commands](http://www.k-max.name/linux/osnovnye-komandy-linux-ili-shpargalka-nachinayushhego-linuksojda/)
+- [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
+- [Command Line courses adv](https://learncodethehardway.org/unix/)
 
 ## Hotkeys
 - Сtrl + K - to clear
