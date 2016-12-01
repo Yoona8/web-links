@@ -6,6 +6,7 @@
 - [Sublime Text 3](./sublimetext.md)
 - [PhpStorm](./phpstorm.md)
 - [Slack](./slack.md)
+- [Git](./git.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
@@ -17,14 +18,6 @@
 
 
 
-
-## Git
-- https://git-scm.com/book/ru/v2
-- https://githowto.com/ru
-- http://firstaidgit.ru/#/
-- https://habrahabr.ru/company/Voximplant/blog/276695/
-- [Git lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
-
 ## IDE, CR
 - [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 
@@ -32,8 +25,6 @@
 - [Themes (for all)](http://color-themes.com/?view=index)
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
 - [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
-
-
 
 ### Atom
 - [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)

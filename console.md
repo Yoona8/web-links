@@ -19,12 +19,13 @@
 
 ### General:
 ```bash
+$ [command] --help
 $ !! # runs last entered command
 $ set -o # to check terminal settings
 $ pwd # current path
 $ cd - # go back
 $ cd ~ # windows> cd /d %userprofile% go to root user directory
-$ cd d: # windows> d:
+$ cd d:folder/folder1 # windows> d:
 $ mkdir folder
 $ cd !$ # go to new folder, !$ could be used with any command
 $ mkdir -p app/{css,js} # -p means recursively

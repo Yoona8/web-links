@@ -1,6 +1,23 @@
 # Git
 
+## Links
+- https://git-scm.com/book/ru/v2
+- https://githowto.com/ru
+- http://firstaidgit.ru/#/
+- https://habrahabr.ru/company/Voximplant/blog/276695/
+- [Git lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
+- [Changing a remote's URL](https://help.github.com/articles/changing-a-remote-s-url/)
+
+## General
+```bash
+$ git --version # git -v
+$ git init
+```
+
 ## Configurations (-g or --global for global settings)
+1. System settings /etc/gitconfig
+2. Global user settings ~/.gitconfig
+3. Local repo settings .git/gitconfig
 ```bash
 $ git config --list
 $ git config --list --show-origin
