@@ -8,6 +8,7 @@
 - [Slack](./slack.md)
 - [Git](./git.md)
 - [Node.js and npm](./nodejs.md)
+- [Svg](./svg.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
