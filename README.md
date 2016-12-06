@@ -34,9 +34,6 @@
 ## Tools
 - https://color.adobe.com/ru/
 
-## Bower
-- https://github.com/bower/bower
-
 ## HTML + CSS
 - [From PSD to HTML+CSS by LoftSchool](https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7)
 
@@ -131,15 +128,12 @@
 - Плагины для FRONTEND разработчика https://www.youtube.com/playlist?list=PLY4rE9dstrJwXErx2dREKRrM4krmJMB3x
 - Базовые элементы веб-страниц https://www.youtube.com/playlist?list=PLY4rE9dstrJz25gq63HjXIOPg0ailynCN
 - Основы PHP https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq
-- [Gulp серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
-- [Bower серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwqwHBF4KFMIo9U0HKIR3UP)
 - ПРЕПРОЦЕССОР JADE http://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
 - Введение Sass & Compass https://www.youtube.com/playlist?list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6
 - PostCSS https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJZgILzgN4svtdpptYwdK
 - Видеоуроки - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K
 - Вебинары - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
 - Шаг за шагом создаём свой сайт-портфолио! https://www.youtube.com/playlist?list=PLbZerpEHZ8s0duDoFQmjICbZuUVvvbmls и исходники https://www.dropbox.com/sh/9v8kz1lijg07chv/AAB1_KcK592LVg9rXOZprAyga?dl=0
-- [BrowserSync серия видео-уроков от LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJxchfQOLIN2peO-G6_zNjD4)
 
 
 - Path patterns https://github.com/isaacs/minimatch

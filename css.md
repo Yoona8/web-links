@@ -1,5 +1,8 @@
 # CSS
 
+# Links
+- [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
+
 # Способы подключения
 ```html
 <a style="color: red;">link</a> <!-- в атрибуте -->

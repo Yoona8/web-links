@@ -1,9 +1,9 @@
 # Gulp
 
 ## Why Gulp?
-Gulp - virtual vinyl-fs.
-Grunt - tmp fs.
-Webpach - specially for JS.
+* Gulp - virtual vinyl-fs.
+* Grunt - tmp fs.
+* Webpach - specially for JS.
 
 ## Links
 - [Gulp on GitHub](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
@@ -11,6 +11,7 @@ Webpach - specially for JS.
 - [Plugins from npm](https://www.npmjs.com/)
 - [Plugins BLACKLIST](https://github.com/gulpjs/plugins/blob/master/src/blackList.json)
 - [Mistakes handler async-done](https://github.com/gulpjs/async-done)
+- [Gulp lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
 
 ## Plugins
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify)
