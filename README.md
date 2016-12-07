@@ -9,6 +9,7 @@
 - [Git](./git.md)
 - [Node.js and npm](./nodejs.md)
 - [Svg](./svg.md)
+- [BEM](./bem.md)
 
 # Services
 - [Can I use](http://caniuse.com/)

@@ -2,6 +2,9 @@
 
 # Links
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
+- [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css)
+- [SMACSS](https://smacss.com/)
+- [BEM](https://ru.bem.info/)
 
 # Способы подключения
 ```html
