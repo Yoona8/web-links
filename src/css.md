@@ -5,6 +5,14 @@
 - [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css)
 - [SMACSS](https://smacss.com/)
 - [BEM](https://ru.bem.info/)
+- [Article: Meaningful CSS: Style Like You Mean It](http://alistapart.com/article/meaningful-css-style-like-you-mean-it)
+- [Article: Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
+- [Normalize](https://necolas.github.io/normalize.css/)
+- [Box-sizing](https://css-tricks.com/box-sizing/)
+- [Artivle: Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/)
+- [Article: Проблемы CSS. Часть 1](https://habrahabr.ru/post/189118/)
+- [Article: Проблемы CSS. Часть 2](https://habrahabr.ru/post/189252/)
+- [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
 # Способы подключения
 ```html
