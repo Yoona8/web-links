@@ -10,7 +10,11 @@
 
 ## General
 ```bash
-$ git --version # git -v
+# version
+$ git --version 
+$ git -v
+
+# initialise
 $ git init
 ```
 
@@ -24,7 +28,8 @@ $ git config --list --show-origin
 $ git config user.name "user-name"
 ```
 ```bash
-$ git clone URL # clones from remote repo to local (by default only master branch is cloned)
+# clones from remote repo to local (by default only master branch is cloned)
+$ git clone URL
 ```
 Скопировать ветку удаленного репозитория (origin/branch) к себе локально в branch:
 ```
