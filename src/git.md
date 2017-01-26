@@ -10,12 +10,8 @@
 
 ## General
 ```bash
-# version
-$ git --version 
-$ git -v
-
-# initialise
-$ git init
+$ git --version # version
+$ git -v # version
 ```
 
 ## Configurations (-g or --global for global settings)
@@ -27,29 +23,23 @@ $ git config --list
 $ git config --list --show-origin
 $ git config user.name "user-name"
 ```
+
+## Clone
 ```bash
-# clones from remote repo to local (by default only master branch is cloned)
-$ git clone URL
+$ git clone URL folder # by default only master branch is cloned
+$ git checkout origin/branch -b branch # clone branch
 ```
-Скопировать ветку удаленного репозитория (origin/branch) к себе локально в branch:
-```
-$ git checkout origin/branch -b branch
-```
-origin - короткое название ссылки, которую мы клонировали с GitHub
-```
+
+## Workflow
+- origin - короткое название ссылки, которую мы клонировали с GitHub
+```bash
+$ git init # initialise
+$ git add
+$ git commit
 $ git push origin master
-```
-забрать изменения с удаленного репозитория
-```
 $ git pull pseudo-name branch
-```
-переключиться на ветку, с флагом "-b" создать новую ветку
-```
 $ git checkout branch
-```
-слить branch в текущую ветку
-```
-$ git merge branch
+$ git merge branch # слить branch в текущую ветку
 ```
 посмотреть, с какими удаленными репозиториями связан локальный
 ```
