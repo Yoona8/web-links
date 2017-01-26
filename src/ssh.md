@@ -2,9 +2,16 @@
 
 ## Create a new key
 ```bash
-# генерация ключа
-$ ssh-keygen
+$ ssh-keygen # генерация ключа
+$ cat path/to/key/id_rsa.pub # просмотр содержимого ключа
+```
 
-# просмотр содержимого ключа
-$ cat path/to/key/id_rsa.pub
+## Connect
+```bash
+$ ssh username@host -p 8800
+$ exit # closes connection
+```
+
+```bash
+$ scp
 ```

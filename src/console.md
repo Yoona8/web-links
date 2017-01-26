@@ -22,7 +22,13 @@
 ## Commands
 
 ### General:
+- \ - символ экранирования
+- ctrl+a - начало строки
+- ctrl+e - конец строки
+- tar - работа с архивами
 ```bash
+$ open
+$ find
 $ [command] --help
 $ !! # runs last entered command
 $ set -o # to check terminal settings

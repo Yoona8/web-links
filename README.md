@@ -117,6 +117,11 @@
 - Новая большая книга CSS (CSS: The Missing Manual) Дэвид Сойер Макфарланд https://www.ozon.ru/context/detail/id/135731189/
 - Выразительный Javascript Marijn Haverbeke https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru/details
 - JavaScript для профессиональных веб-разработчиков Николас Закас Professional JavaScript for Web Developers http://www.ozon.ru/context/detail/id/31257038/
+- JS Эрик Майер (доделать)
+- JS сильные стороны Дуглас Крокфорд (с бабочкой) (уточнить)
+- JS шаблоны (с голубем) (уточнить)
+- JS (с носорогом) (уточнить)
+- Изучаем программирование на JS Фримен +HTML (уточнить)
 - Разработка веб-приложений с помощью PHP и MySQL PHP and MySQL Web Development Люк Веллинг, Лаура Томсон http://www.ozon.ru/context/detail/id/4538872/
 - Node.js в действии 	Майк Кантелон, Марк Хартер http://www.ozon.ru/context/detail/id/135464486/
 

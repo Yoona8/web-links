@@ -15,6 +15,20 @@
 
 ## Plugins
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify)
+- gulp-load-plugins
+- gulp-sass
+- gulp-csso
+- gulp-sourcemaps
+- gulp-notify
+- gulp-autoprefixer
+- gulp-if
+- gulp-uglify
+- gulp-minify-css
+- gulp-useref
+- gulp-sftp
+
+## Tips
+- Deploy - очистка сборки, отправка на хостинг
 
 ## Installation
 1. [node.js + npm](https://nodejs.org/en/)
@@ -84,4 +98,9 @@ gulp.task('copy:imgs', function() {
   return gulp.src('app/imgs/*.*')
     .pipe(gulp.dest('dist/imgs'));
 });
+```
+
+## How to work
+```bash
+$ gulp --tasks
 ```
