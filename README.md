@@ -10,6 +10,7 @@
 - [Node.js and npm](./src/nodejs.md)
 - [Svg](./src/svg.md)
 - [BEM](./src/bem.md)
+- [JavaScript](.src/js.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
