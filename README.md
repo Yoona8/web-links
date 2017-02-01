@@ -127,7 +127,6 @@
 
 ## Video Lessons
 - Создание адаптивных сайтов https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
-- Основы javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX
 - Основы jQuery https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
 - jQuery plugins https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS
 - Продвинутый javascript https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg
