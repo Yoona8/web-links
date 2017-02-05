@@ -13,6 +13,14 @@
 - [Mistakes handler async-done](https://github.com/gulpjs/async-done)
 - [Gulp lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
 
+- https://www.npmjs.com/package/gulp-rename
+- https://www.npmjs.com/package/del
+- https://www.npmjs.com/package/css-mqpacker
+- https://www.npmjs.com/package/gulp-csso
+- https://www.npmjs.com/package/gulp-svgmin
+- https://www.npmjs.com/package/gulp-svgstore
+- https://www.npmjs.com/package/gulp-imagemin
+
 ## Plugins
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify)
 - gulp-load-plugins

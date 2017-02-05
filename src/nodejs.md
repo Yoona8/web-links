@@ -6,6 +6,8 @@
 - [Nvm for Windows](https://canonium.com/articles/managing-node-versions-with-windows-nvm)
 - [How to update Node with nvm](https://github.com/tj/n)
 - [REPL API](https://nodejs.org/api/repl.html)
+- https://htmlacademy.ru/blog/87-installing-nodejs
+- https://htmlacademy.ru/blog/88-useful-commands-for-working-with-nodejs
 
 ## Catalog and version
 ```bash

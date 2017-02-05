@@ -7,6 +7,9 @@
 - [25 shortcuts on habr](https://geektimes.ru/post/140060/)
 - [Photoshop video lessons](http://uchinovoe.ru/playlists/rabota-v-adobe-photoshop)
 - [Avocode](https://habrahabr.ru/post/231381/)
+- https://htmlacademy.ru/blog/51-photoshop-for-the-coders
+- https://github.com/nicothin/web-design
+- https://godesigner.ru/posts/view/175
 
 ## Settings
 - Edit > Color settings (Shift + Ctrl + K):

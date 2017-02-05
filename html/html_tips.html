@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<!-- главная сетка сайта делается в основном при помощи CSS и только частично с помощью html, используются только фрекс-боксы
+и дисплей элементы, флоаты в том числе, только не используются элементы позиционировния
+1 - делаем ли карты интерактивной или нет
+2 - фоновые изображения как изменяются?
+3 - запросить файл стилизаиции
+4 - центрировать менюшку
+3 - отцентровать новым контрейнером весь контент страницуы
+4 - убрать цветные блоки на страницы
+5 - добавить форму отправки и закоммитить, сверстать слайдер для едоны и глейси -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="разные, ключевые, слова"> <!-- тэг для поисковика -->
+    <meta name="description" content="краткое описание"> <!-- тэг для поисковика -->
+    <title>HTML tips</title>
+    <style> /* CSS code */ </style>
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <!-- простые теги редактирования текста -->
+    <h1></h1> <!-- заголовок 1 уровня, всего их 1-6 -->
+    <p></p> <!-- абзац -->
+    <em></em> <!-- особый акцент, меняющий смысл предложения -->
+    <i></i> <!-- отличается, но не является более важным (названия, термины, иностанные слова) -->
+    <strong></strong> <!-- важность -->
+    <b></b> <!-- выделение без придания особой важности -->
+    <sup></sup> <!-- верхний индекс -->
+    <sub></sub> <!-- нижний индекс -->
+    <del datetime="2016-01-01">купили</del> <!-- datetime для компа! текст, удаленный в новой версии документа -->
+    <ins datetime="2016-01-01">добавили в список</ins> <!-- добавленный в новой версии документа -->
+    <pre></pre> <!-- так, как в редакторе, часто для отображения примеров кода -->
+    <mark></mark> <!-- выделяем маркером -->
+    <span></span> <!-- просто текстовый блок, нужен для создания стиля -->
+
+    <!-- ссылки, изображения, кнопки (графика) -->
+    <a href="" title="всплывающая подсказка"></a> <!-- абсолютная: https:// - протокол, htmlacademy.ru - имя сервера = домен = хост
+    /courses - путь (укороченный: /courses)
+    относительная: courses/1 (введем 2, получим courses/2) (путь не начинается со слэша), ./courses, ../../run/1
+    на файл (в т.ч. img): либо предложит скачать, если умеет, то откроет
+    с якорем: #ggg перейдет к id="ggg", можно использовать и в абсолютных адресах -->
+    <img src="" width="" height="" alt="альтернативный текст"> <!-- высоту в % не задают, только ширину -->
+    <a href=""> <!-- изображение-ссылка -->
+      <img src="cat.png" alt="Кекс">
+    </a>
+
+    <!-- списки -->
+    <ul> <!-- неупорядоченный список -->
+      <li></li>
+    </ul>
+    <ol start="2"> <!-- упорядоченный список -->
+      <li>
+        <ul> <!-- многоуровневые списки оформляются так -->
+          <li></li>
+        </ul>
+      </li>
+      <li></li>
+    </ol>
+    <dl> <!-- список определений -->
+      <dt>Термин</dt>
+      <dd>Определение</dd>
+    </dl>
+
+    <!-- разметка меню -->
+    <ul class="main-menu">
+      <li>
+        <ul>
+          <li></li>
+          <li></li>
+        </ul>
+      </li>
+      <li></li>
+    </ul>
+
+    <!-- переносы и разделители -->
+    <br> <!-- перенос (песни, стихи) -->
+    <hr> <!-- горизонтальная линия-разделитель -->
+
+    <!-- цитаты -->
+    <blockquote></blockquote> <!-- длинные на несколько абзацев -->
+    <q></q> <!-- короткие цитаты внутри предложений -->
+    <cite></cite> <!-- источник цитаты, автор или произведение -->
+
+    <!-- таблицы -->
+    <table border="1" cellpadding="" cellspacing=""> <!-- border, cellpadding, cellspacing лучше через CSS -->
+      <caption>Заголовок таблицы</caption> <!-- заголовочный тег таблицы всегда идет первым -->
+      <tr> <!-- table row, для нее можно задавать только цвет -->
+        <td colspan="2"></td> <!-- table data ячейка в строке таблицы -->
+        <th rowspan="2"></th> <!-- table header, colspan по горизонтали, rowspan по вертикали -->
+      </tr>
+    </table>
+
+    <!-- формы -->
+    <form action="https://where-to-send.ru" method="get/post"> <!-- get (видны в адресе https://www.google.com/search?q=htmlacademy)
+    для поисковика, ссылка нужна, можно передать другому человеку, post посылает данные в теле HTTP-запроса, нужно отправить много данных,
+    ссылка на результат обработки этих данных не нужна, пример - личный профиль -->
+      <fieldset>
+        <legend></legend> <!-- заголовок группы элементов формы -->
+      </fieldset> <!-- группирует элементы формы -->
+      <label>
+        <input id="id-unique" type="text" name="search" value="значение-по-умолчанию"> Подпись к полю
+        <!-- name - для правильной обработатки данных на сервере, обычно поля должно быть уникальным в пределах формы, но есть исключения
+        id отличный от name, не передаётся на сервер -->
+      </label>
+      <label for="id-unique1">Поле ввода пароля</label>
+      <input id="id-unique1" type="password" name="pass" value="значение-по-умолчанию">
+      <input type="checkbox" name="multiplechoise" checked> <!-- да - браузер посылает данные на сервер, нет - ничего не посылает; если несколько
+      чекбоксов, должны быть разные name -->
+      <input type="radio" name="onechoise" value="выбор" checked> <!-- одинаковое name и разное value (отправится на сервер) -->
+      <input type="file" name="downloadfile"> <!-- name обязателен, enctype="multipart/form-data" добавить в form -->
+      <input type="hidden" name=""> <!-- нужно отправить какие-то доп служебные данные, не вводятся пользователем, пример: реквизиты заказа,
+      номер пользователя в форме оплаты. -->
+      <textarea id="uni" name="area" rows="2" cols="2">Значение по умолчанию, многострочное поле ввода</textarea> <!-- cols в символах,
+      value отсутствует -->
+      <select id="uniq" name="lala" size="1" multiple> <!-- раскрывающийся список, if multiple - несколько вариантов с Ctrl -->
+        <option value="light" selected>Светлый</option> <!-- value задан - отправится он, не задан - текст в теге -->
+        <option value="dark">Темный</option>
+      </select>
+      <input type="submit" value="Отправить"> <!-- имя необязательно, если задано, то на сервер будут отправляться имя и значение кнопки -->
+      <button type="submit">Отправить</button> <!-- новое оформление кнопки, лучше использовать его -->
+    </form>
+
+    <!-- сетка -->
+    <!-- блочная модель документа -->
+    <!-- Блочные: <p>, <h1>, <h2>, <ul>, <div> и т.д. - можно задать размеры (ширину и высоту) -->
+    <div></div> <!-- просто контейнер, прямоугольный блок, служит для создания сеток -->
+    <!-- Строчные: <a>, <strong>, <em>, <span> и т.д. - нельзя задать размеры (зависят только от содержания) -->
+    <!-- борьба с выпаданием флоатов, делаем распорку -->
+    <div class="clearfix"></div> <!-- распорка с clear:both -->
+    <nav></nav> <!-- основная навигация -->
+
+    <!-- Deciding Between <article>, <section>, or <div> Elements
+    At times it becomes fairly difficult to decide which element—<article>, <section>, or <div>—is the best element for the job based
+    on its semantic meaning. The trick here, as with every semantic decision, is to look at the content.
+    Both the <article> and <section> elements contribute to a document’s structure and help to outline a document. If the content
+    is being grouped solely for styling purposes and doesn’t provide value to the outline of a document, use the <div> element.
+    If the content adds to the document outline and it can be independently redistributed or syndicated, use the <article> element.
+    If the content adds to the document outline and represents a thematic group of content, use the <section> element. -->
+    <script> /* JavaScript-код */ </script> <!-- скрипты всегда лучше подключать в конце, чтобы не тормозить загрузку -->
+    <script src="scripts.js"></script> <!-- вариация для внешних скриптов -->
+
+    <!-- декоративные элементы -->
+    <!-- социальные кнопки: ссылки, по 2 класса; один класс общий - форма и размер кнопок, второй - фон и изображение соответствующей соцсети -->
+
+  </body>
+</html>

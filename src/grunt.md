@@ -1,0 +1,12 @@
+- http://frontender.info/a-beginners-guide-to-grunt-redux/
+- http://frontender.info/grunt-is-not-weird-and-hard/
+- http://frontender.info/a-beginners-guide-to-grunt-redux/
+- http://frontender.info/grunt-is-not-weird-and-hard/
+
+- https://www.npmjs.com/package/grunt-contrib-copy
+- https://www.npmjs.com/package/grunt-contrib-clean
+- https://www.npmjs.com/package/css-mqpacker
+- https://www.npmjs.com/package/grunt-csso
+- https://www.npmjs.com/package/grunt-svgmin
+- https://www.npmjs.com/package/grunt-svgstore
+- https://www.npmjs.com/package/grunt-contrib-imagemin

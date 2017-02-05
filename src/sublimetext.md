@@ -10,6 +10,7 @@
 - [Video (not only about Sublime Text)](https://www.youtube.com/watch?v=XolLCRNGCgw)
 - [Video by LoftSchool](http://loftblog.ru/material/sublime-text-2-sftp/)
 - [Themes (for all)](http://color-themes.com/?view=index)
+- http://nicothin.github.io/sublime-text/sublime-text-3-hotkeys.html
 
 ## Установка плагинов
 1. [Package Control](https://packagecontrol.io/)

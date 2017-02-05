@@ -4,12 +4,19 @@
 - [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Побитовые операторы](https://learn.javascript.ru/bitwise-operators)
 - [Учебник JS](https://learn.javascript.ru/)
+- [JDocs](http://usejsdoc.org/)
+- [JDocs (wiki)](https://en.wikipedia.org/wiki/JSDoc)
+- [Code style - idiomatic JS](https://github.com/rwaldron/idiomatic.js)
+
+## Проверка стиля кода
+- [JSLint](http://www.jslint.com/)
+- [JSHint](http://jshint.com/)
+- [Closure Linter](https://developers.google.com/closure/utilities/)
 
 ## Lessons
 1. Основы JavaScript (LoftBlog)
   - [2. Примитивные и объектные данные. Обертки.](https://www.youtube.com/watch?v=p-Ob8gEJBJs&index=2&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
   - [3. Statements, expressions, operators.](https://www.youtube.com/watch?v=hqozKP8pol8&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&index=3)
-  - [4. Условные и логические операторы](https://www.youtube.com/watch?v=ogmqkRFNmcE&index=4&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
   - [5. Числа](https://www.youtube.com/watch?v=IKddd9ZTwB4&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&index=5)
   - [6. Строки](https://www.youtube.com/watch?v=BTzuzSLsai8&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&index=6)
   - [7. Boolean, null, undefined.](https://www.youtube.com/watch?v=vyC1BTyh-E0&index=7&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)

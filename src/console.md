@@ -16,6 +16,12 @@
 - [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
 - [Command Line courses adv](https://learncodethehardway.org/unix/)
 
+- http://cmder.net/
+- https://htmlacademy.ru/blog/83-installing-the-console-on-windows
+- http://nicothin.pro/page/console-windows
+- https://htmlacademy.ru/blog/47-how-to-make-a-beautiful-console-for-mac-and-linux
+- https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md
+
 ## Hotkeys
 - Сtrl + K - to clear
 
