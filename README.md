@@ -12,6 +12,7 @@
 - [BEM](./src/bem.md)
 - [JavaScript](./src/js.md)
 - [Browsers](./src/browsers.md)
+- [C#](./src/csharp.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
