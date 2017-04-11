@@ -1,0 +1,44 @@
+# Visual Studio
+## Extensions (musts)
+- Custom Document Well
+- Multi Edit Mode
+- CSS Tools
+- File nesting
+- HTML snippet pack
+- HTML Tools
+- JS snippet pack
+- Package installer
+- Package security alert
+- Syntax highlight pack
+- Zen Coding
+- Trailing whitespace visualizer
+- Match margin
+- Viasfora
+- VS spell checker
+- Project file Tools
+- Razor language service
+
+## Extensions (optional)
+- Code alignment
+- Copy as HTML
+- Go To Definition
+- Fix mixed tabs
+- Add new file
+- Browser reload on save
+- Browser sync
+- Bundler and minify
+- Editor enhancements
+- File icons
+- Image sprites
+- Image optimizer
+- jQuery code snippets
+- Error visualizer
+- Time stamp margin
+- JS transpiler
+- Markdown Editor
+- Open command line
+- Vue.js pack
+- Web accessibility checker
+- Web compiler
+- Extensibility Tools
+- Snippet designer
