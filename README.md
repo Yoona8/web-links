@@ -13,6 +13,7 @@
 - [JavaScript](./src/js.md)
 - [Browsers](./src/browsers.md)
 - [C#](./src/csharp.md)
+- [Visual Studio](./src/vs.md)
 
 # Services
 - [Can I use](http://caniuse.com/)
