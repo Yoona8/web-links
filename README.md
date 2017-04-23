@@ -29,6 +29,7 @@
 
 ## Articles
 - [HTML+CSS Carousel](https://github.com/benschwarz/gallery-css#build-instructions)
+- [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 
 
 ## IDE, CR
