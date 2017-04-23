@@ -4,6 +4,7 @@
 - [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
 - [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
+- [Article: To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html) - следует ли закрывать одиночные тэги или нет
 - [Specification](https://www.w3.org/TR/html5/)
 
 ## Tips
