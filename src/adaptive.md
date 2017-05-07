@@ -1,6 +1,14 @@
-- http://www.lookatme.ru/mag/live/experience-news/209291-responsive
-- https://medium.com/swlh/the-joys-and-pains-of-type-on-screen-1dad8dd2eb09#.itt6wqc80
-- https://bradfrost.github.io/this-is-responsive/
+# Adaptive and responsive
+
+## Articles
+
+- [Do responsive sites have to be so tall on mobile?](https://www.viget.com/articles/do-responsive-sites-have-to-be-so-tall-on-mobile) - вариации на тему дизайна сайтов для мобильных устройств
+- [Основные принципы «отзывчивого» веб-дизайна](http://www.lookatme.ru/mag/live/experience-news/209291-responsive) - наглядно, в гифках
+- [The joys and pains of type on screen](https://medium.com/swlh/the-joys-and-pains-of-type-on-screen-1dad8dd2eb09#.itt6wqc80) - типографика для разных экранов
+
+## Services
+
+- [Responsive resources and patterns](https://bradfrost.github.io/this-is-responsive/) - занятный ресурс с кучей информации по отзывчивому дизайну
 - https://habrahabr.ru/company/yandex/blog/307064/
 - https://drafts.csswg.org/css-device-adapt/
 - http://www.beskrovnyy.com/verstka/skaz-o-dvux-vyuportax-chast-pervaya/
