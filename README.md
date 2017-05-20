@@ -158,3 +158,5 @@ To Read:
 - Reg hosting https://www.youtube.com/watch?v=GkQgwo_HwgU&list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K&index=7
 
 - Windows Virtual Academy https://mva.microsoft.com/training-topics/web-development?whr=uri:MicrosoftAccount&lng=en-US&countrycode=RU&channel=MVA#!lang=1033
+
+- http://www.ascii-code.com/
