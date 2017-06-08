@@ -1,17 +1,14 @@
-# CSS Links
-
+# CSS
+# Links
 ## Basics
-- [Usage](./css/usage.html)
-
+- [Usage](usage.html)
 ## Selectors
-- [Selectors basics](./css/selectors.css)
+- [Selectors basics](selectors.css)
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-
 ## Tips
-- [Font weight properties](./css/font-weight.md)
-
+- [Font weight properties](font-weight.md)
 ## O
 - [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css)
 - [SMACSS](https://smacss.com/)
@@ -53,7 +50,6 @@
 - https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/
 - https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd#.5o4xgukb7
 - http://codepen.io/ckor/full/cf2134280cd25e8ac7e57f1b05bb0b49/
-
 ## Other
 - Внутри флекса не работают float & inline-block
 - Псевдо-элементы по умолчанию строчные
