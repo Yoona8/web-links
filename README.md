@@ -160,3 +160,7 @@ To Read:
 - Windows Virtual Academy https://mva.microsoft.com/training-topics/web-development?whr=uri:MicrosoftAccount&lng=en-US&countrycode=RU&channel=MVA#!lang=1033
 
 - http://www.ascii-code.com/
+
+
+## Other
+- [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.com/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
