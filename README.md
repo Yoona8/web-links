@@ -1,10 +1,12 @@
 # Content
+- [Internet](./src/internet/internet.md)
+- [Graphic](./src/graphic/graphic.md)
 - [CSS](./src/css/css.md)
 - [Adaptive](./src/adaptive.md)
 - [Console](./src/console.md)
 - [Gulp](./src/gulp.md)
 - [PUG](./src/pug.md)
-- [Photoshop](./src/photoshop.md)
+- [Photoshop](src/photoshop/photoshop.md)
 - [Sublime Text 3](./src/sublimetext.md)
 - [PhpStorm](./src/phpstorm.md)
 - [Slack](./src/slack.md)
