@@ -44,6 +44,10 @@ anyselector:nth-last-of-type(an+b) {}
 anyselector:not(anyselector) {}
 
 /*Псевдоэлементы*/
+/*Находятся внутри контейнера, к которому вешаются*/
+/*Можно позиционировать*/
+/*::псевдоэлемент :псевдокласс*/
+/*нельзя примерять псевдоклассы (a:hover::after сработает на ссылку)*/
 anyselector::first-letter {}
 anyselector::first-line {}
 anyselector::before {

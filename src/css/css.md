@@ -1,14 +1,21 @@
 # CSS
-# Links
+
 ## Basics
 - [Usage](usage.html)
+
 ## Selectors
 - [Selectors basics](selectors.css)
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+
+## Layout
+- [Layout tips](layout.md)
+
 ## Tips
-- [Font weight properties](font-weight.md)
+- [Font weight properties](fonts.md)
+- [Order in complex properties](prop-order.md)
+
 ## O
 - [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css)
 - [SMACSS](https://smacss.com/)
