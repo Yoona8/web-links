@@ -17,7 +17,7 @@
 - [JavaScript](./src/js.md)
 - [Browsers](./src/browsers.md)
 - [C#](./src/csharp.md)
-- [Visual Studio](./src/vs.md)
+- [Visual Studio](src/vs/vs.md)
 - [MVC](src/mvc/mvc.md)
 
 # Services
