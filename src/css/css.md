@@ -1,24 +1,22 @@
-# CSS
-
-- [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
-- [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
+# HTML CSS SASS
+- [SASS basics](https://github.com/Nikkie8/SASS-basics)
 - [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
 - [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
 - [Article: To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html) - следует ли закрывать одиночные тэги или нет
 - [Specification](https://www.w3.org/TR/html5/)
 
-## Basics
+## HTML CSS Basics
 - [Usage](usage.html)
+- [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
+- [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
+- [HTML CSS patterns](https://github.com/Nikkie8/HTML-CSS-patterns)
 
 ## Selectors
 - [Selectors basics](selectors.css)
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-
-## Layout
-- [Layout tips](layout.md)
 
 ## Tips
 - [Font weight properties](fonts.md)
