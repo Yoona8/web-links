@@ -66,7 +66,9 @@
 - [.htaccess](./src/internet/htaccess.md)
 - [.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
 - [robots.txt](./src/internet/robots-txt.md)
-- [Browsers](./src/browsers.md)
+### Browsers
+- [Chrome: Extensions](src/browsers/chrome-extensions.md)
+- [Chrome: Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## IDE
 - [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
