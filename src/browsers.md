@@ -1,7 +1,5 @@
 # Browsers
-
 ## Chrome
-
 ### Extensions
 - Web Developer
 - SimpleExtManager
@@ -14,6 +12,5 @@
 - Data Saver
 - YSlow
 - Postman
-
 ### Links
 - [Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)

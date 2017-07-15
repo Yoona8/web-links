@@ -1,78 +1,150 @@
 # Content
-- [Internet](./src/internet/internet.md)
-- [Graphic](./src/graphic/graphic.md)
-- [HTML CSS](./src/css/css.md)
+
+## HTML CSS
+### Useful
+- [Font weight properties](./src/css/fonts.md)
+- [Order in complex properties](./src/css/prop-order.md)
+### Basics
+- [Usage](./src/css/usage.html)
+- [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
+- [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
+- [HTML CSS patterns](https://github.com/Nikkie8/HTML-CSS-patterns)
+- [Specification](https://www.w3.org/TR/html5/)
+- [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
+- [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
+- [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
+- [Article: To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html) - следует ли закрывать одиночные тэги или нет
+- [Selectors basics](./src/css/selectors.css)
+- [Selectors](https://learn.javascript.ru/css-selectors)
+- [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
+- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+### Flexbox
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+### PUG
+- [PUG](./src/pug.md)
+### Razor
+- [Useful tips](./src/razor/razor.md)
+### SASS
+- [SASS official](http://sass-lang.com/)
+- [SASS basics](https://github.com/Nikkie8/SASS-basics)
+### Methodologies
+- [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/#files)
+- [BEM](./src/bem.md)
+### Interesting
+- [HTML+CSS Carousel](https://github.com/benschwarz/gallery-css#build-instructions)
+- [Loaders](https://codepen.io/anon/pen/zZBBYM)
+- [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+
+## Adaptive and responsive
 - [Adaptive](./src/adaptive.md)
+
+## JavaScript, jQuery
+- [JavaScript](./src/js.md)
+
+## Node JS
+- [Node.js and npm](./src/nodejs.md)
+
+## C#
+- [C#](./src/csharp.md)
+
+## MVC
+- [Basics](./src/mvc/mvc-basics.md)
+- [Video lessons for beginners](https://www.youtube.com/playlist?list=PLY4rE9dstrJya20WfIeVLOuof4yQk8tC_)
+
+## Workflow
 - [Console](./src/console.md)
 - [Gulp](./src/gulp.md)
-- [PUG](./src/pug.md)
-- [Photoshop](src/photoshop/photoshop.md)
+- [Git](./src/git.md)
+
+## General
+- [Internet basics](./src/internet/internet-basics.md)
+- [Tips](./src/internet/internet-tips.md)
+- [DNS](./src/internet/dns.md)
+- [Web-стэк для запуска локального сервера](./src/internet/server-web-stack.md)
+- [Hostings and domains](./src/internet/hostings.md)
+- [.htaccess](./src/internet/htaccess.md)
+- [.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
+- [robots.txt](./src/internet/robots-txt.md)
+- [Browsers](./src/browsers.md)
+
+## IDE
+- [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 - [Sublime Text 3](./src/sublimetext.md)
 - [PhpStorm](./src/phpstorm.md)
-- [Slack](./src/slack.md)
-- [Git](./src/git.md)
-- [Node.js and npm](./src/nodejs.md)
-- [Svg](./src/svg.md)
-- [BEM](./src/bem.md)
-- [JavaScript](./src/js.md)
-- [Browsers](./src/browsers.md)
-- [C#](./src/csharp.md)
-- [Visual Studio](src/vs/vs.md)
-- [MVC](src/mvc/mvc.md)
-
-# Services
-- [Can I use](http://caniuse.com/)
-- [JS Fiddle](https://jsfiddle.net/)
-- [CodePen](http://codepen.io/)
-- [Favicon Generator](http://realfavicongenerator.net/)
-- [Font Generator](https://www.fontsquirrel.com/tools/webfont-generator)
-- [Web standarts](https://soundcloud.com/web-standards) - подкаст новостей frontend
-- http://frontender.info/a-baseline-for-front-end-developers/
-- http://frontender.info/estimating-a-front-end-web-dev-job/
-- [Background patterns](https://www.toptal.com/designers/subtlepatterns/page/2/)
-
-To Read:
-- [Что ожидать от собеседования на должность HMTL-Верстальщик/Junior frontend программист](https://medium.com/@ermo4enkov/%D1%87%D1%82%D0%BE-%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D1%82%D1%8C-%D0%BE%D1%82-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-hmtl-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D1%89%D0%B8%D0%BA-junior-frontend-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82-a916de106283#.nca97bsdp)
-
-## Articles
-- [HTML+CSS Carousel](https://github.com/benschwarz/gallery-css#build-instructions)
-- [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
-
-
-## IDE, CR
-- [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
-
-### Color themes
+- [Visual Studio: Hotkeys](./src/vs/vs-hotkeys.md)
+- [Visual Studio: Extensions](./src/vs/vs-extensions.md)
+- [Visual Studio: Debugging](./src/vs/vs-debugging.md)
+- [Visual Studio: Code snippets](./src/vs/vs-code-snippets.md)
+### Plugins
+- [ReSharper](./src/vs/resharper.md)
+### Themes
 - [Themes (for all)](http://color-themes.com/?view=index)
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
 - [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 
-### Atom
-- [Video by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL)
+## Graphic: images, fonts, etc
+- [Graphic basics](./src/graphic/graphic.md)
+### Soft
+- [Photoshop](src/photoshop/photoshop.md)
+- [Hotkeys](https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html)
+- [Photoshop for coders](http://xiper.net/learn/photoshop/)
+- [Photoshop for web-developer](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
+- [25 shortcuts on habr](https://geektimes.ru/post/140060/)
+- [Photoshop video lessons](http://uchinovoe.ru/playlists/rabota-v-adobe-photoshop)
+- [Avocode](https://habrahabr.ru/post/231381/)
+- https://htmlacademy.ru/blog/51-photoshop-for-the-coders
+- https://github.com/nicothin/web-design
+- https://godesigner.ru/posts/view/175
+### Templates
+- http://designscrazed.org/free-photoshop-psd-website-templates/
+- http://ru.365psd.com/
+- http://freebiesbug.com/psd-freebies/website-template/
+- http://blazrobar.com/free-psd-website-templates/
+- http://www.pixeden.com/psd-web-templates
+- http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/
+- https://vk.com/fuckdesigner
+- https://www.templatemonster.com/
+### Images
+- [Favicon Generator](http://realfavicongenerator.net/)
+- [Background patterns](https://www.toptal.com/designers/subtlepatterns/page/2/)
+### SVG
+- [Svg](./src/svg.md)
+- [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
+### Color
+- [Image to color palette](http://www.cssdrive.com/)
+- [Adobe color](https://color.adobe.com/)
+### Fonts
+- [Font Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 
-## Tools
-- https://color.adobe.com/ru/
+## Messengers
+- [Slack](./src/slack.md)
 
-## HTML + CSS
-- [From PSD to HTML+CSS by LoftSchool](https://www.youtube.com/watch?v=7gjxE_VEA_4&index=5&list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7)
+## Sandboxes
+- [JS Fiddle](https://jsfiddle.net/)
+- [CodePen](http://codepen.io/)
 
-## Markdown
+## Services
+- [Can I use](http://caniuse.com/)
+- [Yandex API](https://tech.yandex.ru/maps/doc/jsapi/2.1/quick-start/tasks/quick-start-docpage/)
+
+## News and updates
+### Audio
+- [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
+### Written
+- [CSS-live](http://css-live.ru/) - frontend articles
+### Video
+
+## Unsorted:
+- http://frontender.info/a-baseline-for-front-end-developers/
+- http://frontender.info/estimating-a-front-end-web-dev-job/
+- [Что ожидать от собеседования на должность HMTL-Верстальщик/Junior frontend программист](https://medium.com/@ermo4enkov/%D1%87%D1%82%D0%BE-%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D1%82%D1%8C-%D0%BE%D1%82-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-hmtl-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D1%89%D0%B8%D0%BA-junior-frontend-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82-a916de106283#.nca97bsdp)
 - [Markdown howto](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown language modes](http://codemirror.net/mode/)
-
-## Lists of links
 - https://github.com/ademaro/frontend-tips
-
-## Free Code Camp
 - https://github.com/FreeCodeCamp/FreeCodeCamp
-
-## Naming
 - https://github.com/yoksel/common-words
-
-## GitHub
 - https://htmlacademy.ru/blog/99-github-as-hosting
-
-## Other
 - What happens when... https://github.com/alex/what-happens-when
 - https://github.com/nicothin/web-design
 - https://github.com/necolas/idiomatic-css
@@ -81,17 +153,6 @@ To Read:
 - https://htmlacademy.ru/blog/48-how-to-register-domain
 - http://frontender.info/
 - http://informatics.mccme.ru/
-
-## PSD
-- http://designscrazed.org/free-photoshop-psd-website-templates/
-- http://ru.365psd.com/
-- http://freebiesbug.com/psd-freebies/website-template/
-- http://blazrobar.com/free-psd-website-templates/
-- http://www.pixeden.com/psd-web-templates
-- http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/
-- https://vk.com/fuckdesigner
-
-## Services
 - https://www.smashingmagazine.com/
 - https://css-tricks.com/
 - http://tympanus.net/codrops/
@@ -100,8 +161,6 @@ To Read:
 - https://addyosmani.com/
 - http://www.paulirish.com/blog/archives/
 - https://uptodate.frontendrescue.org/
-
-## Photostocks
 - https://unsplash.com/
 - http://littlevisuals.co/
 - http://join.deathtothestockphoto.com/
@@ -124,10 +183,7 @@ To Read:
 - http://pixabay.com/
 - http://moockup.me/
 - https://stocksnap.io/
-
-## Q & A
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Russian
-
 ## Books
 - Новая большая книга CSS (CSS: The Missing Manual) Дэвид Сойер Макфарланд https://www.ozon.ru/context/detail/id/135731189/
 - Выразительный Javascript Marijn Haverbeke https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru/details
@@ -139,7 +195,6 @@ To Read:
 - Изучаем программирование на JS Фримен +HTML (уточнить)
 - Разработка веб-приложений с помощью PHP и MySQL PHP and MySQL Web Development Люк Веллинг, Лаура Томсон http://www.ozon.ru/context/detail/id/4538872/
 - Node.js в действии 	Майк Кантелон, Марк Хартер http://www.ozon.ru/context/detail/id/135464486/
-
 ## Video Lessons
 - Создание адаптивных сайтов https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ
 - Основы jQuery https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S
@@ -154,18 +209,55 @@ To Read:
 - Видеоуроки - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K
 - Вебинары - Веб-разработка https://www.youtube.com/playlist?list=PLbZerpEHZ8s3b8dYFSdoD1zJxgNEBcdb7
 - Шаг за шагом создаём свой сайт-портфолио! https://www.youtube.com/playlist?list=PLbZerpEHZ8s0duDoFQmjICbZuUVvvbmls и исходники https://www.dropbox.com/sh/9v8kz1lijg07chv/AAB1_KcK592LVg9rXOZprAyga?dl=0
-
-
 - Path patterns https://github.com/isaacs/minimatch
 - Flows node.js https://nodejs.org/api/stream.html
 - Jade https://loftblog.ru/material/preprocessor-jade-ustanovka-i-bazovoe-ispolzovanie/
 - Register domen https://www.youtube.com/watch?v=ClUTfXplGWQ&list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K&index=6
 - Reg hosting https://www.youtube.com/watch?v=GkQgwo_HwgU&list=PLbZerpEHZ8s1THPB7mx6EyAZf8T4o526K&index=7
-
 - Windows Virtual Academy https://mva.microsoft.com/training-topics/web-development?whr=uri:MicrosoftAccount&lng=en-US&countrycode=RU&channel=MVA#!lang=1033
-
 - http://www.ascii-code.com/
-
-
-## Other
 - [The best Data Science courses on the internet, ranked by your reviews](https://medium.freecodecamp.com/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
+- [OOCSS](http://www.slideshare.net/stubbornella/object-oriented-css)
+- [SMACSS](https://smacss.com/)
+- [BEM](https://ru.bem.info/)
+- [Article: Meaningful CSS: Style Like You Mean It](http://alistapart.com/article/meaningful-css-style-like-you-mean-it)
+- [Article: Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
+- [Normalize](https://necolas.github.io/normalize.css/)
+- [Box-sizing](https://css-tricks.com/box-sizing/)
+- [Artivle: Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/)
+- [Article: Проблемы CSS. Часть 1](https://habrahabr.ru/post/189118/)
+- [Article: Проблемы CSS. Часть 2](https://habrahabr.ru/post/189252/)
+- [The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/
+- https://habrahabr.ru/post/136588/
+- https://css-tricks.com/all-about-floats/
+- https://htmlacademy.ru/blog/21-fighting-the-space-between-inline-block-elements
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- http://softwaremaniacs.org/blog/2005/09/05/css-layout-flow-margins/
+- http://codepen.io/carolineartz/full/ogVXZj/
+
+- http://frontender.info/a-guide-to-flexbox/
+- https://vimeo.com/67011034
+- https://pepelsbey.net/pres/flexbox-gotcha/
+- http://yoksel.github.io/flex-cheatsheet/
+- https://philipwalton.github.io/solved-by-flexbox/
+- https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/
+- http://codepen.io/enxaneta/full/adLPwv/
+- http://www.flexboxdefense.com/
+- http://flexboxfroggy.com/
+- http://flexboxin5.com/
+
+- http://frontender.info/starting-css/
+- http://frontender.info/organizing-your-css-code-for-preprocessors/
+- https://csswizardry.com/2016/02/mixins-better-for-performance/
+
+- http://frontender.info/a-guide-to-flexbox/
+- https://philipwalton.github.io/solved-by-flexbox/
+- https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/
+- https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd#.5o4xgukb7
+- http://codepen.io/ckor/full/cf2134280cd25e8ac7e57f1b05bb0b49/
+## Other
+- Внутри флекса не работают float & inline-block
+- Псевдо-элементы по умолчанию строчные
+- Чтобы прятать input можно использовать, например, opacity: 0;
