@@ -9,7 +9,7 @@
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
 - [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
 - [HTML CSS patterns](https://github.com/Nikkie8/HTML-CSS-patterns)
-- [Specification](https://www.w3.org/TR/html5/)
+- [CSS3](https://github.com/Nikkie8/css3)
 - [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
 - [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
@@ -18,6 +18,8 @@
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+### Official
+- [Specification](https://www.w3.org/TR/html5/)
 ### Flexbox
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
@@ -41,6 +43,8 @@
 
 ## JavaScript, jQuery
 - [JavaScript](./src/js.md)
+### Plugins
+- [Slick nav](http://slicknav.com/) - adaptive menu
 
 ## Node JS
 - [Node.js and npm](./src/nodejs.md)
@@ -113,6 +117,7 @@
 ### SVG
 - [Svg](./src/svg.md)
 - [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
+- [SVG + CSS](http://css.yoksel.ru/svg-decoration/)
 ### Color
 - [Image to color palette](http://www.cssdrive.com/)
 - [Adobe color](https://color.adobe.com/)
@@ -135,6 +140,7 @@
 - [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
 ### Written
 - [CSS-live](http://css-live.ru/) - frontend articles
+- [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
 ### Video
 
 ## Unsorted:
