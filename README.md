@@ -9,6 +9,7 @@
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
 - [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
 - [HTML CSS patterns](https://github.com/Nikkie8/HTML-CSS-patterns)
+- [HTML CSS hacks](https://github.com/Nikkie8/html-css-hacks)
 - [CSS3](https://github.com/Nikkie8/css3)
 - [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
@@ -142,6 +143,7 @@
 - [CSS-live](http://css-live.ru/) - frontend articles
 - [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
 ### Video
+- [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
 
 ## Unsorted:
 - http://frontender.info/a-baseline-for-front-end-developers/
