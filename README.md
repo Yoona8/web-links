@@ -46,6 +46,7 @@
 - [JavaScript](./src/js.md)
 ### Plugins
 - [Slick nav](http://slicknav.com/) - adaptive menu
+- [Dotdotdot](http://dotdotdot.frebsite.nl/) - add dots to blocks (with read more link and other features)
 
 ## Node JS
 - [Node.js and npm](./src/nodejs.md)
