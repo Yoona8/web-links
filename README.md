@@ -43,8 +43,9 @@
 - [Adaptive](./src/adaptive.md)
 
 ## JavaScript, jQuery
-- [Basics (learning with Udemy)](https://github.com/Nikkie8/JavaScript-basics)
-- [Basics (learning with LS)](https://github.com/Nikkie8/js-practice)
+- [Basics](https://github.com/Nikkie8/js-practice) - variables, operators, data types, functions, loops
+- [How it works](https://github.com/Nikkie8/JavaScript-how-it-works) - creation, execution (context, chain, stack), hoisting, scope
+- [DOM manipulation and events](https://github.com/Nikkie8/JavaScript-DOM)
 - [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Побитовые операторы](https://learn.javascript.ru/bitwise-operators)
 - [Учебник JS](https://learn.javascript.ru/)
@@ -178,6 +179,7 @@
 ### Written
 - [CSS-live](http://css-live.ru/) - frontend articles
 - [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
+- [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
 ### Video
 - [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
 
