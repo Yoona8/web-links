@@ -46,6 +46,7 @@
 - [Basics](https://github.com/Nikkie8/js-practice) - variables, operators, data types, functions, loops
 - [How it works](https://github.com/Nikkie8/JavaScript-how-it-works) - creation, execution (context, chain, stack), hoisting, scope
 - [DOM manipulation and events](https://github.com/Nikkie8/JavaScript-DOM)
+- [Objects and functions (advanced)](https://github.com/Nikkie8/JavaScript-advanced)
 - [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Побитовые операторы](https://learn.javascript.ru/bitwise-operators)
 - [Учебник JS](https://learn.javascript.ru/)
