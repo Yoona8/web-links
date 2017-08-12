@@ -152,7 +152,7 @@
 - https://www.templatemonster.com/
 ### Images
 - [Favicon Generator](http://realfavicongenerator.net/)
-- [Background patterns](https://www.toptal.com/designers/subtlepatterns/page/2/)
+- [Background patterns](https://www.toptal.com/designers/subtlepatterns/)
 ### SVG
 - [Svg](./src/svg.md)
 - [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
@@ -177,10 +177,12 @@
 ## News and updates
 ### Audio
 - [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
+- [Shop Talk Show](https://shoptalkshow.com/) - frontend podcast by Chris Coyier
 ### Written
 - [CSS-live](http://css-live.ru/) - frontend articles
 - [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
 - [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
+- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 ### Video
 - [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
 
