@@ -42,7 +42,7 @@
 ## Adaptive and responsive
 - [Adaptive](./src/adaptive.md)
 
-## JavaScript, jQuery
+## JavaScript
 - [Basics](https://github.com/Nikkie8/js-practice) - variables, operators, data types, functions, loops
 - [How it works](https://github.com/Nikkie8/JavaScript-how-it-works) - creation, execution (context, chain, stack), hoisting, scope
 - [DOM manipulation and events](https://github.com/Nikkie8/JavaScript-DOM)
@@ -53,6 +53,8 @@
 - [JDocs](http://usejsdoc.org/)
 - [JDocs (wiki)](https://en.wikipedia.org/wiki/JSDoc)
 - [Code style - idiomatic JS](https://github.com/rwaldron/idiomatic.js)
+### Projects
+- [Budget App](https://github.com/Nikkie8/JavaScript-budget-app)
 ### Проверка стиля кода
 - [JSLint](http://www.jslint.com/)
 - [JSHint](http://jshint.com/)
@@ -84,6 +86,8 @@
 ### Plugins
 - [Slick nav](http://slicknav.com/) - adaptive menu
 - [Dotdotdot](http://dotdotdot.frebsite.nl/) - add dots to blocks (with read more link and other features)
+
+## jQuery
 
 ## Node JS
 - [Node.js and npm](./src/nodejs.md)
