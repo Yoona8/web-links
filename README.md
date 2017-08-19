@@ -47,12 +47,15 @@
 - [How it works](https://github.com/Nikkie8/JavaScript-how-it-works) - creation, execution (context, chain, stack), hoisting, scope
 - [DOM manipulation and events](https://github.com/Nikkie8/JavaScript-DOM)
 - [Objects and functions (advanced)](https://github.com/Nikkie8/JavaScript-advanced)
+- [JavaScript ES6/ES2015](https://github.com/Nikkie8/JavaScript-ES6-ES2015)
 - [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Побитовые операторы](https://learn.javascript.ru/bitwise-operators)
 - [Учебник JS](https://learn.javascript.ru/)
 - [JDocs](http://usejsdoc.org/)
 - [JDocs (wiki)](https://en.wikipedia.org/wiki/JSDoc)
 - [Code style - idiomatic JS](https://github.com/rwaldron/idiomatic.js)
+### ES6/ES2015
+- [What's new? (tips and practice)](https://github.com/Nikkie8/JavaScript-ES6-ES2015)
 ### Projects
 - [Budget App](https://github.com/Nikkie8/JavaScript-budget-app)
 ### Проверка стиля кода
