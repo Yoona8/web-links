@@ -1,5 +1,19 @@
 # Content
 
+- [News and updates](#news-and-updates)
+
+## News and updates
+### Audio
+- [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
+- [Shop Talk Show](https://shoptalkshow.com/) - frontend podcast by Chris Coyier
+### Written
+- [CSS-live](http://css-live.ru/) - frontend articles
+- [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
+- [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
+- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+### Video
+- [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
+
 ## HTML CSS
 ### Useful
 - [Font weight properties](./src/css/fonts.md)
@@ -163,17 +177,6 @@
 - [Can I use](http://caniuse.com/)
 - [Yandex API](https://tech.yandex.ru/maps/doc/jsapi/2.1/quick-start/tasks/quick-start-docpage/)
 
-## News and updates
-### Audio
-- [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
-- [Shop Talk Show](https://shoptalkshow.com/) - frontend podcast by Chris Coyier
-### Written
-- [CSS-live](http://css-live.ru/) - frontend articles
-- [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
-- [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
-- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
-### Video
-- [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
 
 ## Unsorted:
 - http://frontender.info/a-baseline-for-front-end-developers/
