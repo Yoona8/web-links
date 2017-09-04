@@ -1,29 +1,27 @@
-#Графика
+#Graphics
+##Formats
+- JPEG - photos, backgrounds, pictures
+    - you can vary quality level
+    - can't be transparent
 
-##Форматы графики, используемые в верстке:
-- JPEG - фотографии, фоны, картинки
-    - можно задавать уровень качества
-    - не поддерживает прозрачность
+- PNG-8 - schemes, graphs, text, images (when not many colors, max = 256)
+    - like GIF (but PNG-8 is newer and free)
+    - full transparency
+    - picture looks 'bitten' without wrapper 
+    - if the background is complex, it'll look bad with wrapper
 
-- PNG-8 - схемы, чертежи, графики, текст, изображения (где мало цветов, max - 256)
-    - схож с GIF
-    - поддерживает полную прозрачность
-    - без обводки картинка будет выглядеть «обкусанной»
-    - если фон неоднородный, то с обводкой будет смотреться плохо
-    - более современный и свободный формат, а GIF более старый и проприетарный
-
-- PNG-24 - схемы, чертежи, графики, текст, сложные многоцветные изображения (практически неограниченное количество цветов)
-    - отличнейший формат, уступает JPEG по размеру файла, но превосходит по качеству изображения (иногда разница по размеру некритична, можно использовать PNG)
-    — полноценная поддержка полупрозрачности, которой нет ни в одном другом формате
-    - в веб-разработке при вёрстке сложных фонов, графических элементов со сложными тенями и так далее альтернативы PNG-24 нет
+- PNG-24 - schemes, graphs, text, complex images (full color scheme)
+    - good quality (but the weight is > JPEG)
+    — full transparency
+    - no alternative format
 
 - GIF 
-    - единственная причина использовать GIF - поддерживает анимированные изображения
-    - во всех остальных случаях PNG или JPEG
-    - пиксел либо прозначный, либо нет, всего 256 цветов
+    - the one and only reason to use GIF is animations
+    - otherwise use PNG or JPEG
+    - pixel either transparent or not, 256 colors
 
-## Спрайты
-- одно большое изображение, в котором содержится много маленьких
-- снизить количество запросов на сервер
-- объединяют иконки и различные мелкие декоративные изображения
-- НО! в HTTP2.0 лучше работают отдельные картинки
+##Sprites
+- one large image with many separate small images
+- used for less requests ro server
+- for icons and small decor
+- but as for HTTP2.0 - separate images are better
