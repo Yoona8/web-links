@@ -1,24 +1,38 @@
-# Content
-
+## Content
 - [News and updates](#news-and-updates)
+- [HTML CSS](#html-css)
+- [Adaptive and responsive](#adaptive-and-responsive)
+- [JavaScript](#javascript)
+- [jQuery](#jquery)
+- [TypeScript](#typescript)
+- [Node JS](#node-js)
+- [C#](#c#)
+- [MVC](#mvc)
+- [Workflow](#workflow)
+- [General](#general)
+- [IDE](#ide)
+- [Graphics](#graphic:-images,-fonts,-etc)
+- [Messengers](#messengers)
+- [Sandboxes](#sandboxes)
+- [Services](#services)
 
 ## News and updates
-### Audio
+#### Audio
 - [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
 - [Shop Talk Show](https://shoptalkshow.com/) - frontend podcast by Chris Coyier
-### Written
+#### Written
 - [CSS-live](http://css-live.ru/) - frontend articles
 - [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
 - [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
 - [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
-### Video
+#### Video
 - [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
 
 ## HTML CSS
-### Useful
+#### Useful
 - [Font weight properties](./src/css/fonts.md)
 - [Order in complex properties](./src/css/prop-order.md)
-### Basics
+#### Basics
 - [Usage](./src/css/usage.html)
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
 - [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
@@ -33,22 +47,22 @@
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-### Official
+#### Official
 - [Specification](https://www.w3.org/TR/html5/)
-### Flexbox
+#### Flexbox
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-### PUG
+#### PUG
 - [PUG](./src/pug.md)
-### Razor
+#### Razor
 - [Useful tips](./src/razor/razor.md)
-### SASS
+#### SASS
 - [SASS official](http://sass-lang.com/)
 - [SASS basics](https://github.com/Nikkie8/SASS-basics)
-### Methodologies
+#### Methodologies
 - [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/#files)
 - [BEM](./src/bem.md)
-### Interesting
+#### Interesting
 - [HTML+CSS Carousel](https://github.com/benschwarz/gallery-css#build-instructions)
 - [Loaders](https://codepen.io/anon/pen/zZBBYM)
 - [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
@@ -57,9 +71,9 @@
 - [Adaptive](./src/adaptive.md)
 
 ## JavaScript
-### Useful
+#### Useful
 - [Input Masking](https://css-tricks.com/input-masking/)
-### Basics
+#### Basics
 - [Basics](https://github.com/Nikkie8/js-practice) - variables, operators, data types, functions, loops
 - [How it works](https://github.com/Nikkie8/JavaScript-how-it-works) - creation, execution (context, chain, stack), hoisting, scope
 - [DOM manipulation and events](https://github.com/Nikkie8/JavaScript-DOM)
@@ -70,16 +84,17 @@
 - [JDocs](http://usejsdoc.org/)
 - [JDocs (wiki)](https://en.wikipedia.org/wiki/JSDoc)
 - [Code style - idiomatic JS](https://github.com/rwaldron/idiomatic.js)
-### ES6/ES2015
+#### ES6/ES2015
 - [What's new? (tips and practice)](https://github.com/Nikkie8/JavaScript-ES6-ES2015)
+- [ES6 Compatibility](http://kangax.github.io/compat-table/es6/)
 - [Babel](https://babeljs.io/) - babel-cli, babel-preset-env, babel-polyfill
-### Projects
+#### Projects
 - [Budget App](https://github.com/Nikkie8/JavaScript-budget-app)
-### Проверка стиля кода
+#### Проверка стиля кода
 - [JSLint](http://www.jslint.com/)
 - [JSHint](http://jshint.com/)
 - [Closure Linter](https://developers.google.com/closure/utilities/)
-### Plugins
+#### Plugins
 - [Slick nav](http://slicknav.com/) - adaptive menu
 - [Dotdotdot](http://dotdotdot.frebsite.nl/) - add dots to blocks (with read more link and other features)
 
@@ -87,6 +102,7 @@
 
 ## TypeScript
 - [Official website](https://www.typescriptlang.org/)
+- [tsconfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
 ## Node JS
 - [Node.js and npm](./src/nodejs.md)
@@ -112,7 +128,7 @@
 - [.htaccess](./src/internet/htaccess.md)
 - [.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
 - [robots.txt](./src/internet/robots-txt.md)
-### Browsers
+#### Browsers
 - [Chrome: Extensions](src/browsers/chrome-extensions.md)
 - [Chrome: Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
@@ -124,16 +140,16 @@
 - [Visual Studio: Extensions](./src/vs/vs-extensions.md)
 - [Visual Studio: Debugging](./src/vs/vs-debugging.md)
 - [Visual Studio: Code snippets](./src/vs/vs-code-snippets.md)
-### Plugins
+#### Plugins
 - [ReSharper](./src/vs/resharper.md)
-### Themes
+#### Themes
 - [Themes (for all)](http://color-themes.com/?view=index)
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
 - [JetBrains Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 
 ## Graphic: images, fonts, etc
 - [Graphic basics](./src/graphic/graphic.md)
-### Soft
+#### Soft
 - [Photoshop](src/photoshop/photoshop.md)
 - [Hotkeys](https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html)
 - [Photoshop for coders](http://xiper.net/learn/photoshop/)
@@ -144,7 +160,7 @@
 - https://htmlacademy.ru/blog/51-photoshop-for-the-coders
 - https://github.com/nicothin/web-design
 - https://godesigner.ru/posts/view/175
-### Templates
+#### Templates
 - http://designscrazed.org/free-photoshop-psd-website-templates/
 - http://ru.365psd.com/
 - http://freebiesbug.com/psd-freebies/website-template/
@@ -153,17 +169,17 @@
 - http://www.hongkiat.com/blog/really-beautiful-psd-web-templates/
 - https://vk.com/fuckdesigner
 - https://www.templatemonster.com/
-### Images
+#### Images
 - [Favicon Generator](http://realfavicongenerator.net/)
 - [Background patterns](https://www.toptal.com/designers/subtlepatterns/)
-### SVG
+#### SVG
 - [Svg](./src/svg.md)
 - [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 - [SVG + CSS](http://css.yoksel.ru/svg-decoration/)
-### Color
+#### Color
 - [Image to color palette](http://www.cssdrive.com/)
 - [Adobe color](https://color.adobe.com/)
-### Fonts
+#### Fonts
 - [Font Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 
 ## Messengers
