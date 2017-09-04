@@ -103,6 +103,7 @@
 ## TypeScript
 - [Official website](https://www.typescriptlang.org/)
 - [tsconfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+- [Tips from lessons](https://github.com/Nikkie8/TypeScript)
 
 ## Node JS
 - [Node.js and npm](./src/nodejs.md)

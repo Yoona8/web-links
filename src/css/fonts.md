@@ -1,4 +1,4 @@
-# Font-weight:
+# Font-weight
 - 100 = thin (hairline)
 - 200 = extra light (ultra light)
 - 300 = light
