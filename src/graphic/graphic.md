@@ -1,5 +1,5 @@
-#Graphics
-##Formats
+# Graphics
+## Formats
 - JPEG - photos, backgrounds, pictures
     - you can vary quality level
     - can't be transparent
@@ -15,8 +15,8 @@
 - GIF 
     - the one and only reason to use GIF is animations
     - otherwise use PNG or JPEG
-    - pixel either transparent or not, 256 colors
-##Sprites
+    - pixel either transparent or not, 256 colors****
+## Sprites
 - one large image with many separate small images
 - used for less requests ro server
 - for icons and small decor
