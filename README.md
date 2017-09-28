@@ -32,6 +32,7 @@
 #### Useful
 - [Font weight properties](./src/css/fonts.md)
 - [Order in complex properties](./src/css/prop-order.md)
+- [Tips](./src/css/tips.md)
 #### Basics
 - [Usage](./src/css/usage.html)
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
