@@ -119,7 +119,21 @@
 ## Workflow
 - [Console](./src/console.md)
 - [Gulp](./src/gulp.md)
+### Git
 - [Git](./src/git.md)
+- https://git-scm.com/book/ru/v2
+- https://githowto.com/ru
+- http://firstaidgit.ru/#/
+- https://habrahabr.ru/company/Voximplant/blog/276695/
+- [Git lessons by LoftSchool](https://www.youtube.com/playlist?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
+- [Changing a remote's URL](https://help.github.com/articles/changing-a-remote-s-url/)
+- https://htmlacademy.ru/blog/81-git-and-github-glossary
+- https://htmlacademy.ru/blog/84-register-on-github-work-with-console
+- https://htmlacademy.ru/blog/86-useful-commands-for-working-with-git
+- https://github.com/nicothin/web-development/blob/master/git/readme.md
+- https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed
+- https://habrahabr.ru/company/Voximplant/blog/276695/
+- http://firstaidgit.ru/#/
 
 ## General
 - [Internet basics](./src/internet/internet-basics.md)
