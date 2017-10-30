@@ -27,6 +27,9 @@
 - [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 #### Video
 - [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
+#### Inspiration
+- https://www.behance.net/
+- https://dribbble.com/
 
 ## HTML CSS
 #### Useful
@@ -189,7 +192,7 @@
 - [Favicon Generator](http://realfavicongenerator.net/)
 - [Background patterns](https://www.toptal.com/designers/subtlepatterns/)
 #### SVG
-- [Svg](./src/svg.md)
+- [Svg](https://github.com/Nikkie8/svg)
 - [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 - [SVG + CSS](http://css.yoksel.ru/svg-decoration/)
 #### Color
