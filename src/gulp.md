@@ -55,7 +55,7 @@ $ npm i --save-dev gulp # -D
 gulp.src('app/**/*.*');
 gulp.src('app/**/*.html');
 gulp.src('app/imgs/*.{jpg,png}');
-gulp.src(['app/scss/*.scss', '!app/scss/_*.scss'])
+gulp.src([styles, styles])
 ```
 2. Destination
 ```javascript
