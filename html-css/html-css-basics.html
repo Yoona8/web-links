@@ -13,7 +13,7 @@
 <body>
 <div class="wrapper">
     <aside class="sidebar">
-        <h1 class="page-title">HTML CSS</h1>
+        <h1 class="page-title">Markup</h1>
         <nav class="menu">
             <h2 class="menu__title">Basics</h2>
             <ul class="menu__list">
@@ -21,12 +21,13 @@
                 <li class="menu__item"><a href="#links">Links</a></li>
                 <li class="menu__item"><a href="#images">Images</a></li>
                 <li class="menu__item"><a href="#lists">Lists</a></li>
+                <li class="menu__item"><a href="#selectors">Selectors</a></li>
             </ul>
             <a class="link link--light link--to-index" href="../index.html">To index</a>
         </nav>
     </aside>
     <main class="main">
-        <h2 class="title">HTML CSS: Basics</h2>
+        <h2 class="title">Markup: Basics</h2>
         <section class="content">
             <h3 class="content__title" id="basic-structure">Basic structure</h3>
             <p class="content__text">
@@ -73,6 +74,69 @@
                 <li><a href="https://www.w3schools.com/tags/tag_ol.asp">Ordered</a></li>
                 <li><a href="https://www.w3schools.com/tags/tag_li.asp">List item</a> for ordered and unordered</li>
                 <li><a href="https://www.w3schools.com/tags/tag_dl.asp">Description</a> <code>&lt;dl&gt;</code> for list initialization <code>&lt;dt&gt;</code> defines terms/names <code>&lt;dd&gt;</code> describes each term/name</li>
+            </ul>
+        </section>
+        <section class="content">
+            <h3 class="content__title" id="selectors">Selectors</h3>
+            <h4 class="content__sub-title">Multifunctional</h4>
+            <ul>
+                <li><code>* {}</code> all elements</li>
+                <li><code>p + a {}</code> siblings (after)</li>
+                <li><code>p ~ a {}</code> all a after p</li>
+                <li><code>p > a {}</code> all children a of parent p</li>
+            </ul>
+            <h4 class="content__sub-title">Attributes</h4>
+            <ul>
+                <li><code>p[attr] {}</code></li>
+                <li><code>p[attr="smth"] {}</code></li>
+                <li><code>p[attr$="smth"] {}</code> ends with 'smth'</li>
+                <li><code>p[attr^="smth"] {}</code> begins with 'smth'</li>
+                <li><code>p[attr*="smth"] {}</code> contains 'smth'</li>
+                <li><code>p[attr~="smth"] {}</code> contains a separate word 'smth'</li>
+                <li><code>p[attr|="smth"] {}</code> - and 'smth'</li>
+            </ul>
+            <h4 class="content__sub-title">Link's pseudo-classes</h4>
+            <ul>
+                <li><code>a:link {}</code> unvisited, always first</li>
+                <li><code>a:visited {}</code> always second</li>
+                <li><code>anyselector:hover {}</code> always third</li>
+                <li><code>anyselector:active {}</code> always forth</li>
+                <li><code>anyselector:target {}</code> on link's anchor target</li>
+            </ul>
+            <h4 class="content__sub-title">Pseudo-classes by count</h4>
+            <p>Counts all parent's selectors</p>
+            <ul>
+                <li><code>anyselector:first-child {}</code></li>
+                <li><code>anyselector:last-child {}</code></li>
+                <li><code>anyselector:only-child {}</code></li>
+                <li><code>anyselector:nth-child(even) {}</code></li>
+                <li><code>anyselector:nth-child(odd) {}</code></li>
+                <li><code>anyselector:nth-child(2) {}</code></li>
+                <li><code>anyselector:nth-child(an+b) {}</code> a = repeats for n, b = start point</li>
+                <li><code>anyselector:nth-last-child(an+b) {}</code> counts from last</li>
+                <li><code>anyselector:nth-child(odd) {}</code></li>
+                <li><code>anyselector:nth-child(odd) {}</code></li>
+                <li><code>anyselector:nth-child(odd) {}</code></li>
+            </ul>
+            <p>Counts only same parent's selectors</p>
+            <ul>
+                <li><code>anyselector:only-of-type {}</code></li>
+                <li><code>anyselector:nth-of-type(even) {}</code></li>
+                <li><code>anyselector:nth-of-type(odd) {}</code></li>
+                <li><code>anyselector:nth-of-type(3) {}</code></li>
+                <li><code>anyselector:nth-of-type(an+b) {}</code></li>
+                <li><code>anyselector:nth-last-of-type(an+b) {}</code></li>
+            </ul>
+            <h4 class="content__sub-title">:not pseudo-class</h4>
+            <ul>
+                <li><code>anyselector:not(anyselector) {}</code></li>
+            </ul>
+            <h4 class="content__sub-title">Pseudo-elements</h4>
+            <p>Always inside the container, can't use on pseudo-classes</p>
+            <ul>
+                <li><code>anyselector::first-letter {}</code></li>
+                <li><code>anyselector::before { content: '' }</code></li>
+                <li><code>anyselector::after { content: '' }</code></li>
             </ul>
         </section>
     </main>

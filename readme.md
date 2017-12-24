@@ -1,19 +1,5 @@
 ## Content
 Demo: https://nikkie8.github.io/web-links/
-- [Adaptive and responsive](#adaptive-and-responsive)
-- [JavaScript](#javascript)
-- [jQuery](#jquery)
-- [TypeScript](#typescript)
-- [Node JS](#node-js)
-- [C#](#c)
-- [MVC](#mvc)
-- [Workflow](#workflow)
-- [General](#general)
-- [IDE](#ide)
-- [Graphics](#graphic-images-fonts-etc)
-- [Messengers](#messengers)
-- [Sandboxes](#sandboxes)
-- [Services](#services)
 
 ## HTML CSS
 #### Basics
@@ -27,7 +13,6 @@ Demo: https://nikkie8.github.io/web-links/
 - [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
 - [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
 - [Article: To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html) - следует ли закрывать одиночные тэги или нет
-- [Selectors basics](./src/css/selectors.css)
 - [Selectors](https://learn.javascript.ru/css-selectors)
 - [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
