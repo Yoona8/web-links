@@ -1,7 +1,5 @@
 ## Content
-Demo: https://nikkie8.github.io/web-links/index.html
-- [News and updates](#news-and-updates)
-- [HTML CSS](#html-css)
+Demo: https://nikkie8.github.io/web-links/
 - [Adaptive and responsive](#adaptive-and-responsive)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
@@ -17,26 +15,7 @@ Demo: https://nikkie8.github.io/web-links/index.html
 - [Sandboxes](#sandboxes)
 - [Services](#services)
 
-## News and updates
-#### Audio
-- [Web standards](https://soundcloud.com/web-standards) - подкаст новостей frontend
-- [Shop Talk Show](https://shoptalkshow.com/) - frontend podcast by Chris Coyier
-#### Written
-- [CSS-live](http://css-live.ru/) - frontend articles
-- [Про CSS](http://css.yoksel.ru/) - блог в основном про фичи на CSS, очень много статей про SVG+CSS
-- [Coding Heroes](https://codingheroes.io/resources/) - много информации по frontend
-- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
-#### Video
-- [Master CSS](https://www.youtube.com/user/TheSWAT727) - анимации и прочие полезности на CSS
-#### Inspiration
-- https://www.behance.net/
-- https://dribbble.com/
-
 ## HTML CSS
-#### Useful
-- [Font weight properties](./src/css/fonts.md)
-- [Order in complex properties](./src/css/prop-order.md)
-- [Tips](./src/css/tips.md)
 #### Basics
 - [Usage](./src/css/usage.html)
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
