@@ -101,10 +101,6 @@ Demo: https://nikkie8.github.io/web-links/
 ## IDE
 - [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 - [PhpStorm](./src/phpstorm.md)
-- [Visual Studio: Extensions](./src/vs/vs-extensions.md)
-- [Visual Studio: Code snippets](./src/vs/vs-code-snippets.md)
-#### Plugins
-- [ReSharper](./src/vs/resharper.md)
 #### Themes
 - [Themes (for all)](http://color-themes.com/?view=index)
 - [Themes for PhpStorm](http://www.phpstorm-themes.com/)
