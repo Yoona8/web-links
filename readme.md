@@ -101,9 +101,7 @@ Demo: https://nikkie8.github.io/web-links/
 ## IDE
 - [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
 - [PhpStorm](./src/phpstorm.md)
-- [Visual Studio: Hotkeys](./src/vs/vs-hotkeys.md)
 - [Visual Studio: Extensions](./src/vs/vs-extensions.md)
-- [Visual Studio: Debugging](./src/vs/vs-debugging.md)
 - [Visual Studio: Code snippets](./src/vs/vs-code-snippets.md)
 #### Plugins
 - [ReSharper](./src/vs/resharper.md)

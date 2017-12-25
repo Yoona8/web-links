@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Web tips</title>
+    <link href="https://fonts.googleapis.com/css?family=Amaranth" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="../content/styles/normalize.css">
+    <link rel="stylesheet" href="../content/styles/style.css">
+</head>
+<body>
+<div class="wrapper">
+    <aside class="sidebar">
+        <h1 class="page-title">Workflow</h1>
+        <nav class="menu">
+            <h2 class="menu__title">IDEs</h2>
+            <ul class="menu__list">
+                <li class="menu__item"><a href="#vs">Visual Studio</a></li>
+            </ul>
+            <a class="link link--light link--to-index" href="../index.html">To index</a>
+        </nav>
+    </aside>
+    <main class="main">
+        <h2 class="title">Workflow: IDEs</h2>
+        <section class="content">
+            <h3 class="content__title" id="vs">Visual Studio</h3>
+            <ul>
+                <li><a href="#hotkeys">Hot Keys</a></li>
+                <li><a href="#debugging">Running and debugging</a></li>
+                <li><a href="#extensions">Extensions</a></li>
+                <li><a href="#code-snippets">Code snippets</a></li>
+                <li><a href="#resharper">Resharper</a></li>
+            </ul>
+            <h4 class="content__sub-title" id="hotkeys">Hot Keys</h4>
+            <h5 class="content__block-title">Text</h5>
+            <ul>
+                <li><code>Ctrl (⌘ + ⌃)</code> to move the cursor one word at a time</li>
+                <li><code>End (fn + →)</code> to move the cursor to the end of the line</li>
+                <li><code>Home (fn + ←)</code> to move the cursor to the beginning of the line</li>
+                <li><code>Page Down (fn + ↑)</code> to scroll down</li>
+                <li><code>Page Up (fn + ↓)</code> to scroll up</li>
+                <li><code>Ctrl + Home (fn + ⌃ + ←)</code> to jump to the beginning of the file</li>
+                <li><code>Ctrl + End (fn + ⌃ + →)</code> to jump to the end of the file</li>
+                <li><code>Shift + above commands</code> activates selection</li>
+                <li><code>Ctrl + Backspace</code></li>
+                <li><code>Ctrl + Del</code></li>
+                <li><code>Ctrl + L</code> to delete current line</li>
+            </ul>
+            <h5 class="content__block-title">Commenting code</h5>
+            <ul>
+                <li><code>Ctrl + K, Ctrl + C</code> to comment</li>
+                <li><code>Ctrl + K, Ctrl + U</code> to remove comment</li>
+            </ul>
+            <h5 class="content__block-title">Bookmarks</h5>
+            <ul>
+                <li><code>Ctrl + K, Ctrl + K</code> to toggle bookmark</li>
+                <li><code>Ctrl + W, B</code> to view the bookmarks window</li>
+            </ul>
+            <h5 class="content__block-title">Expanding / Collapsing</h5>
+            <ul>
+                <li><code>Ctrl + M, Ctrl + M</code> to expand / collapse code block</li>
+            </ul>
+            <h5 class="content__block-title">Tabs and windows</h5>
+            <ul>
+                <li><code>Ctrl + Tab</code> to cycle through the open tabs</li>
+                <li><code>Ctrl + Shift + Tab</code> to reverse cycle</li>
+                <li><code>Ctrl + F6</code> to go to the next tab</li>
+                <li><code>Ctrl + Shift + F6</code> to go to the previous tab</li>
+                <li><code>Ctrl + F4</code> to close the current tab</li>
+                <li><code>Alt + W + L</code> to close all the open tabs</li>
+                <li><code>Ctrl + ,</code> to open the navigate dialog</li>
+                <li><code>Shift + Alt + Enter</code> to toggle the full screen mode</li>
+            </ul>
+            <h5 class="content__block-title">Find and replace</h5>
+            <ul>
+                <li><code>Ctrl + F</code> to display the find dialog</li>
+                <li><code>Ctrl + Shift + F</code> to display the find in files dialog</li>
+                <li><code>F3</code> to find the next occurrence of the search text</li>
+                <li><code>Shift + F3</code> to find the previous occurrence</li>
+                <li><code>Ctrl + H</code> to display the replace dialog</li>
+                <li><code>Alt + R</code> to replace the currently selected occurrence</li>
+                <li><code>Alt + A</code> to replace all occurrences of the search text</li>
+            </ul>
+            <h5 class="content__block-title">Formatting code</h5>
+            <ul>
+                <li><code>Tab</code> to move the selection one tab to the right</li>
+                <li><code>Shift + Tab</code> to move the selection one tab to the left</li>
+                <li><code>Ctrl + K, Ctrl + F</code> to format the code</li>
+            </ul>
+            <h4 class="content__sub-title" id="debugging">Running and debugging</h4>
+            <h5 class="content__block-title">Hot Keys</h5>
+            <ul>
+                <li><code>Ctrl + Shift + B</code> to build the application without running it</li>
+                <li><code>Ctrl + F5</code> to run the application without debug</li>
+                <li><code>F5</code> to run the application in the debug mode, also to continue to the next breakpoint</li>
+                <li><code>Shift + F5</code> to stop the debugging session</li>
+                <li><code>Ctrl + Shift + F5</code> restart app after manipulations with breakpoints</li>
+                <li><code>F8</code> to cycle through the errors</li>
+                <li><code>F9</code> to add or remove a breakpoint</li>
+                <li><code>F10</code> to step over a method</li>
+                <li><code>F11</code> to step into a method</li>
+                <li><code>Shift + F11</code> to step out of a current method</li>
+            </ul>
+            <h5 class="content__block-title">Tips</h5>
+            <ul>
+                <li>Drag yellow arrow (current line) to return or move further and F10 again</li>
+                <li>When there are no errors till some point, add there another breakpoint</li>
+            </ul>
+            <h5 class="content__block-title">Watch window</h5>
+            <ul>
+                <li>Watch window for debug mode is a very useful tool (Debug => Windows => Watch => Watch 1)</li>
+                <li>We can put there variables, which we want to watch (instead of hovering it any time)</li>
+                <li>Red means that the value has just changed</li>
+            </ul>
+            <h5 class="content__block-title">Autos window</h5>
+            <ul>
+                <li>Works like a watch window, but with automatically selected variables, which we might need</li>
+            </ul>
+            <h5 class="content__block-title">Locals window</h5>
+            <ul>
+                <li>Same to Autos window, but doesn't show any variations (like Autos) - only vars from local scope</li>
+            </ul>
+            <h5 class="content__block-title">Breakpoints</h5>
+            <ul>
+                <li>We can use an option to delete all breakpoints</li>
+                <li>And also open a window with set breakpoints and remove from there</li>
+            </ul>
+            <h5 class="content__block-title">Call Stack Window</h5>
+            <ul>
+                <li>Shows what methods app called till the moment where we are now</li>
+            </ul>
+            <h4 class="content__sub-title" id="extensions">Extensions</h4>
+            <h4 class="content__sub-title" id="code-snippets">Code snippets</h4>
+            <h4 class="content__sub-title" id="resharper">Resharper</h4>
+        </section>
+    </main>
+    <footer class="footer"></footer>
+</div>
+</body>
+</html>
