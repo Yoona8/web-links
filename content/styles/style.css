@@ -22,6 +22,7 @@ h4 {
 
 .wrapper {
     display: flex;
+    min-height: 100%;
 }
 
 .sidebar {

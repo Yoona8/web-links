@@ -3,30 +3,14 @@ Demo: https://nikkie8.github.io/web-links/
 
 ## HTML CSS
 #### Basics
-- [Usage](./src/css/usage.html)
 - [HTML CSS basics](https://github.com/Nikkie8/HTML-CSS-basics)
 - [HTML CSS layout](https://github.com/Nikkie8/HTML-CSS-layout)
 - [HTML CSS patterns](https://github.com/Nikkie8/HTML-CSS-patterns)
 - [HTML CSS hacks](https://github.com/Nikkie8/html-css-hacks)
 - [CSS3](https://github.com/Nikkie8/css3)
-- [Article: The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
-- [Article: meta viewport. Как он работает?](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
-- [Article: Условные комментарии](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
-- [Article: To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html) - следует ли закрывать одиночные тэги или нет
-- [Selectors](https://learn.javascript.ru/css-selectors)
-- [Selectors weight](https://canonium.com/articles/css-understanding-weight-selectors)
-- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-#### Official
-- [Specification](https://www.w3.org/TR/html5/)
-#### Flexbox
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 #### PUG
 - [PUG](./src/pug.md)
-#### Razor
-- [Useful tips](./src/razor/razor.md)
 #### SASS
-- [SASS official](http://sass-lang.com/)
 - [SASS basics](https://github.com/Nikkie8/SASS-basics)
 #### Methodologies
 - [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/#files)
@@ -106,8 +90,6 @@ Demo: https://nikkie8.github.io/web-links/
 ## General
 - [Internet basics](./src/internet/internet-basics.md)
 - [Tips](./src/internet/internet-tips.md)
-- [DNS](./src/internet/dns.md)
-- [Web-стэк для запуска локального сервера](./src/internet/server-web-stack.md)
 - [Hostings and domains](./src/internet/hostings.md)
 - [.htaccess](./src/internet/htaccess.md)
 - [.htaccess](https://httpd.apache.org/docs/2.4/howto/htaccess.html)
@@ -118,7 +100,6 @@ Demo: https://nikkie8.github.io/web-links/
 
 ## IDE
 - [CR review](https://htmlacademy.ru/blog/40-editors-for-the-coders)
-- [Sublime Text 3](./src/sublimetext.md)
 - [PhpStorm](./src/phpstorm.md)
 - [Visual Studio: Hotkeys](./src/vs/vs-hotkeys.md)
 - [Visual Studio: Extensions](./src/vs/vs-extensions.md)
