@@ -1,0 +1,25 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Inspiration';
+    - var subTitle = 'Resources';
+    -
+        var data = {
+            'Audio': 'audio',
+            'Video': 'video',
+            'Written': 'written',
+            'Inspiration': 'inspiration',
+            'Templates': 'templates',
+            'Official Docs': 'official'
+        };
+block sidebarMenu
+    h2.menu__title= subTitle
+    ul.menu__list
+        each url, name in data
+            li.menu__item: a(href=`#${url}`)= name
+block content
+    h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['Audio'])= 'Audio'
+        ul
+            li #[a(href='https://soundcloud.com/web-standards') Web standards] подкаст новостей frontend
+            li #[a(href='https://shoptalkshow.com/') Shop Talk Show] frontend podcast by Chris Coyier

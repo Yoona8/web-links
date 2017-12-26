@@ -1,0 +1,105 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Content';
+    -
+        var data = {
+            news: {
+                title: 'News and inspiration',
+                links: {
+                    'Resources': 'news-resources.html',
+                    'Books': '#',
+                    'Lessons': '#'
+                }
+            },
+            markup: {
+                title: 'Markup',
+                links: {
+                    'Useful': 'markup-useful.html',
+                    'Basics': 'markup-basics.html',
+                    'HTML5': 'markup-html5.html',
+                    'CSS3': 'markup-css3.html',
+                    'Flexbox': 'markup-flexbox.html',
+                    'PUG': '#',
+                    'Razor': 'markup-razor.html',
+                    'SASS': '#',
+                    'BEM': '#',
+                    'Adaptive/responsive': '#'
+                }
+            },
+            js: {
+                title: 'JavaScript',
+                links: {
+                    'Useful': '#',
+                    'Basics': '#',
+                    'E6 / ES2015': '#',
+                    'Projects': '#',
+                    'Code checks': '#',
+                    'Plugins': '#'
+                }
+            },
+            jquery: {
+                title: 'jQuery',
+                links: {
+                    'Basics': '#'
+                }
+            },
+            ts: {
+                title: 'TypeScript',
+                links: {
+                    'Basics': '#'
+                }
+            },
+            nodejs: {
+                title: 'NodeJS',
+                links: {
+                    'Basics': '#'
+                }
+            },
+            cSharp: {
+                title: 'C#',
+                links: {
+                    'Basics': '#'
+                }
+            },
+            mvc: {
+                title: 'MVC',
+                links: {
+                    'Basics': '#'
+                }
+            },
+            workflow: {
+                title: 'Workflow',
+                links: {
+                    'Git': '#',
+                    'Internet': 'workflow-internet.html',
+                    'Browsers': 'workflow-browsers.html',
+                    'IDEs': 'workflow-ides.html',
+                    'Messengers': '#',
+                    'Sandboxes': '#',
+                    'Services': '#'
+                }
+            },
+            graphics: {
+                title: 'Graphics',
+                links: {
+                    'Soft': '#',
+                    'Templates': '#',
+                    'Images': '#',
+                    'SVG': '#',
+                    'Color': '#',
+                    'Fonts': '#'
+                }
+            }
+        };
+block sidebarMenu
+    each item in data
+        h2.menu__title= item.title
+        ul.menu__list
+            each url, name in item.links
+                li.menu__item: a(href=url)= name
+block content
+    h2.title #{pageTitle}: About
+    section.content
+        h3.content__title About
+        p I've created it to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I plan to fill it with new information at least once a week.
+        p This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
