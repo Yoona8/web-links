@@ -1,5 +1,5 @@
 ## Content
-Demo: https://nikkie8.github.io/web-links/
+Demo: https://nikkie8.github.io/web-links/dist/
 
 ## HTML CSS
 #### Basics
