@@ -7,6 +7,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var rename = require('gulp-rename');
 var autoprefixer = require('gulp-autoprefixer');
 var sass = require('gulp-sass');
+var clean = require('gulp-clean');
 var paths = {
     styles: './app/scss/',
     views: './app/views/',
@@ -15,6 +16,13 @@ var paths = {
 var settings = {
     browsers: 'last 5 versions'
 };
+
+gulp.task('default', ['styles', 'views']);
+
+gulp.task('clean', function () {
+    return gulp.src(paths.destination)
+        .pipe(clean());
+});
 
 gulp.task('views', function() {
     return gulp.src(paths.views + 'pages/**/*.pug')

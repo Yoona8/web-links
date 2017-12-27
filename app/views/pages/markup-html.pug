@@ -1,0 +1,33 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Markup';
+    - var subTitle = 'HTML5';
+    -
+        var data = {
+            'About html': 'about-html',
+            'Tips': 'tips'
+        };
+block sidebarMenu
+    h2.menu__title= subTitle
+    ul.menu__list
+        each url, name in data
+            li.menu__item: a(href=`#${url}`)= name
+block content
+    h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['About html']) About html
+        ul
+            li #[a(href='https://www.w3.org/TR/html5/') Specification]
+            li #[a(href='http://html5doctor.com/computer-says-no-to-html5-document-outline/') Computer says NO to HTML5 document outline] to read with comments
+            li #[a(href='https://www.youtube.com/watch?v=MWJKwn_gKR4') Жми сюда! - видео] и #[a(href='https://wsd.events/2016/06/25/pres/push-it/') презентация] about buttons and links
+            li #[a(href='https://events.yandex.ru/lib/talks/1520/') Семантика или смерть]
+            li #[a(href='https://www.youtube.com/watch?v=ssJsjGZE2sc') Людоедский интерфейс] must watch!
+            li #[a(href='https://github.com/yoksel/common-words') Слова, часто используемые в CSS-классах]
+            li #[a(href='http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html') To close or not to close] статья про одиночные тэги (закрывать или нет), для себя решила, что не закрывать
+            li #[a(href='http://html5doctor.com/i-b-em-strong-element/') The i, b, em, &amp; strong elements]
+    section.content
+        h3.content__title(id=data['Tips']) Tips
+        ul
+            li Don't forget to use different tags! There are not only divs and spans!
+            li It's a good practice to use #[code height] and #[code width] with images
+            li #[a(href='https://www.w3schools.com/tags/tag_ul.asp') Unordered] lists are often used for navigation, socials, list of news, etc. (#[a(href='https://www.youtube.com/watch?v=ssJsjGZE2sc') Людоедский интерфейс] в том числе об этом)
