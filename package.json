@@ -4,7 +4,8 @@
   "description": "Demo: https://nikkie8.github.io/web-links/",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "gulp-pug": "^3.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
-    "gulp-sourcemaps": "^2.6.2"
+    "gulp-sourcemaps": "^2.6.2",
+    "lite-server": "^2.3.0"
   }
 }

@@ -19,7 +19,32 @@ block sidebarMenu
 block content
     h2.title= `${pageTitle}: ${subTitle}`
     section.content
-        h3.content__title(id=data['Audio'])= 'Audio'
+        h3.content__title(id=data['Audio']) Audio
         ul
             li #[a(href='https://soundcloud.com/web-standards') Web standards] подкаст новостей frontend
             li #[a(href='https://shoptalkshow.com/') Shop Talk Show] frontend podcast by Chris Coyier
+        h3.content__title(id=data['Video']) Video
+        ul
+            li #[a(href='https://www.youtube.com/user/TheSWAT727') Master CSS] анимации и прочие полезности на CSS
+        h3.content__title(id=data['Written']) Written
+        ul
+            li #[a(href='http://css-live.ru/') CSS-live] frontend articles
+            li #[a(href='http://css.yoksel.ru/') Про CSS] блог в основном про фичи на CSS, очень много статей про SVG+CSS
+            li #[a(href='https://codingheroes.io/resources/') Coding Heroes] много информации по frontend
+            li #[a(href='https://frontendmasters.com/books/front-end-handbook/2017/') Frontend Developer Handbook]
+            li #[a(href='https://htmlacademy.ru/blog') Htmlacademy blog] mainly about frontend
+        h3.content__title(id=data['Inspiration']) Inspiration
+        ul
+            li #[a(href='https://www.behance.net/') Behance] different designs (not only web)
+            li #[a(href='https://dribbble.com/') Dribbble] so many different cool things
+            li #[a(href='http://getbootstrap.com/') Bootstrap] great example on how to organise your code
+        h3.content__title(id=data['Templates']) Templates
+        h3.content__title(id=data['Official Docs']) Official Docs
+        ul
+            li #[a(href='https://www.w3.org/TR/html5/') HTML Specification]
+            li #[a(href='https://nodejs.org/en/') NodeJS Official Website]
+            li #[a(href='https://www.jetbrains.com/') JetBrains Official Website]
+            li #[a(href='https://pugjs.org/api/getting-started.html') PUG Official Website]
+            li #[a(href='http://sass-lang.com/') SASS/SCSS Official Website]
+            li #[a(href='https://www.sketchapp.com/') Sketch Official Website]
+            li #[a(href='https://get.slack.help/hc/en-us') Slack Official Website]
