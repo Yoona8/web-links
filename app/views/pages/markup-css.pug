@@ -1,0 +1,43 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Markup';
+    - var subTitle = 'CSS';
+    -
+        var data = {
+            'About CSS': 'about-css',
+            'Fonts': 'fonts',
+            'Properties order': 'properties-order',
+            'Tips': 'tips'
+        };
+block sidebarMenu
+    h2.menu__title= subTitle
+    ul.menu__list
+        each url, name in data
+            li.menu__item: a(href=`#${url}`)= name
+block content
+    h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['About CSS']) About CSS
+        ul
+            li #[a(href='https://learn.javascript.ru/css-selectors') About different CSS selectors]
+            li #[a(href='https://canonium.com/articles/css-understanding-weight-selectors') Selector's weight]
+            li #[a(href='https://habrahabr.ru/post/150720/') Селектор обобщенных родственных элементов]
+    section.content
+        h3.content__title(id=data['Fonts']) Fonts
+        h4.content__sub-title Font weights
+        ul
+            li 100 = thin (hairline)
+            li 200 = extra light (ultra light)
+            li 300 = light
+            li 400 = normal
+            li 500 = medium
+            li 600 = semi bold (demi bold)
+            li 700 = bold
+            li 800 = extra bold (ultra bold)
+            li 900 = black (heavy)
+    section.content
+        h3.content__title(id=data['Properties order']) Complex properties order
+        p It is better to use separate properties in selectors, but the order has to be like in a complex one
+        ul
+            li font: style, variant, weight, size/line-height, family
+            li background: color, image, position/size, repeat, origin, clip, attach, initial|inherit

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amaranth">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;amp;subset=cyrillic">
+    <link rel="stylesheet" href="content/styles/style.min.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <aside class="sidebar">
+        <h1 class="page-title">Markup</h1>
+        <nav class="menu">
+          <h2 class="menu__title">Layout</h2>
+          <ul class="menu__list">
+            <li class="menu__item"><a href="#tips">Tips</a></li>
+            <li class="menu__item"><a href="#flexbox">Flexbox</a></li>
+            <li class="menu__item"><a href="#float">Float</a></li>
+          </ul><a class="link link--light link--to-index" href="index.html">To index</a>
+        </nav>
+      </aside>
+      <main class="main">
+        <h2 class="title">Markup: Layout</h2>
+        <section class="content">
+          <h3 class="content__title" id="tips">Tips</h3>
+          <ul>
+            <li>Для сеток используются grid и flex (float устарели, но иногда приходится поддерживать)</li>
+            <li>Flex также используется для интерфейсных элементов (в формах, например)</li>
+            <li>Вертикальные margin схлопываются (кроме flex)</li>
+            <li>Container - for sizes, settings</li>
+            <li>Wrapper - only for backgrounds</li>
+            <li>Add <code>min-width</code> to main blocks (header, footer, main, container) for content not to be cut on scroll or resize</li>
+            <li>Place popups before scripts at the end of a html, place overlay block next to popup</li>
+          </ul>
+        </section>
+        <section class="content">
+          <h3 class="content__title" id="flexbox">Flexbox</h3>
+          <ul>
+            <li>Вертикальные margin не схлопываются, поэтому лучше не использовать для оформления больших текстовых блоков</li>
+            <li>Лучше всегда явно задавать ширину, иначе результат может быть неожиданным</li>
+            <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
+            <li><a href="https://github.com/philipwalton/flexbugs#flexbugs">Flexbugs</a></li>
+          </ul>
+        </section>
+        <section class="content">
+          <h3 class="content__title" id="float">Float</h3>
+          <ul>
+            <li>Не забываем про частичное выпадание из потока флоатов (родитель схлопывается)</li>
+            <li>Задавать фиксированную ширину флоатам, иначе при переполнении контентом толкают друг друга на другую строку</li>
+          </ul>
+        </section>
+      </main>
+      <footer class="footer"></footer>
+    </div>
+  </body>
+</html>

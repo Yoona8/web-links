@@ -1,0 +1,32 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Workflow';
+    - var subTitle = 'Internet';
+    -
+        var data = {
+            'DNS': 'dns',
+            'Web-stack': 'stack'
+        };
+block sidebarMenu
+    h2.menu__title= subTitle
+    ul.menu__list
+        each url, name in data
+            li.menu__item: a(href=`#${url}`)= name
+block content
+    h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['DNS']) DNS
+        ul
+            li Slow
+            li Big
+            li Must be secure (complex realisation)
+            li 48 hours to wait
+            li Distributed, uses cash
+    section.content
+        h3.content__title(id=data['Web-stack']) Web-stack
+        ul
+            li LAMP - Linux, Apache, MySQL, PHP
+            li WAMP - Windows, Apache, MySQL, PHP
+            li MAMP - MacOS, Apache, MySQL, PHP
+            li WISA - Windows, IIS, MS SQL, .NET
+            li MARS - MySQL, Apache, Ruby, Solaris
