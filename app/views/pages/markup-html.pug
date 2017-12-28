@@ -4,8 +4,9 @@ block title
     - var subTitle = 'HTML5';
     -
         var data = {
-            'About html': 'about-html',
-            'Tips': 'tips'
+            'Materials': 'materials',
+            'General tips': 'tips',
+            'Checklist': 'checklist'
         };
 block sidebarMenu
     h2.menu__title= subTitle
@@ -31,3 +32,12 @@ block content
             li Don't forget to use different tags! There are not only divs and spans!
             li It's a good practice to use #[code height] and #[code width] with images
             li #[a(href='https://www.w3schools.com/tags/tag_ul.asp') Unordered] lists are often used for navigation, socials, list of news, etc. (#[a(href='https://www.youtube.com/watch?v=ssJsjGZE2sc') Людоедский интерфейс] в том числе об этом)
+    section.content
+        h3.content__title(id=data['Checklist']) Checklist
+        ul
+            li Only one CSS file inside #[code &lt;head&gt;]
+            li Links and buttons
+            li No inputs without form (except sliders)
+            li No inline elements for layout
+            li Careful with #[code &lt;br&gt;]
+            li Check on #[a(href='http://validator.w3.org/nu/') validity]
