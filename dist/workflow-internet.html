@@ -16,7 +16,11 @@
           <h2 class="menu__title">Internet</h2>
           <ul class="menu__list">
             <li class="menu__item"><a href="#dns">DNS</a></li>
+            <li class="menu__item"><a href="#hosting">Hosting</a></li>
             <li class="menu__item"><a href="#stack">Web-stack</a></li>
+            <li class="menu__item"><a href="#htaccess">Htaccess</a></li>
+            <li class="menu__item"><a href="#robots">Robots</a></li>
+            <li class="menu__item"><a href="#tips">Tips</a></li>
           </ul><a class="link link--light link--to-index" href="index.html">To index</a>
         </nav>
       </aside>
@@ -33,6 +37,52 @@
           </ul>
         </section>
         <section class="content">
+          <h3 class="content__title" id="hosting">Hosting</h3>
+          <h4 class="content__sub-title">Виртуальные хостинги</h4>
+          <h5 class="content__block-title">Виртуальный хостинг (Shared)</h5>
+          <ul>
+            <li>"Полочка в библиотеке", обслуживается хостером</li>
+            <li>При незначительных нагрузках все нормально, при значительных - могут отключить (если привысили средний лимит нагрузки)</li>
+            <li>Самые дешевые среди прочих</li>
+            <li>При незначительной нагрузке соседями, по можности может превосходить даже вирт выделенный сервер</li>
+            <li>Имеет стандартный набор служб и настроек (apache, mysql, php)</li>
+            <li>Влияние нагрузки, вызванной сайтами соседей</li>
+          </ul>
+          <h5 class="content__block-title">Виртуальный выделенный сервер (VPS/VDS)</h5>
+          <ul>
+            <li>"Шкаф в библиотеке", обслуживается самостоятельно</li>
+            <li>Гарантированная часть ресурсов сервера</li>
+            <li>Есть возможность устанавливать ПО</li>
+            <li>Невысокая мощность из-за ограничения выделяемых ресурсов</li>
+            <li>Дороже виртуального хостинга (иногда значительно)</li>
+          </ul>
+          <h4 class="content__sub-title">Передача файлов на хостинг</h4>
+          <ul>
+            <li>Через ЛК на хостинге</li>
+            <li>FTP/sFTP (sFTP работает поверх SSH, доступ по ключу) по умолчанию 21 порт</li>
+            <li>FTPS != sFTP - отдельная реализация FTP с попыткой его защитить, мало используется</li>
+            <li>SSH (позволяет не только передать файлы, но и управлять серверами)</li>
+          </ul>
+          <h4 class="content__sub-title">FTP-клиенты</h4>
+          <ul>
+            <li>FileZilla</li>
+            <li>WinSCP</li>
+            <li>Также можно через среду разработки</li>
+          </ul>
+          <h4 class="content__sub-title">Программы для доступа к удаленному серверу</h4>
+          <ul>
+            <li>Remote Desktop Manager - платформа для централизации удаленных соединений, паролей и т.д., имеет смысл использовать, когда приходится работать с большим количеством серверов</li>
+          </ul>
+          <h4 class="content__sub-title">Домен</h4>
+          <ul>
+            <li>Домен привязывается к хостингу</li>
+            <li>Домен и хостинг не обязательно покупать у одной компании</li>
+            <li>Регистратор - компания, которая регистрирует домен</li>
+            <li>Хостер - компания, которая предоставляет услуги по размещению сайта</li>
+            <li>Если регистратор и хостер разные, то на стороне регистратора необходимо прописать ns сервера хостера и подождать перезагрузки DNS</li>
+          </ul>
+        </section>
+        <section class="content">
           <h3 class="content__title" id="stack">Web-stack</h3>
           <ul>
             <li>LAMP - Linux, Apache, MySQL, PHP</li>
@@ -41,6 +91,23 @@
             <li>WISA - Windows, IIS, MS SQL, .NET</li>
             <li>MARS - MySQL, Apache, Ruby, Solaris</li>
           </ul>
+        </section>
+        <section class="content">
+          <h3 class="content__title" id="htaccess">Htaccess</h3>
+          <h4 class="content__sub-title">File .htaccess</h4>
+          <ul>
+            <li>работает с веб-сервером Apache, может не работать с nginx</li>
+            <li>файл, который дает возможность конфигурировать работу сервера в отдельных директориях</li>
+            <li>устанавливать права доступа к файлам в директории</li>
+            <li>менять названия индексных файлов</li>
+            <li>самостоятельно обрабатывать ошибки Apache, перенаправляя посетителей на специальные страницы ошибок</li>
+          </ul>
+        </section>
+        <section class="content">
+          <h3 class="content__title" id="robots">Robots</h3>
+        </section>
+        <section class="content">
+          <h3 class="content__title" id="tips">tips</h3>
         </section>
       </main>
       <footer class="footer"></footer>

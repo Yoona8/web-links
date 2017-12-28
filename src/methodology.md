@@ -1,6 +1,0 @@
-- https://ru.bem.info/
-- https://habrahabr.ru/company/yandex/blog/276035/
-- https://ru.bem.info/methodology/key-concepts/
-- https://noteskeeper.ru/527/
-- http://frontender.info/MindBEMding/
-- http://nicothin.github.io/idiomatic-pre-CSS/

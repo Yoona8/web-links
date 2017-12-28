@@ -1,7 +1,0 @@
-- https://htmlacademy.ru/blog/111-rastr-vector
-- https://htmlacademy.ru/blog/113-image-formats
-- https://htmlacademy.ru/blog/153-content-or-decor-img
-- https://speakerdeck.com/lara/image-formats-the-nerdy-parts
-- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en
-- https://www.artlebedev.ru/tools/technogrette/img/png-1/
-- http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html

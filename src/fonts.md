@@ -1,3 +1,0 @@
-- https://webfont.ru/blog/about-font-face-part-one/
-- https://webfont.ru/blog/about-font-face-part-two/
-- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru

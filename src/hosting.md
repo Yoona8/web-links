@@ -1,1 +1,0 @@
-- https://htmlacademy.ru/blog/48-how-to-register-domain
