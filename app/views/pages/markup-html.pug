@@ -1,12 +1,17 @@
 extends ../layout/_layout
 block title
     - var pageTitle = 'Markup';
-    - var subTitle = 'HTML5';
+    - var subTitle = 'HTML';
     -
         var data = {
+<<<<<<< HEAD
             'Materials': 'materials',
             'General tips': 'tips',
             'Checklist': 'checklist'
+=======
+            'About HTML': 'about-html',
+            'Tips': 'tips'
+>>>>>>> 7b7f9d5f6b0f21634b22578561e0def65f95ca9c
         };
 block sidebarMenu
     h2.menu__title= subTitle
@@ -16,7 +21,7 @@ block sidebarMenu
 block content
     h2.title= `${pageTitle}: ${subTitle}`
     section.content
-        h3.content__title(id=data['About html']) About html
+        h3.content__title(id=data['About HTML']) About HTML
         ul
             li #[a(href='https://www.w3.org/TR/html5/') Specification]
             li #[a(href='http://html5doctor.com/computer-says-no-to-html5-document-outline/') Computer says NO to HTML5 document outline] to read with comments
@@ -26,6 +31,8 @@ block content
             li #[a(href='https://github.com/yoksel/common-words') Слова, часто используемые в CSS-классах]
             li #[a(href='http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html') To close or not to close] статья про одиночные тэги (закрывать или нет), для себя решила, что не закрывать
             li #[a(href='http://html5doctor.com/i-b-em-strong-element/') The i, b, em, &amp; strong elements]
+            li #[a(href='https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works') Meta viewport and how it works]
+            li #[a(href='http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii') Conditional comments]
     section.content
         h3.content__title(id=data['Tips']) Tips
         ul

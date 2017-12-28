@@ -1,0 +1,31 @@
+extends ../layout/_layout
+block title
+    - var pageTitle = 'Workflow';
+    - var subTitle = 'Browsers';
+    -
+        var data = {
+            'Chrome': 'chrome'
+        };
+block sidebarMenu
+    h2.menu__title= subTitle
+    ul.menu__list
+        each url, name in data
+            li.menu__item: a(href=`#${url}`)= name
+block content
+    h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['Chrome']) Chrome
+        h4.content__sub-title Extensions
+        ul
+            li Web Developer
+            li SimpleExtManager
+            li PerfectPixel
+            li ColorZilla
+            li uBlock Origin
+            li Octotree
+            li Wappalyzer
+            li WhatFont
+            li Data Saver
+            li YSlow
+            li Postman
+            li Pocket
