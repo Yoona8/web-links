@@ -86,12 +86,16 @@ h5 {
 }
 
 .main {
-    padding: 20px 100px 20px 70px;
+    padding: 20px 250px 20px 70px;
 }
 
 .title {
     margin-bottom: 10px;
     font-size: 16px;
+}
+
+.content {
+    position: relative;
 }
 
 .content code {
@@ -117,4 +121,20 @@ h5 {
     font-size: 25px;
     font-family: 'Comfortaa', Arial, sans-serif;
     color: #6f8a70;
+}
+
+.content__example {
+    margin-bottom: 20px;
+    background-color: #d7e7da;
+}
+
+.content__tips {
+    position: absolute;
+    left: 102%;
+    width: 200px;
+    padding: 5px;
+    font-size: 14px;
+    border: 2px dotted #4242ad;
+    border-radius: 3px;
+    background-color: #c8e1ec;
 }

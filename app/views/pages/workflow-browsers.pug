@@ -4,6 +4,7 @@ block title
     - var subTitle = 'Browsers';
     -
         var data = {
+            'Engines': 'engines',
             'Chrome': 'chrome'
         };
 block sidebarMenu
@@ -13,6 +14,14 @@ block sidebarMenu
             li.menu__item: a(href=`#${url}`)= name
 block content
     h2.title= `${pageTitle}: ${subTitle}`
+    section.content
+        h3.content__title(id=data['Engines']) Engines
+        ul
+            li Blink - Opera, Chrome, Yandex
+            li Gecko - Mozilla Firefox
+            li WebKit - Safari
+            li Trident - IE
+            li EdgeHTML - Edge
     section.content
         h3.content__title(id=data['Chrome']) Chrome
         h4.content__sub-title Extensions
