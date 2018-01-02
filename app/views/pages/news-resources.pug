@@ -9,6 +9,7 @@ block title
             'Written': 'written',
             'Inspiration': 'inspiration',
             'Templates': 'templates',
+            'Learning': 'learning',
             'Official Docs': 'official'
         };
 block sidebarMenu
@@ -23,9 +24,11 @@ block content
         ul
             li #[a(href='https://soundcloud.com/web-standards') Web standards] подкаст новостей frontend
             li #[a(href='https://shoptalkshow.com/') Shop Talk Show] frontend podcast by Chris Coyier
+    section.content
         h3.content__title(id=data['Video']) Video
         ul
             li #[a(href='https://www.youtube.com/user/TheSWAT727') Master CSS] анимации и прочие полезности на CSS
+    section.content
         h3.content__title(id=data['Written']) Written
         ul
             li #[a(href='http://css-live.ru/') CSS-live] frontend articles
@@ -33,13 +36,21 @@ block content
             li #[a(href='https://codingheroes.io/resources/') Coding Heroes] много информации по frontend
             li #[a(href='https://frontendmasters.com/books/front-end-handbook/2017/') Frontend Developer Handbook]
             li #[a(href='https://htmlacademy.ru/blog') Htmlacademy blog] mainly about frontend
+    section.content
         h3.content__title(id=data['Inspiration']) Inspiration
         ul
             li #[a(href='https://www.behance.net/') Behance] different designs (not only web)
             li #[a(href='https://dribbble.com/') Dribbble] so many different cool things
             li #[a(href='http://getbootstrap.com/') Bootstrap] great example on how to organise your code
             li #[a(href='https://codepen.io/anon/pen/zZBBYM') Loaders]
+    section.content
         h3.content__title(id=data['Templates']) Templates
+    section.content
+        h3.content__title(id=data['Learning']) Learning
+        ul
+            li #[a(href='https://htmlacademy.ru/') Htmlacademy]
+            li #[a(href='https://www.freecodecamp.org/') FreeCodeCamp]
+    section.content
         h3.content__title(id=data['Official Docs']) Official Docs
         ul
             li #[a(href='https://www.w3.org/TR/html5/') HTML Specification]
