@@ -7,8 +7,7 @@ block title
             'Hosting': 'hosting',
             'Web-stack': 'stack',
             'Htaccess': 'htaccess',
-            'Robots': 'robots',
-            'Tips': 'tips'
+            'Robots': 'robots'
         };
 block sidebarMenu
     h2.menu__title= subTitle
@@ -85,70 +84,3 @@ block content
             li рекомендовать поисковому роботу соблюдать определенный интервал между скачиванием документов с сервера
             li роботы могут этот файл игнорировать
             li можно посмотреть на любом сайте (address.ru/robots.txt)
-    section.content
-        h3.content__title(id=data['Tips']) tips
-        h4.content__sub-title Как устроен интернет?
-        h5.content__block-title Канальный
-        ul
-            li Физическая среда и принципы кодирования информации (передача данных по кабелю)
-        h5.content__block-title Сетевой
-        ul
-            li IP - Internet Protocol (ранее IP4, IPv6 - новые).
-            li Описывает структуру сети и доставку пакетов
-            li Но не гарантирует надежной доставки пакета до адресата
-        h5.content__block-title Транспортный
-        ul
-            li UTP-протокол - звук, иногда используется в играх, стримах, видео, аудио (не ждет доставки пакета).
-            li TCP-протокол - файлы, используется браузерами (ждет, пока пакет будет доставлен).
-            li Контролирует длину сообщения, скорость обмена, трафик
-            li Осуществляет повторный запрос данных в случае потери и устраняет дублирование
-        h5.content__block-title Прикладной
-        ul
-            li HTTP(S) - HyperText Transfer Protocol (Secured)
-            li FTP - File Transfer Protocol
-            li SMTP - Simple Mail Transfer Protocol
-            li SSH - Secure Shell - для доступа на удаленные сервера на базе linux
-            li DNS - Digital Network System
-            li Имя - домен, хостинг - сервер.
-        h4.content__sub-title Взаимодейстие клиент-сервер:
-        ul
-            li Сайт находится на сервере
-            li Браузер понимает благодаря DNS (48 hrs) (ввод site.ru => браузер => DNS => IP)
-            li Доставка? служба - TCP/IP, посылка - http-пакеты (состоят из заголовков и тела - html-код)
-            li Как браузер читает? Детали - html, css, img. Инструкция - спецификация html/css
-            li Много http-запросов? Для http/1.1 критично, последовательно! Для http/2.0 не критично, параллельно!
-            li min файлов => min запросов (1 файл = 1 http-запрос)
-        h4.content__sub-title Человекопонятный процесс:
-        ul
-            li Человек - сайт
-            li Дом - сервер
-            li Адрес - IP
-            li Номер квартиры - port программы (по умолчанию http :80, https :443, но могут работать и на других портах)
-            li Комната - virtual host
-            li Имя - name.ru
-        h4.content__sub-title Tips
-        ul
-            li Браузер устанавливает связь с сервером, получает ответ, парсит код, мы видим страницу
-            li Порт открывается свой на клиенте, свой на сервере, по завершении работы закрывается
-            li Подозрительно, когда у владельца крупного сайта нет сертификата (400р/год)
-            li К одной базе данных можно подключить несколько сайтов
-        h5.content__block-title Where?
-        ul
-            li house - server #[span.content__tips road - cable]
-            li address - IP address
-            li apartment - program (port)
-            li room - virtual hosting #[span.content__tips inside a web-server]
-            li person - html.ru
-        table.content__example
-            tr
-                td Home address (server):
-                td 178.68.180.161
-            tr
-                td Apartment (port):
-                td 80
-            tr
-                td Person (website):
-                td html.ru
-        h5.content__block-title How?
-        p html.ru > DNS > 178.68.180.161
-        h5.content__block-title Delivery?
