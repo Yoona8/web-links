@@ -19,7 +19,6 @@
             <li class="menu__item"><a href="#stack">Web-stack</a></li>
             <li class="menu__item"><a href="#htaccess">Htaccess</a></li>
             <li class="menu__item"><a href="#robots">Robots</a></li>
-            <li class="menu__item"><a href="#tips">Tips</a></li>
           </ul><a class="link link--light link--to-index" href="index.html">To index</a>
         </nav>
       </aside>
@@ -105,86 +104,6 @@
             <li>роботы могут этот файл игнорировать</li>
             <li>можно посмотреть на любом сайте (address.ru/robots.txt)</li>
           </ul>
-        </section>
-        <section class="content">
-          <h3 class="content__title" id="tips">tips</h3>
-          <h4 class="content__sub-title">Как устроен интернет?</h4>
-          <h5 class="content__block-title">Канальный</h5>
-          <ul>
-            <li>Физическая среда и принципы кодирования информации (передача данных по кабелю)</li>
-          </ul>
-          <h5 class="content__block-title">Сетевой</h5>
-          <ul>
-            <li>IP - Internet Protocol (ранее IP4, IPv6 - новые).</li>
-            <li>Описывает структуру сети и доставку пакетов</li>
-            <li>Но не гарантирует надежной доставки пакета до адресата</li>
-          </ul>
-          <h5 class="content__block-title">Транспортный</h5>
-          <ul>
-            <li>UTP-протокол - звук, иногда используется в играх, стримах, видео, аудио (не ждет доставки пакета).</li>
-            <li>TCP-протокол - файлы, используется браузерами (ждет, пока пакет будет доставлен).</li>
-            <li>Контролирует длину сообщения, скорость обмена, трафик</li>
-            <li>Осуществляет повторный запрос данных в случае потери и устраняет дублирование</li>
-          </ul>
-          <h5 class="content__block-title">Прикладной</h5>
-          <ul>
-            <li>HTTP(S) - HyperText Transfer Protocol (Secured)</li>
-            <li>FTP - File Transfer Protocol</li>
-            <li>SMTP - Simple Mail Transfer Protocol</li>
-            <li>SSH - Secure Shell - для доступа на удаленные сервера на базе linux</li>
-            <li>DNS - Digital Network System</li>
-            <li>Имя - домен, хостинг - сервер.</li>
-          </ul>
-          <h4 class="content__sub-title">Взаимодейстие клиент-сервер:</h4>
-          <ul>
-            <li>Сайт находится на сервере</li>
-            <li>Браузер понимает благодаря DNS (48 hrs) (ввод site.ru => браузер => DNS => IP)</li>
-            <li>Доставка? служба - TCP/IP, посылка - http-пакеты (состоят из заголовков и тела - html-код)</li>
-            <li>Как браузер читает? Детали - html, css, img. Инструкция - спецификация html/css</li>
-            <li>Много http-запросов? Для http/1.1 критично, последовательно! Для http/2.0 не критично, параллельно!</li>
-            <li>min файлов => min запросов (1 файл = 1 http-запрос)</li>
-          </ul>
-          <h4 class="content__sub-title">Человекопонятный процесс:</h4>
-          <ul>
-            <li>Человек - сайт</li>
-            <li>Дом - сервер</li>
-            <li>Адрес - IP</li>
-            <li>Номер квартиры - port программы (по умолчанию http :80, https :443, но могут работать и на других портах)</li>
-            <li>Комната - virtual host</li>
-            <li>Имя - name.ru</li>
-          </ul>
-          <h4 class="content__sub-title">Tips</h4>
-          <ul>
-            <li>Браузер устанавливает связь с сервером, получает ответ, парсит код, мы видим страницу</li>
-            <li>Порт открывается свой на клиенте, свой на сервере, по завершении работы закрывается</li>
-            <li>Подозрительно, когда у владельца крупного сайта нет сертификата (400р/год)</li>
-            <li>К одной базе данных можно подключить несколько сайтов</li>
-          </ul>
-          <h5 class="content__block-title">Where?</h5>
-          <ul>
-            <li>house - server <span class="content__tips">road - cable</span></li>
-            <li>address - IP address</li>
-            <li>apartment - program (port)</li>
-            <li>room - virtual hosting <span class="content__tips">inside a web-server</span></li>
-            <li>person - html.ru</li>
-          </ul>
-          <table class="content__example">
-            <tr>
-              <td>Home address (server):</td>
-              <td>178.68.180.161</td>
-            </tr>
-            <tr>
-              <td>Apartment (port):</td>
-              <td>80</td>
-            </tr>
-            <tr>
-              <td>Person (website):</td>
-              <td>html.ru</td>
-            </tr>
-          </table>
-          <h5 class="content__block-title">How?</h5>
-          <p>html.ru > DNS > 178.68.180.161</p>
-          <h5 class="content__block-title">Delivery?</h5>
         </section>
       </main>
       <footer class="footer"></footer>
