@@ -1,6 +1,9 @@
 ## Content
 Demo: https://nikkie8.github.io/web-links/dist/
 
+## Personal tips
+- [Git](https://github.com/Nikkie8/git)
+
 ## Books
 - JS Эрик Майер
 - JS сильные стороны Дуглас Крокфорд (с бабочкой)
