@@ -1,7 +1,3 @@
-extends ../layout/_layout
-block title
-    - var pageTitle = 'Content';
-    -
         var data = {
             news: {
                 title: 'News and inspiration',
@@ -12,9 +8,7 @@ block title
                 }
             },
             markup: {
-                title: 'Markup',
                 links: {
-                    'Links HTML & CSS': 'html-css',
                     'CSS': 'markup-css.html',
                     'Decoration': 'markup-decoration.html',
                     'Methodologies': 'markup-methodologies.html',
@@ -90,22 +84,3 @@ block title
                 }
             }
         };
-block sidebarMenu
-    each item in data
-        h2.menu__title= item.title
-        ul.menu__list
-            each url, name in item.links
-                li.menu__item: a(href=url)= name
-block content
-    h2.title #{pageTitle}: About
-    section.content
-        h3.content__title About
-        p I've created it to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I plan to fill it with new information at least once a week.
-        p This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
-    section.content
-        h3.content__title(id=data['Links HTML & CSS']) Links HTML & CSS
-        ul
-            li #[a(href='http://codeguide.academy/') HTML Academy Code style for HTML, CSS and JS]
-            li #[a(href='https://css-tricks.com/snippets/css/a-guide-to-flexbox/') A Complete Guide to Flexbox]
-            li #[a(href='https://github.com/philipwalton/flexbugs#flexbugs') Flexbugs]
-            li #[a(href='https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/') Harnessing Flexbox For Today's Web Apps]

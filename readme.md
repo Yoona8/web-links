@@ -1,8 +1,20 @@
 ## Content
-Demo: https://nikkie8.github.io/web-links/dist/
+I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
+This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 
 ## Personal tips
 - [Git](https://github.com/Nikkie8/git)
+
+## Markup
+### Links HTML & CSS
+- [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+
+## Graphics
+### Images
+- [Free stock photos](https://www.pexels.com/)
 
 ## Books
 - JS Эрик Майер
