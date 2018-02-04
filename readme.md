@@ -2,15 +2,64 @@
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 
+- [Personal tips](#personal-tips)
+- [News and inspiration]
+    - [Resources]
+    - [Books]
+    - [Lessons]
+- [Markup](#markup)
+    - [Links HTML & CSS](#links-html-css)
+    - [CSS](#css)
+        - [font-weight](#font-weight)
+        - [Complex properties order](#complex-properties-order)
+    - [Decoration]
+    - [Methodologies]
+    - [HTML-Preprocessors]
+    - [CSS-Preprocessors](#css-Preprocessors)
+        - [SASS](#sass)
+    - [Adaptive graphic]
+    - [Useful]
+    - [Razor]
+- [JavaScript]
+- [JQuery]
+- [TypeScript]
+- [NodeJS]
+- [C Sharp]
+- [MVC]
+- [Workflow]
+- [Graphics]
+
 ## Personal tips
 - [Git](https://github.com/Nikkie8/git)
 
 ## Markup
 ### Links HTML & CSS
+- [HTML5 Specification](https://www.w3.org/TR/html5/)
 - [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [About different CSS selectors](https://learn.javascript.ru/css-selectors)
+- [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
+- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+### CSS
+#### font-weight
+- 100 = thin (hairline)
+- 200 = extra light (ultra light)
+- 300 = light
+- 400 = normal
+- 500 = medium
+- 600 = semi bold (demi bold)
+- 700 = bold
+- 800 = extra bold (ultra bold)
+- 900 = black (heavy)
+#### Complex properties order
+It is better to use separate properties in selectors, but the order has to be like in a complex one
+- font: style, variant, weight, size/line-height, family
+- background: color, image, position/size, repeat, origin, clip, attach, initial|inherit
+### CSS-Preprocessors
+#### SASS
+- [Official Site](http://sass-lang.com/)
 
 ## Graphics
 ### Images
@@ -29,13 +78,6 @@ This collection is just about everything connected to web development. As it was
 - http://frontender.info/grunt-is-not-weird-and-hard/
 - http://frontender.info/a-beginners-guide-to-grunt-redux/
 - http://frontender.info/grunt-is-not-weird-and-hard/
-- https://www.npmjs.com/package/grunt-contrib-copy
-- https://www.npmjs.com/package/grunt-contrib-clean
-- https://www.npmjs.com/package/css-mqpacker
-- https://www.npmjs.com/package/grunt-csso
-- https://www.npmjs.com/package/grunt-svgmin
-- https://www.npmjs.com/package/grunt-svgstore
-- https://www.npmjs.com/package/grunt-contrib-imagemin
 - https://htmlacademy.ru/blog/48-how-to-register-domain
 - https://htmlacademy.ru/blog/111-rastr-vector
 - https://htmlacademy.ru/blog/113-image-formats
@@ -81,7 +123,6 @@ This collection is just about everything connected to web development. As it was
 
 # SASS
 ## Links
-- [Official Site](http://sass-lang.com/)
 - [Основы Sass: Операторы](http://getinstance.info/articles/css/sass-basics-operators/)
 - [Основы Sass: Функции](http://getinstance.info/articles/css/sass-basics-function-directive/)
 - [Основы Sass. Миксины](http://getinstance.info/articles/css/sass-basics-the-mixin-directive/)

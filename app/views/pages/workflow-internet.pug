@@ -9,11 +9,6 @@ block title
             'Htaccess': 'htaccess',
             'Robots': 'robots'
         };
-block sidebarMenu
-    h2.menu__title= subTitle
-    ul.menu__list
-        each url, name in data
-            li.menu__item: a(href=`#${url}`)= name
 block content
     section.content
         h3.content__title(id=data['Hosting']) Hosting
