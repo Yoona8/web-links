@@ -26,7 +26,8 @@ This collection is just about everything connected to web development. As it was
 - [NodeJS]
 - [C Sharp]
 - [MVC]
-- [Workflow]
+- [Workflow](#workflow)
+  - [Terminal](#terminal)
 - [Graphics]
 
 ## Personal tips
@@ -60,6 +61,10 @@ It is better to use separate properties in selectors, but the order has to be li
 ### CSS-Preprocessors
 #### SASS
 - [Official Site](http://sass-lang.com/)
+
+## Workflow
+### Terminal
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 ## Graphics
 ### Images
