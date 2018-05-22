@@ -3,10 +3,10 @@ I've created this repository to sort all my tips, tricks, rules, links etc. on h
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 
 - [Personal tips](#personal-tips)
-- [News and inspiration]
-    - [Resources]
+- [News and inspiration](#news-and-inspiration)
+    - [Resources](#resources)
     - [Books]
-    - [Lessons]
+    - [Courses](#courses)
 - [Markup](#markup)
     - [Links HTML & CSS](#links-html-css)
     - [CSS](#css)
@@ -23,15 +23,27 @@ This collection is just about everything connected to web development. As it was
 - [JavaScript]
 - [JQuery]
 - [TypeScript]
+- [PHP](#php)
 - [NodeJS]
 - [C Sharp]
 - [MVC]
 - [Workflow](#workflow)
   - [Terminal](#terminal)
+  - [Services](#services)
 - [Graphics]
+
+## To read
+- [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/?utm_content=educational&utm_campaign=2018-04-10&utm_source=email-sendgrid&utm_term=712832&utm_medium=1247828)
 
 ## Personal tips
 - [Git](https://github.com/Nikkie8/git)
+
+## News and inspiration
+### Resources
+- [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
+- [Conf list](https://confs.tech/javascript)
+### Courses
+- [Code with Mosh](https://codewithmosh.teachable.com/)
 
 ## Markup
 ### Links HTML & CSS
@@ -43,6 +55,8 @@ This collection is just about everything connected to web development. As it was
 - [About different CSS selectors](https://learn.javascript.ru/css-selectors)
 - [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
 - [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+- [HTML symbols](https://www.w3schools.com/charsets/ref_utf_punctuation.asp)
+- [HTML symbols](https://www.copypastecharacter.com/)
 ### CSS
 #### font-weight
 - 100 = thin (hairline)
@@ -62,9 +76,14 @@ It is better to use separate properties in selectors, but the order has to be li
 #### SASS
 - [Official Site](http://sass-lang.com/)
 
+## PHP
+- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
 ## Workflow
 ### Terminal
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+### Services
+- [SNILS generator](https://ortex.github.io/snils-generator/)
 
 ## Graphics
 ### Images
