@@ -20,7 +20,7 @@ This collection is just about everything connected to web development. As it was
     - [Adaptive graphic]
     - [Useful]
     - [Razor]
-- [JavaScript]
+- [JavaScript](#javascript)
 - [JQuery]
 - [TypeScript]
 - [PHP](#php)
@@ -75,6 +75,9 @@ It is better to use separate properties in selectors, but the order has to be li
 ### CSS-Preprocessors
 #### SASS
 - [Official Site](http://sass-lang.com/)
+
+## JavaScript
+- [Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 
 ## PHP
 - [PHP Standards Recommendations](https://www.php-fig.org/psr/)
