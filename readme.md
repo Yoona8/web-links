@@ -2,61 +2,20 @@
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 
-- [Personal tips](#personal-tips)
-- [News and inspiration](#news-and-inspiration)
-    - [Resources](#resources)
-    - [Books]
-    - [Courses](#courses)
-- [Markup](#markup)
-    - [Links HTML & CSS](#links-html-css)
-    - [CSS](#css)
-        - [font-weight](#font-weight)
-        - [Complex properties order](#complex-properties-order)
-    - [Decoration]
-    - [Methodologies]
-    - [HTML-Preprocessors]
-    - [CSS-Preprocessors](#css-Preprocessors)
-        - [SASS](#sass)
-    - [Adaptive graphic]
-    - [Useful]
-    - [Razor]
-- [JavaScript](#javascript)
-- [JQuery]
-- [TypeScript]
-- [PHP](#php)
-- [NodeJS]
-- [C Sharp]
-- [MVC]
-- [Workflow](#workflow)
-  - [Terminal](#terminal)
-  - [Services](#services)
-- [Graphics]
+- [General information](./content/general-information.md)
+- [HTML](./content/html.md)
+- [Graphic](./content/graphic.md)
+- [Styles](./content/styles.md)
+- [Optimization](./content/optimization.md)
+- [Automatization](./content/automatization.md)
+- [Workflow](./content/workflow.md)
+- [Programming](./content/programming.md)
+- [JavaScript](./content/javascript.md)
+- [Data](./content/data.md)
+- [C#](./content/c-sharp.md)
+- [NodeJS](./content/nodejs.md)
+- [PHP](./content/php.md)
 
-## To read
-- [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/?utm_content=educational&utm_campaign=2018-04-10&utm_source=email-sendgrid&utm_term=712832&utm_medium=1247828)
-
-## Personal tips
-- [Git](https://github.com/Nikkie8/git)
-
-## News and inspiration
-### Resources
-- [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
-- [Conf list](https://confs.tech/javascript)
-### Courses
-- [Code with Mosh](https://codewithmosh.teachable.com/)
-
-## Markup
-### Links HTML & CSS
-- [HTML5 Specification](https://www.w3.org/TR/html5/)
-- [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-- [About different CSS selectors](https://learn.javascript.ru/css-selectors)
-- [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
-- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-- [HTML symbols](https://www.w3schools.com/charsets/ref_utf_punctuation.asp)
-- [HTML symbols](https://www.copypastecharacter.com/)
 ### CSS
 #### font-weight
 - 100 = thin (hairline)
@@ -72,39 +31,8 @@ This collection is just about everything connected to web development. As it was
 It is better to use separate properties in selectors, but the order has to be like in a complex one
 - font: style, variant, weight, size/line-height, family
 - background: color, image, position/size, repeat, origin, clip, attach, initial|inherit
-### CSS-Preprocessors
-#### SASS
-- [Official Site](http://sass-lang.com/)
 
-## JavaScript
-- [Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
-
-## PHP
-- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
-
-## Workflow
-### Terminal
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-### Services
-- [SNILS generator](https://ortex.github.io/snils-generator/)
-
-## Graphics
-### Images
-- [Free stock photos](https://www.pexels.com/)
-
-## Books
-- JS Эрик Майер
-- JS сильные стороны Дуглас Крокфорд (с бабочкой)
-- JS шаблоны (с голубем)
-- JS (с носорогом)
-- Изучаем программирование на JS Фримен +HTML
 ## Links
-- https://getuikit.com/
-- http://usablica.github.io/front-end-frameworks/compare.html
-- http://frontender.info/a-beginners-guide-to-grunt-redux/
-- http://frontender.info/grunt-is-not-weird-and-hard/
-- http://frontender.info/a-beginners-guide-to-grunt-redux/
-- http://frontender.info/grunt-is-not-weird-and-hard/
 - https://htmlacademy.ru/blog/48-how-to-register-domain
 - https://htmlacademy.ru/blog/111-rastr-vector
 - https://htmlacademy.ru/blog/113-image-formats
