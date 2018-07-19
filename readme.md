@@ -15,22 +15,7 @@ This collection is just about everything connected to web development. As it was
 - [C#](./content/c-sharp.md)
 - [NodeJS](./content/nodejs.md)
 - [PHP](./content/php.md)
-
-### CSS
-#### font-weight
-- 100 = thin (hairline)
-- 200 = extra light (ultra light)
-- 300 = light
-- 400 = normal
-- 500 = medium
-- 600 = semi bold (demi bold)
-- 700 = bold
-- 800 = extra bold (ultra bold)
-- 900 = black (heavy)
-#### Complex properties order
-It is better to use separate properties in selectors, but the order has to be like in a complex one
-- font: style, variant, weight, size/line-height, family
-- background: color, image, position/size, repeat, origin, clip, attach, initial|inherit
+- [Design patterns](./content/desing-patterns.md)
 
 ## Links
 - https://htmlacademy.ru/blog/48-how-to-register-domain
