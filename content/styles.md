@@ -1,4 +1,6 @@
 # Styles
+## Links
+- [Standards](https://www.w3.org/Style/CSS/)
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words) 
 ## Selectors
 - [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
@@ -11,3 +13,5 @@
 ## Preprocessors
 ### SASS
 - [Official Site](http://sass-lang.com/)
+## Books
+- [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer

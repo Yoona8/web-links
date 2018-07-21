@@ -17,17 +17,8 @@
 - [Coding Heroes](https://codingheroes.io/resources/)
 - [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 - [Htmlacademy blog](https://htmlacademy.ru/blog)
-## Inspiration
-- [Behance](https://www.behance.net/) different designs (not only web)
-- [Dribbble](https://dribbble.com/) so many different cool things
-- [Bootstrap](http://getbootstrap.com/) just as a great example on how to organize your code
-- [Loaders](https://codepen.io/anon/pen/zZBBYM)
 ## Courses
 - [Code with Mosh](https://codewithmosh.teachable.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 ## Books
-- JS Эрик Майер
-- JS сильные стороны Дуглас Крокфорд (с бабочкой)
-- JS шаблоны (с голубем)
-- JS (с носорогом)
-- Изучаем программирование на JS Фримен +HTML
+- [List of books](https://learn.javascript.ru/books)
