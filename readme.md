@@ -18,10 +18,6 @@ This collection is just about everything connected to web development. As it was
 - [Design patterns](./content/desing-patterns.md)
 
 ## Links
-- https://htmlacademy.ru/blog/48-how-to-register-domain
-- https://htmlacademy.ru/blog/111-rastr-vector
-- https://htmlacademy.ru/blog/113-image-formats
-- https://htmlacademy.ru/blog/153-content-or-decor-img
 - https://speakerdeck.com/lara/image-formats-the-nerdy-parts
 - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en
 - https://www.artlebedev.ru/tools/technogrette/img/png-1/

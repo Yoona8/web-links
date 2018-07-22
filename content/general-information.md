@@ -1,4 +1,10 @@
 # General information
+## Ecosystem
+### Browsers
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
+### Domain
+- [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+## Process
 ## Methodologies
 - [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
 - [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
