@@ -20,5 +20,8 @@
 - [Dribbble](https://dribbble.com/) so many different cool things
 - [Bootstrap](http://getbootstrap.com/) just as a great example on how to organize your code
 - [Loaders](https://codepen.io/anon/pen/zZBBYM)
+## Articles
+- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+- [Про PNG. Часть первая](https://www.artlebedev.ru/technogrette/img/png-1/)
 ## Other
 - [Abstract](https://www.goabstract.com/)
