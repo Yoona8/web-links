@@ -16,6 +16,9 @@
 ## Preprocessors
 ### SASS
 - [Official Site](http://sass-lang.com/)
+- [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
+- [Online compiler](https://www.sassmeister.com/)
+- [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 ### LESS
 - [Official Site](http://lesscss.org/)
 - [Less. Путеводитель для новичков](https://legacy.gitbook.com/book/mrmlnc/less-guidebook-for-beginners/details)
