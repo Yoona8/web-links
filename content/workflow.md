@@ -12,3 +12,5 @@
 - [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 ## Styleguides
 - [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+## Visual Studio
+- [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)

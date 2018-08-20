@@ -1,3 +1,7 @@
+# Design patterns
+- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+
 # MVC - Model View Controller
 ## Controller
 ### Общая информация

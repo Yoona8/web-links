@@ -4,10 +4,13 @@
 - [Optimising SVGs for Web Use — Part 1](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
 - [Optimising SVGs for Web Use — Part 2](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-6711cc15df46)
 - [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+- [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
 ## Fonts
 - [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 - [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 - [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 ## General
 - [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
 - [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
