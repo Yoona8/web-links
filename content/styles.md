@@ -10,6 +10,8 @@
 - [General CSS notes, advice and guidelines](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README.md)
 ## Initial styles
 - [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
+### Fonts
+- [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS font stacks
 ## Grids
 ### Flexbox
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

@@ -10,6 +10,7 @@ This collection is just about everything connected to web development. As it was
 - [Workflow](./content/workflow.md)
 - [Programming](./content/programming.md)
 - [JavaScript](./content/javascript.md)
+- [Angular](./content/angular.md)
 - [Data](./content/data.md)
 - [C#](./content/c-sharp.md)
 - [NodeJS](./content/nodejs.md)
@@ -24,6 +25,7 @@ This collection is just about everything connected to web development. As it was
 - [Regex](https://regex101.com/)
 - [Codrops](https://tympanus.net/codrops/)
 - [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
 - [Про CSS](http://css.yoksel.ru/) блог в основном про фичи на CSS, очень много статей про SVG+CSS
@@ -36,6 +38,7 @@ This collection is just about everything connected to web development. As it was
 - [Bram Stein blog](https://www.bramstein.com/)
 - [Полезные ссылки и материалы](http://forum.academy/t/topic/378)
 - [Addy Osmani](https://addyosmani.com/)
+- [JSRaccoon](http://jsraccoon.ru/) блог, подходит для начинающих, статьи, задачи
 ## Courses
 - [Code with Mosh](https://codewithmosh.teachable.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
