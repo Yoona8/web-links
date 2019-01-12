@@ -19,13 +19,13 @@ This collection is just about everything connected to web development. As it was
 - [Tests](./content/tests.md)
 
 # General information
-[ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-[ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
-[ ] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
-[ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
-- [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
-- [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
-- [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
+- [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+- [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
+- [ ] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
+- [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
+- [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
+- [ ] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [БЭМ](https://ru.bem.info/)
 - [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
 - [Вёрстка независимыми блоками](https://noteskeeper.ru/527/)
@@ -50,7 +50,7 @@ This collection is just about everything connected to web development. As it was
 - [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 - [Conditional comments](http://xiper.net/collect/html-and-css-tricks/css-tricks/uslovnie-commentarii)
 
-#Design
+# Design
 - [Sketch](https://www.sketchapp.com/)
 - [Растровая и векторная графика](https://htmlacademy.ru/blog/111-rastr-vector)
 - [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
