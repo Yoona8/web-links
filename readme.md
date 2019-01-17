@@ -2,6 +2,8 @@
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 - [General information](#general-information)
+- [A11y](#a11y)
+- [People](#people)
 - [HTML](#html)
 - [Design](#design)
 - [Styles](./content/styles.md)
@@ -34,6 +36,15 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
 
+# A11y
+- [x] [Deque](https://www.deque.com/) tools and articles about a11y
+
+# People
+- [x] [Addy Osmani](https://addyosmani.com/)
+- [x] [Rob Dodson](https://robdodson.me/)
+- [x] [Heydon works](http://www.heydonworks.com/)
+- [x] [Sara Soueidan](https://www.sarasoueidan.com/)
+
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
 - [ ] [The i, b, em, strong elements](http://html5doctor.com/i-b-em-strong-element/)
@@ -44,6 +55,9 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How to Disable Links](https://css-tricks.com/how-to-disable-links/)
 - [ ] [The Output Element](https://css-tricks.com/the-output-element/)
 - [ ] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
+
+# CSS
+- [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 
 # Design
 - [Растровая и векторная графика](https://htmlacademy.ru/blog/111-rastr-vector)
@@ -68,6 +82,8 @@ This collection is just about everything connected to web development. As it was
 - [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
 - [Abstract](https://www.goabstract.com/)
 
+## SVG
+- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 
 ## Services
 - [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
@@ -78,6 +94,7 @@ This collection is just about everything connected to web development. As it was
 - [Codrops](https://tympanus.net/codrops/)
 - [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
 - [Про CSS](http://css.yoksel.ru/) блог в основном про фичи на CSS, очень много статей про SVG+CSS
@@ -89,8 +106,8 @@ This collection is just about everything connected to web development. As it was
 - [MDN Web docs](https://developer.mozilla.org/en-US/)
 - [Bram Stein blog](https://www.bramstein.com/)
 - [Полезные ссылки и материалы](http://forum.academy/t/topic/378)
-- [Addy Osmani](https://addyosmani.com/)
 - [JSRaccoon](http://jsraccoon.ru/) блог, подходит для начинающих, статьи, задачи
+
 ## Courses
 - [Code with Mosh](https://codewithmosh.teachable.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
