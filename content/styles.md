@@ -12,7 +12,10 @@
 - [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
 ### Fonts
 - [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS font stacks
+- [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 ## Grids
+### CSS Grids
+- [Awesome resources to learn about CSS Grid Layout](https://blog.prototypr.io/awesome-resources-to-learn-about-css-grid-layout-b9dcc3434257)
 ### Flexbox
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)

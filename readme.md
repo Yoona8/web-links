@@ -44,6 +44,7 @@ This collection is just about everything connected to web development. As it was
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [SitePoint](https://www.sitepoint.com/)
 - [Flatiron School](https://flatironschool.com/)
+- [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
 ## Challenges
 - [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 - [CodeWars vs HackerRank vs CheckiO vs CodeEval vs ...](https://www.reddit.com/r/learnpython/comments/41wokm/codewars_vs_hackerrank_vs_checkio_vs_codeeval_vs/)
@@ -61,3 +62,5 @@ This collection is just about everything connected to web development. As it was
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+## CSS
+- [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)

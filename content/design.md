@@ -29,5 +29,6 @@
 - [Про PNG. Часть первая](https://www.artlebedev.ru/technogrette/img/png-1/)
 - [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
 - [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
+- [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 ## Other
 - [Abstract](https://www.goabstract.com/)
