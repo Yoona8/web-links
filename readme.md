@@ -5,6 +5,7 @@ This collection is just about everything connected to web development. As it was
 - [A11y](#a11y)
 - [People](#people)
 - [HTML](#html)
+- [CSS](#css)
 - [Design](#design)
 - [Styles](./content/styles.md)
 - [Optimization](./content/optimization.md)
@@ -44,6 +45,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Rob Dodson](https://robdodson.me/)
 - [x] [Heydon works](http://www.heydonworks.com/)
 - [x] [Sara Soueidan](https://www.sarasoueidan.com/)
+- [x] [Zell](https://zellwk.com/)
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
@@ -58,6 +60,7 @@ This collection is just about everything connected to web development. As it was
 
 # CSS
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+- [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 
 # Design
 - [Растровая и векторная графика](https://htmlacademy.ru/blog/111-rastr-vector)
@@ -85,6 +88,9 @@ This collection is just about everything connected to web development. As it was
 ## SVG
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 
+# JavaScript
+- [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+
 ## Services
 - [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [Conf list](https://confs.tech/javascript)
@@ -94,6 +100,7 @@ This collection is just about everything connected to web development. As it was
 - [Codrops](https://tympanus.net/codrops/)
 - [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+- [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
@@ -131,5 +138,3 @@ This collection is just about everything connected to web development. As it was
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-## CSS
-- [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
