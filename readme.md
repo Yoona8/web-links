@@ -7,15 +7,15 @@ This collection is just about everything connected to web development. As it was
 - [HTML](#html)
 - [CSS](#css)
 - [Design](#design)
-- [Styles](./content/styles.md)
+- [Styles](./content/styles.md) = CSS
 - [Optimization](./content/optimization.md)
 - [Automatization](./content/automatization.md)
 - [Workflow](./content/workflow.md)
-- [Programming](./content/programming.md)
-- [JavaScript](./content/javascript.md)
-- [Angular](./content/angular.md)
+- [Programming](#programming)
+- [JavaScript](#javascript)
+- [Angular](#angular)
 - [Data](./content/data.md)
-- [C#](./content/c-sharp.md)
+- [C#, .NET](#dotnet)
 - [NodeJS](./content/nodejs.md)
 - [PHP](./content/php.md)
 - [Design patterns](./content/desing-patterns.md)
@@ -27,6 +27,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
+- [x] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 - [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 - [ ] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
@@ -46,6 +47,10 @@ This collection is just about everything connected to web development. As it was
 - [x] [Heydon works](http://www.heydonworks.com/)
 - [x] [Sara Soueidan](https://www.sarasoueidan.com/)
 - [x] [Zell](https://zellwk.com/)
+- [x] [Una Kravets](https://una.im/)
+- [x] [Lea Verou](http://lea.verou.me/)
+- [x] [Николай Громов](https://nicothin.pro/)
+- [x] [Евгений Закурдаев](https://eugeno.ru/)
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
@@ -61,9 +66,10 @@ This collection is just about everything connected to web development. As it was
 # CSS
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
+- [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 # Design
-- [Растровая и векторная графика](https://htmlacademy.ru/blog/111-rastr-vector)
+- [x] [Color Picker](https://colorsupplyyy.com/app)
 - [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
 - [Design principles for developers taught in a non-pretentious, non-bullshitty way](https://designacademy.io/)
 - [Sketch master](http://sketchmaster.com/)
@@ -84,12 +90,42 @@ This collection is just about everything connected to web development. As it was
 - [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
 - [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
 - [Abstract](https://www.goabstract.com/)
-
+- [Templates](https://colorlib.com/wp/templates/)
 ## SVG
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 
+# Programming
+- [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
+## Algorithms
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
+## Data structures
+
 # JavaScript
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+## Practice
+- [x] [Codewars](https://www.codewars.com/dashboard)
+## Resources
+- [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
+- [Классы](https://learn.javascript.ru/es-class)
+- [Promise](https://learn.javascript.ru/promise)
+- [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
+- [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+## Articles
+- [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/?utm_content=educational&utm_campaign=2018-04-10&utm_source=email-sendgrid&utm_term=712832&utm_medium=1247828)
+- [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+- [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
+- [Reactive UI’s with VanillaJS – Part 1: Pure Functional Style](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
+## Exercises
+- [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
+## Books
+- [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+- [Head First JavaScript Programming](http://shop.oreilly.com/product/0636920027065.do) by Elisabeth Robson, Eric Freeman
+- [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_1?s=books&ie=UTF8&qid=1532166328&sr=1-1) by David Flanagan
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=as_li_ss_tl?ie=UTF8&redirect=true&linkCode=ll1&tag=eejs-20&linkId=afcaa6d74f1fbcc21a0c4d728b83dde1) by Douglas Crockford
+- [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
 
 ## Services
 - [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
@@ -114,7 +150,6 @@ This collection is just about everything connected to web development. As it was
 - [Bram Stein blog](https://www.bramstein.com/)
 - [Полезные ссылки и материалы](http://forum.academy/t/topic/378)
 - [JSRaccoon](http://jsraccoon.ru/) блог, подходит для начинающих, статьи, задачи
-
 ## Courses
 - [Code with Mosh](https://codewithmosh.teachable.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -138,3 +173,14 @@ This collection is just about everything connected to web development. As it was
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+
+# Angular
+## Courses
+- [Upgrading AngularJS](https://www.upgradingangularjs.com/)
+## Books
+- [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
+
+# Dotnet
+- [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+## Books
+- [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
