@@ -7,19 +7,18 @@ This collection is just about everything connected to web development. As it was
 - [HTML](#html)
 - [CSS](#css)
 - [Design](#design)
-- [Styles](./content/styles.md) = CSS
-- [Optimization](./content/optimization.md)
-- [Automatization](./content/automatization.md)
-- [Workflow](./content/workflow.md)
+- [Optimization](#optimization)
+- [Automatization](#automatization)
+- [Workflow](#workflow)
 - [Programming](#programming)
 - [JavaScript](#javascript)
 - [Angular](#angular)
-- [Data](./content/data.md)
+- [Data](#data)
 - [C#, .NET](#dotnet)
-- [NodeJS](./content/nodejs.md)
-- [PHP](./content/php.md)
-- [Design patterns](./content/desing-patterns.md)
-- [Tests](./content/tests.md)
+- [NodeJS](#nodejs)
+- [PHP](#php)
+- [Design patterns](#design-patterns)
+- [Tests](#tests)
 
 # General information
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
@@ -67,6 +66,52 @@ This collection is just about everything connected to web development. As it was
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
+- [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
+## Basics
+- [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
+- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+- [About different CSS selectors](https://learn.javascript.ru/css-selectors)
+- [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [CSS Reference](https://tympanus.net/codrops/css_reference/)
+## Guidelines
+- [General CSS notes, advice and guidelines](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README.md)
+## Initial styles
+- [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
+### Fonts
+- [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS font stacks
+- [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+## Grids
+### CSS Grids
+- [Awesome resources to learn about CSS Grid Layout](https://blog.prototypr.io/awesome-resources-to-learn-about-css-grid-layout-b9dcc3434257)
+### Flexbox
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+### Microgrids
+- [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+## Decor
+- [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
+## Content pages
+## Animations
+- [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
+- [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
+## Preprocessors
+### SASS
+- [Official Site](http://sass-lang.com/)
+- [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
+- [Online compiler](https://www.sassmeister.com/)
+- [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
+### LESS
+- [Official Site](http://lesscss.org/)
+- [Less. Путеводитель для новичков](https://legacy.gitbook.com/book/mrmlnc/less-guidebook-for-beginners/details)
+## Links
+- [Standards](https://www.w3.org/Style/CSS/)
+## Books
+- [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 
 # Design
 - [x] [Color Picker](https://colorsupplyyy.com/app)
@@ -91,8 +136,53 @@ This collection is just about everything connected to web development. As it was
 - [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
 - [Abstract](https://www.goabstract.com/)
 - [Templates](https://colorlib.com/wp/templates/)
+- [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
+- [Abstract](https://www.goabstract.com/)
 ## SVG
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
+
+# Optimization
+## Images
+- [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
+- [Optimising SVGs for Web Use — Part 1](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
+- [Optimising SVGs for Web Use — Part 2](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-6711cc15df46)
+- [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+- [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
+## Fonts
+- [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
+- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+## General
+- [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
+- [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
+- [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
+- [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+- [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
+- [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
+- [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
+- [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+- [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
+
+# Workflow
+## Git
+- [Git](https://github.com/Nikkie8/git)
+- [Book](https://git-scm.com/book/en/v2)
+- [Git How To](https://githowto.com/)
+- [Git FAQ](http://firstaidgit.ru/#/)
+- [Как оформлять коммиты, чтобы потом не было больно](https://habr.com/company/Voximplant/blog/276695/)
+## Command Line
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
+- [Command Line courses adv](https://learncodethehardway.org/unix/)
+- [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+## Styleguides
+- [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+## Visual Studio
+- [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
@@ -184,3 +274,21 @@ This collection is just about everything connected to web development. As it was
 - [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 ## Books
 - [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+
+# PHP
+- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+# Design patterns
+- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+
+# Tests
+- [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
+- [Emmet Re:view](http://re-view.emmet.io/)
+- [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
+- [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
+- [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
+- [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [Mocha](https://mochajs.org/)
+- [Chai](http://www.chaijs.com/)
+- [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-25-18&utm_content=why-tdd)
