@@ -67,13 +67,11 @@ This collection is just about everything connected to web development. As it was
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
-## Basics
-- [Selector's weight](https://canonium.com/articles/css-understanding-weight-selectors)
-- [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-- [About different CSS selectors](https://learn.javascript.ru/css-selectors)
-- [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
-- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+- [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
+- [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+- [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 ## Guidelines
 - [General CSS notes, advice and guidelines](https://github.com/iamstarkov/CSS-Guidelines/blob/master/README.md)
 ## Initial styles
