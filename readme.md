@@ -41,6 +41,7 @@ This collection is just about everything connected to web development. As it was
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
+- [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 
 # People
 - [x] [Addy Osmani](https://addyosmani.com/)
@@ -50,6 +51,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Zell](https://zellwk.com/)
 - [x] [Una Kravets](https://una.im/)
 - [x] [Lea Verou](http://lea.verou.me/)
+- [x] [Yoksel](http://css.yoksel.ru/)
 - [x] [Николай Громов](https://nicothin.pro/)
 - [x] [Евгений Закурдаев](https://eugeno.ru/)
 
@@ -110,6 +112,8 @@ This collection is just about everything connected to web development. As it was
 
 # Design
 - [x] [Color Picker](https://colorsupplyyy.com/app)
+## Images
+- [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
 - [Design principles for developers taught in a non-pretentious, non-bullshitty way](https://designacademy.io/)
 - [Sketch master](http://sketchmaster.com/)
@@ -225,7 +229,6 @@ This collection is just about everything connected to web development. As it was
 
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
-- [Про CSS](http://css.yoksel.ru/) блог в основном про фичи на CSS, очень много статей про SVG+CSS
 - [Coding Heroes](https://codingheroes.io/resources/)
 - [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 - [Htmlacademy blog](https://htmlacademy.ru/blog)
@@ -260,6 +263,13 @@ This collection is just about everything connected to web development. As it was
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 # Angular
+- [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
+- [ ] [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
+- [ ] [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
+- [ ] [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+- [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
+## Webpack for Angular
+- [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
 ## Courses
 - [Upgrading AngularJS](https://www.upgradingangularjs.com/)
 ## Books
