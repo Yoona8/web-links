@@ -51,6 +51,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Zell](https://zellwk.com/)
 - [x] [Una Kravets](https://una.im/)
 - [x] [Lea Verou](http://lea.verou.me/)
+- [x] [Jen Simmons](https://jensimmons.com/)
 - [x] [Yoksel](http://css.yoksel.ru/)
 - [x] [Николай Громов](https://nicothin.pro/)
 - [x] [Евгений Закурдаев](https://eugeno.ru/)
@@ -67,10 +68,34 @@ This collection is just about everything connected to web development. As it was
 - [ ] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
 # CSS
+- [x] [Standards](https://www.w3.org/Style/CSS/)
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-- [Standards](https://www.w3.org/Style/CSS/)
-- [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
+- [ ] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+## Selectors
+- [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+- [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
+- [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+## Naming
+- [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
+## Fonts
+- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
+- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+## Grids
+- [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [Grid Garden](http://cssgridgarden.com/)
+- [ ] [Grid template builder](https://codepen.io/anthonydugois/)
+- [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
+- [ ] [Grid by example](https://gridbyexample.com/resources/)
+- [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+## Flexbox
+- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+## Inline-blocks
+- [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 ## Tables
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 ## Forms
@@ -81,24 +106,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
 - [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
 - [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-## Selectors
-- [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-- [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
-- [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
-## Naming
-- [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-## Fonts
-- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS font stacks
-- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
-## Grids
-- [Awesome resources to learn about CSS Grid Layout](https://blog.prototypr.io/awesome-resources-to-learn-about-css-grid-layout-b9dcc3434257)
-## Flexbox
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-## Inline-blocks
-- [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+## Books
+- [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 
 # SASS
 - [Official Site](http://sass-lang.com/)
