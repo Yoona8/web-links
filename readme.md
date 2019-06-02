@@ -7,7 +7,6 @@ This collection is just about everything connected to web development. As it was
 - [HTML](#html)
 - [CSS](#css)
 - [SASS](#sass)
-- [LESS](#less)
 - [Design](#design)
 - [Optimization](#optimization)
 - [Automatization](#automatization)
@@ -84,61 +83,56 @@ This collection is just about everything connected to web development. As it was
 ## Grids
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] [Grid Garden](http://cssgridgarden.com/)
+- [x] [Grid Garden](http://cssgridgarden.com/)
 - [ ] [Grid template builder](https://codepen.io/anthonydugois/)
 - [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [ ] [Grid by example](https://gridbyexample.com/resources/)
 - [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 ## Flexbox
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-- [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [ ] [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
 ## Inline-blocks
-- [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+- [ ] [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 ## Tables
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 ## Forms
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
-- [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
+- [ ] [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
 ## Effects
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
-- [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
-- [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
+- [ ] [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
+- [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 ## Books
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 
 # SASS
-- [Official Site](http://sass-lang.com/)
-- [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
-- [Online compiler](https://www.sassmeister.com/)
-- [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
-
-# LESS
-- [Official Site](http://lesscss.org/)
-- [Less. Путеводитель для новичков](https://legacy.gitbook.com/book/mrmlnc/less-guidebook-for-beginners/details)
+- [ ] [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
+- [ ] [Online compiler](https://www.sassmeister.com/)
+- [ ] [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 
 # Design
 - [x] [Color Picker](https://colorsupplyyy.com/app)
 ## Images
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
 - [Design principles for developers taught in a non-pretentious, non-bullshitty way](https://designacademy.io/)
 - [Sketch master](http://sketchmaster.com/)
-- [Free stock photos](https://www.pexels.com/)
-- [Undraw](https://undraw.co/)
-- [UI8](https://ui8.net/?rel=leda)
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Pages](https://www.pages.xyz/)
-- [Land-book](https://land-book.com/)s
-- [Lapa](https://www.lapa.ninja/)
-- [Behance](https://www.behance.net/) different designs (not only web)
-- [Dribbble](https://dribbble.com/) so many different cool things
-- [Loaders](https://codepen.io/anon/pen/zZBBYM)
-- [10 Great Interactive Design Examples for Designers’ Inspiration](https://blog.prototypr.io/10-great-interactive-design-examples-for-designers-inspiration-147f5c68d866)
-- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+## SVG
+- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
+## Resources
+- [x] [Undraw](https://undraw.co/)
+- [x] [UI8](https://ui8.net/?rel=leda)
+- [x] [Unsplash](https://unsplash.com/)
+- [x] [Pexels](https://www.pexels.com/)
+- [x] [Pages](https://www.pages.xyz/)
+- [x] [Land-book](https://land-book.com/)
+- [x] [Lapa](https://www.lapa.ninja/)
+- [x] [Behance](https://www.behance.net/) different designs (not only web)
+- [x] [Dribbble](https://dribbble.com/) so many different cool things
 - [Про PNG. Часть первая](https://www.artlebedev.ru/technogrette/img/png-1/)
 - [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
 - [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
@@ -146,8 +140,6 @@ This collection is just about everything connected to web development. As it was
 - [Templates](https://colorlib.com/wp/templates/)
 - [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [Abstract](https://www.goabstract.com/)
-## SVG
-- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 
 # Optimization
 ## Images
@@ -177,7 +169,6 @@ This collection is just about everything connected to web development. As it was
 
 # Workflow
 ## Git
-- [Git](https://github.com/Nikkie8/git)
 - [Book](https://git-scm.com/book/en/v2)
 - [Git How To](https://githowto.com/)
 - [Git FAQ](http://firstaidgit.ru/#/)
