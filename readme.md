@@ -114,15 +114,21 @@ This collection is just about everything connected to web development. As it was
 - [ ] [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 
 # Design
-- [x] [Color Picker](https://colorsupplyyy.com/app)
+- [ ] [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
+- [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
+- [ ] [Design articles and courses](https://designacademy.io/)
+- [ ] [Sketch master courses](http://sketchmaster.com/)
 ## Images
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
-- [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
-- [Design principles for developers taught in a non-pretentious, non-bullshitty way](https://designacademy.io/)
-- [Sketch master](http://sketchmaster.com/)
+- [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+- [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
+## PNG
+- [ ] [Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
 ## SVG
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
+## Colors
+- [x] [Color Picker](https://colorsupplyyy.com/app)
+- [ ] [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
 ## Resources
 - [x] [Undraw](https://undraw.co/)
 - [x] [UI8](https://ui8.net/?rel=leda)
@@ -133,13 +139,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Lapa](https://www.lapa.ninja/)
 - [x] [Behance](https://www.behance.net/) different designs (not only web)
 - [x] [Dribbble](https://dribbble.com/) so many different cool things
-- [Про PNG. Часть первая](https://www.artlebedev.ru/technogrette/img/png-1/)
-- [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
-- [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
-- [Abstract](https://www.goabstract.com/)
-- [Templates](https://colorlib.com/wp/templates/)
-- [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
-- [Abstract](https://www.goabstract.com/)
+- [x] [Templates](https://colorlib.com/wp/templates/)
 
 # Optimization
 ## Images
@@ -155,6 +155,7 @@ This collection is just about everything connected to web development. As it was
 - [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
 - [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 ## General
+- [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
 - [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
@@ -209,12 +210,12 @@ This collection is just about everything connected to web development. As it was
 ## Exercises
 - [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
 ## Books
-- [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
-- [Head First JavaScript Programming](http://shop.oreilly.com/product/0636920027065.do) by Elisabeth Robson, Eric Freeman
-- [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_1?s=books&ie=UTF8&qid=1532166328&sr=1-1) by David Flanagan
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
-- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=as_li_ss_tl?ie=UTF8&redirect=true&linkCode=ll1&tag=eejs-20&linkId=afcaa6d74f1fbcc21a0c4d728b83dde1) by Douglas Crockford
-- [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
+- [ ] [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+- [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [x] Head First JavaScript Programming (O'Reilly, by Elisabeth Robson, Eric Freeman)
+- [x] JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
+- [ ] JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
+- [ ] JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
 ## Services
 - [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
@@ -225,8 +226,6 @@ This collection is just about everything connected to web development. As it was
 - [Codrops](https://tympanus.net/codrops/)
 - [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
-- [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
 - [Coding Heroes](https://codingheroes.io/resources/)
