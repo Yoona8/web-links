@@ -77,9 +77,6 @@ This collection is just about everything connected to web development. As it was
 ## Naming
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-## Fonts
-- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
-- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 ## Grids
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -118,6 +115,10 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Design articles and courses](https://designacademy.io/)
 - [ ] [Sketch master courses](http://sketchmaster.com/)
+## Fonts
+- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
+- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+- [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 ## Images
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
@@ -142,20 +143,19 @@ This collection is just about everything connected to web development. As it was
 - [x] [Templates](https://colorlib.com/wp/templates/)
 
 # Optimization
-## Images
-- [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
-- [Optimising SVGs for Web Use — Part 1](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
-- [Optimising SVGs for Web Use — Part 2](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-2-6711cc15df46)
-- [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
-- [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
-## Fonts
-- [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-- [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
-- [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
-- [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
-## General
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+## Images
+- [ ] [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
+- [ ] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
+- [ ] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
+- [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+## Fonts
+- [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
+- [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+## General
 - [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
 - [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
@@ -196,6 +196,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 ## Practice
 - [x] [Codewars](https://www.codewars.com/dashboard)
+- [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
 ## Resources
 - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [Классы](https://learn.javascript.ru/es-class)
@@ -207,8 +208,9 @@ This collection is just about everything connected to web development. As it was
 - [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
 - [Reactive UI’s with VanillaJS – Part 1: Pure Functional Style](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
-## Exercises
-- [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
+## Useful libraries
+- [x] [Flatpickr](https://flatpickr.js.org/getting-started/)
+- [x] [Moment.js](https://momentjs.com/)
 ## Books
 - [ ] [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
@@ -218,13 +220,11 @@ This collection is just about everything connected to web development. As it was
 - [ ] JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
 ## Services
-- [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [Conf list](https://confs.tech/javascript)
 - [SNILS generator](https://ortex.github.io/snils-generator/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Regex](https://regex101.com/)
 - [Codrops](https://tympanus.net/codrops/)
-- [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
@@ -287,6 +287,7 @@ This collection is just about everything connected to web development. As it was
 - [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 
 # Tests
+- [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
 - [Emmet Re:view](http://re-view.emmet.io/)
 - [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
