@@ -14,12 +14,12 @@ This collection is just about everything connected to web development. As it was
 - [Programming](#programming)
 - [JavaScript](#javascript)
 - [Angular](#angular)
-- [Data](#data)
 - [C#, .NET](#dotnet)
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [Design patterns](#design-patterns)
 - [Tests](#tests)
+- [Unsorted](#unsorted)
 
 # General information
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
@@ -28,7 +28,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
 - [x] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
-- [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 - [ ] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
 - [ ] [Вёрстка независимыми блоками](https://noteskeeper.ru/527/)
@@ -37,6 +36,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Why you learn when you teach](https://medium.freecodecamp.org/why-you-learn-when-you-teach-d722e9b95902)
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
+- [ ] [Conf list](https://confs.tech/javascript)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
@@ -170,19 +170,19 @@ This collection is just about everything connected to web development. As it was
 
 # Workflow
 ## Git
-- [Book](https://git-scm.com/book/en/v2)
-- [Git How To](https://githowto.com/)
-- [Git FAQ](http://firstaidgit.ru/#/)
-- [Как оформлять коммиты, чтобы потом не было больно](https://habr.com/company/Voximplant/blog/276695/)
+- [ ] [Book](https://git-scm.com/book/en/v2)
+- [ ] [Git How To](https://githowto.com/)
+- [ ] [Git FAQ](http://firstaidgit.ru/#/)
 ## Command Line
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-- [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
-- [Command Line courses adv](https://learncodethehardway.org/unix/)
-- [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
-## Styleguides
-- [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [ ] [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
+- [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
+- [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+## Codeguides
+- [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 ## Visual Studio
-- [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+- [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
@@ -220,8 +220,45 @@ This collection is just about everything connected to web development. As it was
 - [ ] JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
 - [ ] JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
+# Angular
+- [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
+- [ ] [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
+- [ ] [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
+- [ ] [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+- [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
+## Webpack for Angular
+- [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+## Courses
+- [ ] [Upgrading AngularJS](https://www.upgradingangularjs.com/)
+## Books
+- [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
+
+# Dotnet
+- [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+## Books
+- [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+
+# PHP
+- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+# Design patterns
+- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+
+# Tests
+- [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
+- [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
+- [Emmet Re:view](http://re-view.emmet.io/)
+- [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
+- [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
+- [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
+- [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [Mocha](https://mochajs.org/)
+- [Chai](http://www.chaijs.com/)
+- [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-25-18&utm_content=why-tdd)
+
+# Unsorted
 ## Services
-- [Conf list](https://confs.tech/javascript)
 - [SNILS generator](https://ortex.github.io/snils-generator/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Regex](https://regex101.com/)
@@ -262,39 +299,3 @@ This collection is just about everything connected to web development. As it was
 - [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
-# Angular
-- [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
-- [ ] [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
-- [ ] [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
-- [ ] [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
-- [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
-## Webpack for Angular
-- [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
-## Courses
-- [Upgrading AngularJS](https://www.upgradingangularjs.com/)
-## Books
-- [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
-
-# Dotnet
-- [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
-## Books
-- [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
-
-# PHP
-- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
-
-# Design patterns
-- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
-- [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
-
-# Tests
-- [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
-- [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
-- [Emmet Re:view](http://re-view.emmet.io/)
-- [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
-- [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
-- [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
-- [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [Mocha](https://mochajs.org/)
-- [Chai](http://www.chaijs.com/)
-- [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-25-18&utm_content=why-tdd)
