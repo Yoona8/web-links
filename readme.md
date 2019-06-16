@@ -1,4 +1,4 @@
-## Content
+# Content
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 - [General information](#general-information)
@@ -24,7 +24,7 @@ This collection is just about everything connected to web development. As it was
 # General information
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
-- [ ] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
 - [x] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
@@ -194,18 +194,19 @@ This collection is just about everything connected to web development. As it was
 
 # JavaScript
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+- [ ] [Учебник JavaScript](https://learn.javascript.ru/)
+- [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 ## Practice
 - [x] [Codewars](https://www.codewars.com/dashboard)
 - [x] [HackerRank](https://www.hackerrank.com/dashboard)
-- [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
-## Resources
-- [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-- [Классы](https://learn.javascript.ru/es-class)
-- [Promise](https://learn.javascript.ru/promise)
-- [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
-- [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [x] [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
+## ES6
+- [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
+- [ ] [Классы](https://learn.javascript.ru/es-class)
+- [ ] [Promise](https://learn.javascript.ru/promise)
+- [ ] [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
+- [ ] [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
 ## Articles
-- [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/?utm_content=educational&utm_campaign=2018-04-10&utm_source=email-sendgrid&utm_term=712832&utm_medium=1247828)
 - [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
 - [Reactive UI’s with VanillaJS – Part 1: Pure Functional Style](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
@@ -228,34 +229,35 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
 ## Webpack for Angular
 - [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
-## Courses
+## Upgrading AngularJS to Angular 2+
 - [ ] [Upgrading AngularJS](https://www.upgradingangularjs.com/)
 ## Books
-- [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
+- [ ] [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
 
 # Dotnet
 - [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 ## Books
-- [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+- [ ] [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
 
 # PHP
-- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+- [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
 # Design patterns
 - [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 - [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 
 # Tests
+- [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
+## Services
 - [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
+- [ ] [Mocha](https://mochajs.org/)
+- [ ] [Chai](http://www.chaijs.com/)
 - [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
 - [Emmet Re:view](http://re-view.emmet.io/)
 - [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
 - [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
 - [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
 - [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [Mocha](https://mochajs.org/)
-- [Chai](http://www.chaijs.com/)
-- [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/?utm_source=customer.io&utm_medium=email&utm_campaign=fortnightly_1-25-18&utm_content=why-tdd)
 
 # Unsorted
 ## Services
