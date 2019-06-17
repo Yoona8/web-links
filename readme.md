@@ -1,7 +1,7 @@
 # Content
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
-- [General information](#general-information)
+- [General](#general-information)
 - [A11y](#a11y)
 - [People](#people)
 - [HTML](#html)
@@ -19,9 +19,10 @@ This collection is just about everything connected to web development. As it was
 - [PHP](#php)
 - [Design patterns](#design-patterns)
 - [Tests](#tests)
+- [Helpers](#helpers)
 - [Unsorted](#unsorted)
 
-# General information
+# General
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
@@ -70,6 +71,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [Standards](https://www.w3.org/Style/CSS/)
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [ ] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [ ] [CSS Triggers](https://csstriggers.com/)
+- [ ] [Codrops](https://tympanus.net/codrops/)
 ## Selectors
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
@@ -144,6 +147,7 @@ This collection is just about everything connected to web development. As it was
 
 # Optimization
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [ ] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 - [ ] [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
 - [ ] [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [ ] [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
@@ -186,10 +190,12 @@ This collection is just about everything connected to web development. As it was
 
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
+- [x] [Regex](https://regex101.com/)
 ## Algorithms
-- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-- [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-- [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
+- [ ] [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+### Courses
+- [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 ## Data structures
 
 # JavaScript
@@ -207,9 +213,9 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
 - [ ] [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
 ## Articles
-- [Machine Learning with JavaScript : Part 1](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
-- [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
-- [Reactive UI’s with VanillaJS – Part 1: Pure Functional Style](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
+- [ ] [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+- [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
+- [ ] [Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
 ## Useful libraries
 - [x] [Flatpickr](https://flatpickr.js.org/getting-started/)
 - [x] [Moment.js](https://momentjs.com/)
@@ -243,29 +249,26 @@ This collection is just about everything connected to web development. As it was
 - [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
 # Design patterns
-- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
-- [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+- [ ] [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [ ] [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
+- [ ] [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
+- [ ] [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
+- [ ] [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
+- [ ] [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 ## Services
 - [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [ ] [Mocha](https://mochajs.org/)
 - [ ] [Chai](http://www.chaijs.com/)
-- [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
-- [Emmet Re:view](http://re-view.emmet.io/)
-- [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
-- [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
-- [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
-- [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [ ] [Emmet Re:view](http://re-view.emmet.io/)
+- [ ] [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
+
+# Helpers
+- [x] [SNILS generator](https://ortex.github.io/snils-generator/)
 
 # Unsorted
-## Services
-- [SNILS generator](https://ortex.github.io/snils-generator/)
-- [CSS Triggers](https://csstriggers.com/)
-- [Regex](https://regex101.com/)
-- [Codrops](https://tympanus.net/codrops/)
-- [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 ## Resources
 - [CSS-live](http://css-live.ru/) frontend articles
 - [Coding Heroes](https://codingheroes.io/resources/)
@@ -285,7 +288,6 @@ This collection is just about everything connected to web development. As it was
 - [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
 ## Challenges
 - [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
-- [CodeWars vs HackerRank vs CheckiO vs CodeEval vs ...](https://www.reddit.com/r/learnpython/comments/41wokm/codewars_vs_hackerrank_vs_checkio_vs_codeeval_vs/)
 ## Books
 - [List of books](https://learn.javascript.ru/books)
 ## To read and sort
