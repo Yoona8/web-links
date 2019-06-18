@@ -4,6 +4,8 @@ This collection is just about everything connected to web development. As it was
 - [General](#general-information)
 - [A11y](#a11y)
 - [People](#people)
+- [Resources](#resources)
+- [Courses and practice](#cources-and-practice)
 - [HTML](#html)
 - [CSS](#css)
 - [SASS](#sass)
@@ -38,6 +40,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [ ] [Conf list](https://confs.tech/javascript)
+- [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
@@ -55,6 +58,26 @@ This collection is just about everything connected to web development. As it was
 - [x] [Yoksel](http://css.yoksel.ru/)
 - [x] [Николай Громов](https://nicothin.pro/)
 - [x] [Евгений Закурдаев](https://eugeno.ru/)
+
+# Resources
+- [ ] [CSS-live](http://css-live.ru/) frontend articles
+- [ ] [Coding Heroes](https://codingheroes.io/resources/)
+- [ ] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [ ] [Htmlacademy blog](https://htmlacademy.ru/blog)
+- [ ] [Google developers](https://developers.google.com/)
+- [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
+- [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
+
+# Courses and practice
+- [x] [Codewars](https://www.codewars.com/dashboard)
+- [x] [HackerRank](https://www.hackerrank.com/dashboard)
+- [x] [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
+- [ ] [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+- [x] [Code with Mosh](https://codewithmosh.teachable.com/)
+- [x] [FreeCodeCamp](https://www.freecodecamp.org/)
+- [ ] [SitePoint](https://www.sitepoint.com/)
+- [ ] [Flatiron School](https://flatironschool.com/)
+- [ ] [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
@@ -107,6 +130,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 ## Books
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
+- [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 
 # SASS
 - [ ] [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
@@ -187,6 +211,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 ## Visual Studio
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+## Books
+- [ ] Code Complete (by Steve McConnell)
 
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
@@ -197,15 +223,14 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 ## Data structures
+## Books
+- [ ] Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
+- [x] Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 # JavaScript
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [ ] [Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-## Practice
-- [x] [Codewars](https://www.codewars.com/dashboard)
-- [x] [HackerRank](https://www.hackerrank.com/dashboard)
-- [x] [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
 ## ES6
 - [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [Классы](https://learn.javascript.ru/es-class)
@@ -269,29 +294,6 @@ This collection is just about everything connected to web development. As it was
 - [x] [SNILS generator](https://ortex.github.io/snils-generator/)
 
 # Unsorted
-## Resources
-- [CSS-live](http://css-live.ru/) frontend articles
-- [Coding Heroes](https://codingheroes.io/resources/)
-- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
-- [Htmlacademy blog](https://htmlacademy.ru/blog)
-- [Google developers](https://developers.google.com/)
-- [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
-- [MDN Web docs](https://developer.mozilla.org/en-US/)
-- [Bram Stein blog](https://www.bramstein.com/)
-- [Полезные ссылки и материалы](http://forum.academy/t/topic/378)
-- [JSRaccoon](http://jsraccoon.ru/) блог, подходит для начинающих, статьи, задачи
-## Courses
-- [Code with Mosh](https://codewithmosh.teachable.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [SitePoint](https://www.sitepoint.com/)
-- [Flatiron School](https://flatironschool.com/)
-- [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
-## Challenges
-- [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
-## Books
-- [List of books](https://learn.javascript.ru/books)
-## To read and sort
-- [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [How I went from 33-year-old museum tour guide to professional Web Developer and UX Designer: My 18-month coding journey](https://medium.freecodecamp.org/the-post-i-hoped-to-write-for-18-months-2902d074f5ba)
@@ -302,4 +304,3 @@ This collection is just about everything connected to web development. As it was
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 - [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-
