@@ -45,6 +45,8 @@ This collection is just about everything connected to web development. As it was
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+## Forms
+- [ ] [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 # People
 - [x] [Addy Osmani](https://addyosmani.com/)
@@ -142,6 +144,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Design articles and courses](https://designacademy.io/)
 - [ ] [Sketch master courses](http://sketchmaster.com/)
+- [ ] [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 ## Fonts
 - [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
@@ -185,6 +188,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
 - [ ] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
 - [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+- [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 ## Fonts
 - [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 - [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
@@ -209,6 +213,8 @@ This collection is just about everything connected to web development. As it was
 ## Codeguides
 - [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
 - [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
+## Dev Tools
+- [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 ## Visual Studio
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 ## Books
@@ -231,12 +237,14 @@ This collection is just about everything connected to web development. As it was
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [ ] [Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 ## ES6
 - [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [Классы](https://learn.javascript.ru/es-class)
 - [ ] [Promise](https://learn.javascript.ru/promise)
 - [ ] [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
 - [ ] [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
+- [ ] [Handling errors with async/await and promises](https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08)
 ## Articles
 - [ ] [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
@@ -265,6 +273,12 @@ This collection is just about everything connected to web development. As it was
 ## Books
 - [ ] [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
 
+# React
+- [ ] [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+
+# Serverless
+- [ ] [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
+
 # Dotnet
 - [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 ## Books
@@ -292,15 +306,3 @@ This collection is just about everything connected to web development. As it was
 
 # Helpers
 - [x] [SNILS generator](https://ortex.github.io/snils-generator/)
-
-# Unsorted
-- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
-- [How I went from 33-year-old museum tour guide to professional Web Developer and UX Designer: My 18-month coding journey](https://medium.freecodecamp.org/the-post-i-hoped-to-write-for-18-months-2902d074f5ba)
-- [Handling errors with async/await and promises](https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08)
-- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
-- [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
-- [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
-- [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
-- [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
-- [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
