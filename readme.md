@@ -36,9 +36,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Вёрстка независимыми блоками](https://noteskeeper.ru/527/)
 - [ ] [Что поправить в верстке перед выпуском в продакшн?](http://arinagavrilova.ru/skills-up/frontend/chto-popravit-v-verstke-pered-vypuskom-v-prodakshn/)
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
-- [ ] [Why you learn when you teach](https://medium.freecodecamp.org/why-you-learn-when-you-teach-d722e9b95902)
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
-- [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 
@@ -238,6 +236,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 - [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+- [ ] [Build anything you want with JavaScript](https://learnjavascript.today/)
 ## ES6
 - [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [Классы](https://learn.javascript.ru/es-class)
@@ -290,6 +289,7 @@ This collection is just about everything connected to web development. As it was
 # Design patterns
 - [ ] [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 - [ ] [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+- [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
 
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
