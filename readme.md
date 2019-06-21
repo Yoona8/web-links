@@ -39,6 +39,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
+- [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
@@ -265,6 +266,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
 - [ ] [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 - [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
+- [ ] [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
+- [ ] [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
 ## Webpack for Angular
 - [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
 ## Upgrading AngularJS to Angular 2+
