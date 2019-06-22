@@ -17,7 +17,7 @@ This collection is just about everything connected to web development. As it was
 - [JavaScript](#javascript)
 - [Angular](#angular)
 - [C#, .NET](#dotnet)
-- [NodeJS](#nodejs)
+- [NodeJS](#node-js)
 - [PHP](#php)
 - [Design patterns](#design-patterns)
 - [Tests](#tests)
@@ -40,6 +40,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
+- [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
+- [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
@@ -97,6 +99,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [ ] [CSS Triggers](https://csstriggers.com/)
 - [ ] [Codrops](https://tympanus.net/codrops/)
+- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
+- [ ] [How to make HTML disappear completely](https://www.freecodecamp.org/news/how-to-disappear-completely-2f23ddb14835/)
 ## Selectors
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
@@ -238,13 +242,21 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 - [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [ ] [Build anything you want with JavaScript](https://learnjavascript.today/)
+- [ ] [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
+- [ ] [JavaScript Frameworks, Performance Comparison](https://medium.com/@ajmeyghani/javascript-frameworks-performance-comparison-c566d19ab65b)
+- [ ] [How to Write Accessible JavaScript](https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f)
+- [ ] [The Magic Of this Keyword](https://medium.com/@js_tut/the-magic-of-this-keyword-2ed897d6033b)
+- [ ] [11 JavaScript Tricks You Won’t Find in Most Tutorials](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
+- [ ] [Understanding Prototypes in JavaScript](https://itnext.io/understanding-prototypes-in-javascript-e466244da086)
 ## ES6
 - [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [Классы](https://learn.javascript.ru/es-class)
 - [ ] [Promise](https://learn.javascript.ru/promise)
 - [ ] [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
+- [ ] [Javascript Classes and Inheritance ES6, ES5](https://medium.com/@_jmoller/javascript-clases-and-inheritance-1f8de29c845c)
 - [ ] [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
 - [ ] [Handling errors with async/await and promises](https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08)
+- [ ] [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
 ## Articles
 - [ ] [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
@@ -285,6 +297,9 @@ This collection is just about everything connected to web development. As it was
 - [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 ## Books
 - [ ] [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+
+# Node JS
+- [ ] [Discovering Your Local Node Meetups, Events, and Speakers](https://medium.com/@nodejs/discovering-your-local-node-meetups-events-and-speakers-60cf0d04a878)
 
 # PHP
 - [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
