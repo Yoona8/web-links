@@ -26,19 +26,12 @@ This collection is just about everything connected to web development. As it was
 
 # General
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
-
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
-
-- [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
-- [ ] [Что поправить в верстке перед выпуском в продакшн?](http://arinagavrilova.ru/skills-up/frontend/chto-popravit-v-verstke-pered-vypuskom-v-prodakshn/)
-
 - [ ] [БЭМ](https://ru.bem.info/)
 - [x] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
-
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
@@ -49,7 +42,6 @@ This collection is just about everything connected to web development. As it was
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-
 - [ ] [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 # People
@@ -106,14 +98,11 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Codrops](https://tympanus.net/codrops/)
 - [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 - [ ] [How to make HTML disappear completely](https://www.freecodecamp.org/news/how-to-disappear-completely-2f23ddb14835/)
-
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
-
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] [Grid Garden](http://cssgridgarden.com/)
@@ -121,24 +110,18 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [ ] [Grid by example](https://gridbyexample.com/resources/)
 - [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
 - [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [ ] [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-
 - [ ] [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
-
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 - [ ] [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
-
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
 - [ ] [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
 - [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 
@@ -153,22 +136,16 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Design articles and courses](https://designacademy.io/)
 - [ ] [Sketch master courses](http://sketchmaster.com/)
 - [ ] [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
-## Fonts
 - [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 - [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
-## Images
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
-## PNG
 - [ ] [Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
-## SVG
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
-## Colors
 - [x] [Color Picker](https://colorsupplyyy.com/app)
 - [ ] [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
-## Resources
 - [x] [Undraw](https://undraw.co/)
 - [x] [UI8](https://ui8.net/?rel=leda)
 - [x] [Unsplash](https://unsplash.com/)
@@ -183,6 +160,8 @@ This collection is just about everything connected to web development. As it was
 # Optimization
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [ ] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+- [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
+- [ ] [Что поправить в верстке перед выпуском в продакшн?](http://arinagavrilova.ru/skills-up/frontend/chto-popravit-v-verstke-pered-vypuskom-v-prodakshn/)
 - [ ] [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
 - [ ] [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [ ] [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
@@ -191,42 +170,33 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
 - [ ] [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
 - [ ] [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
-## Images
 - [ ] [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
 - [ ] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
 - [ ] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
 - [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
 - [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
-## Fonts
 - [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 - [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 - [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
 - [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
 - [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
-## Animations
 - [ ] [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [ ] [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 - [ ] [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
 
 # Workflow
-## Git
-- [ ] [Book](https://git-scm.com/book/en/v2)
+- [ ] [Git Book](https://git-scm.com/book/en/v2)
 - [ ] [Git How To](https://githowto.com/)
 - [ ] [Git FAQ](http://firstaidgit.ru/#/)
-## Command Line
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 - [ ] [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
 - [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
 - [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
-## Codeguides
 - [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
 - [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
-## Dev Tools
 - [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
-## Visual Studio
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
-## Books
-- [ ] Code Complete (by Steve McConnell)
+- [ ] Book: Code Complete (by Steve McConnell)
 
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
