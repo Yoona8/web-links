@@ -26,18 +26,21 @@ This collection is just about everything connected to web development. As it was
 
 # General
 - [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+
 - [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
+
 - [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
-- [x] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
-- [ ] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
-- [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
-- [ ] [Вёрстка независимыми блоками](https://noteskeeper.ru/527/)
 - [ ] [Что поправить в верстке перед выпуском в продакшн?](http://arinagavrilova.ru/skills-up/frontend/chto-popravit-v-verstke-pered-vypuskom-v-prodakshn/)
+
+- [ ] [БЭМ](https://ru.bem.info/)
+- [x] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
+- [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
+
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
 - [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
-- [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
@@ -46,7 +49,7 @@ This collection is just about everything connected to web development. As it was
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-## Forms
+
 - [ ] [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
 # People
@@ -70,6 +73,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Google developers](https://developers.google.com/)
 - [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
 - [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
+- [ ] [Conf list](https://confs.tech/javascript)
+- [ ] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
 
 # Courses and practice
 - [x] [Codewars](https://www.codewars.com/dashboard)
@@ -101,14 +106,14 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Codrops](https://tympanus.net/codrops/)
 - [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 - [ ] [How to make HTML disappear completely](https://www.freecodecamp.org/news/how-to-disappear-completely-2f23ddb14835/)
-## Selectors
+
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
-## Naming
+
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-## Grids
+
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] [Grid Garden](http://cssgridgarden.com/)
@@ -116,24 +121,24 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [ ] [Grid by example](https://gridbyexample.com/resources/)
 - [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-## Flexbox
+
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
 - [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [ ] [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-## Inline-blocks
+
 - [ ] [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-## Tables
+
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
-## Forms
+
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 - [ ] [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
-## Effects
+
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
 - [ ] [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
 - [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-## Books
+
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 
