@@ -40,11 +40,13 @@ This collection is just about everything connected to web development. As it was
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
 - [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 - [ ] [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+- [ ] [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 
 # People
 - [x] [Addy Osmani](https://addyosmani.com/)
@@ -80,6 +82,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [SitePoint](https://www.sitepoint.com/)
 - [ ] [Flatiron School](https://flatironschool.com/)
 - [ ] [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
+- [ ] [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [ ] [Springboard](https://www.springboard.com/)
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
@@ -104,7 +108,9 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [ ] [State of CSS 2019](https://2019.stateofcss.com/)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
+- [ ] [Layouts](https://every-layout.dev/)
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] [Grid Garden](http://cssgridgarden.com/)
@@ -141,6 +147,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 - [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
+- [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
@@ -158,6 +166,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [Behance](https://www.behance.net/) different designs (not only web)
 - [x] [Dribbble](https://dribbble.com/) so many different cool things
 - [x] [Templates](https://colorlib.com/wp/templates/)
+- [ ] [National park designs](https://nationalparktypeface.com/)
+- [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
 # Optimization
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
@@ -180,6 +190,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 - [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 - [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [ ] [Fonts: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
 - [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
 - [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 - [ ] [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
