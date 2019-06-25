@@ -16,6 +16,8 @@ This collection is just about everything connected to web development. As it was
 - [Programming](#programming)
 - [JavaScript](#javascript)
 - [Angular](#angular)
+- [React](#react)
+- [Serverless](#serverless)
 - [C#, .NET](#dotnet)
 - [NodeJS](#node-js)
 - [PHP](#php)
@@ -255,15 +257,14 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
 - [ ] [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
 - [ ] [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
-## Webpack for Angular
-- [ ] [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
-## Upgrading AngularJS to Angular 2+
-- [ ] [Upgrading AngularJS](https://www.upgradingangularjs.com/)
-## Books
-- [ ] [Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
+- [ ] [Piercing the Angular style encapsulation](https://medium.com/ng-gotchas/piercing-the-angular-style-encapsulation-c7030caeb519)
+- [ ] [Webpack: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+- [ ] [JS>2: Upgrading AngularJS](https://www.upgradingangularjs.com/)
+- [ ] [Book: Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
 
 # React
 - [ ] [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+- [ ] [How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
 # Serverless
 - [ ] [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
