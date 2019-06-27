@@ -21,7 +21,6 @@ This collection is just about everything connected to web development. As it was
 - [C#, .NET](#dotnet)
 - [NodeJS](#node-js)
 - [PHP](#php)
-- [Design patterns](#design-patterns)
 - [Tests](#tests)
 - [Helpers](#helpers)
 - [Unsorted](#unsorted)
@@ -45,7 +44,7 @@ This collection is just about everything connected to web development. As it was
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-- [ ] [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+- [ ] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [ ] [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 
 # People
@@ -220,9 +219,12 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 ## Data structures
-## Books
-- [ ] Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
-- [x] Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+- [ ] [Patterns: Pyramid of Doom — the Signs and Symptoms of a common anti-pattern](https://itnext.io/pyramid-of-doom-the-signs-and-symptoms-of-a-common-anti-pattern-c716838e1819)
+- [ ] [Patterns: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [ ] [Patterns: Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+- [ ] [Patterns: GRASP](https://ru.wikipedia.org/wiki/GRASP)
+- [ ] Book: Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
+- [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 # JavaScript
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
@@ -236,29 +238,28 @@ This collection is just about everything connected to web development. As it was
 - [ ] [The Magic Of this Keyword](https://medium.com/@js_tut/the-magic-of-this-keyword-2ed897d6033b)
 - [ ] [11 JavaScript Tricks You Won’t Find in Most Tutorials](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
 - [ ] [Understanding Prototypes in JavaScript](https://itnext.io/understanding-prototypes-in-javascript-e466244da086)
-## ES6
-- [ ] [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-- [ ] [Классы](https://learn.javascript.ru/es-class)
-- [ ] [Promise](https://learn.javascript.ru/promise)
-- [ ] [Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
-- [ ] [Javascript Classes and Inheritance ES6, ES5](https://medium.com/@_jmoller/javascript-clases-and-inheritance-1f8de29c845c)
-- [ ] [4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
-- [ ] [Handling errors with async/await and promises](https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08)
-- [ ] [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
-## Articles
 - [ ] [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
 - [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
 - [ ] [Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
-## Useful libraries
-- [x] [Flatpickr](https://flatpickr.js.org/getting-started/)
-- [x] [Moment.js](https://momentjs.com/)
-## Books
+- [ ] [How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
+- [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
+- [ ] [ES6: Классы](https://learn.javascript.ru/es-class)
+- [ ] [ES6: Promise](https://learn.javascript.ru/promise)
+- [ ] [ES6: Promises: The Definitive Guide](https://itnext.io/promises-the-definitive-guide-6a49e0dbf3b7)
+- [ ] [ES6: Наследование классов в JavaScript](https://learn.javascript.ru/class-inheritance)
+- [ ] [ES6: Javascript Classes and Inheritance ES6, ES5](https://medium.com/@_jmoller/javascript-clases-and-inheritance-1f8de29c845c)
+- [ ] [ES6: 4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
+- [ ] [ES6: Handling errors with async/await and promises](https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08)
+- [ ] [ES6: Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
+- [ ] [ES6: How to make your code faster using JavaScript Sets](https://medium.com/@bretcameron/how-to-make-your-code-faster-using-javascript-sets-b432457a4a77)
+- [x] [Lib: Flatpickr](https://flatpickr.js.org/getting-started/)
+- [x] [Lib: Moment.js](https://momentjs.com/)
 - [ ] [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
-- [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
-- [x] Head First JavaScript Programming (O'Reilly, by Elisabeth Robson, Eric Freeman)
-- [x] JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
-- [ ] JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
-- [ ] JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
+- [ ] [Book: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [x] Book: Head First JavaScript Programming (O'Reilly, by Elisabeth Robson, Eric Freeman)
+- [x] Book: JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
+- [ ] Book: JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
+- [ ] Book: JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
 # Angular
 - [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
@@ -291,17 +292,13 @@ This collection is just about everything connected to web development. As it was
 # PHP
 - [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
-# Design patterns
-- [ ] [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
-- [ ] [Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
-- [ ] [GRASP](https://ru.wikipedia.org/wiki/GRASP)
-
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
 - [ ] [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
 - [ ] [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
 - [ ] [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
 - [ ] [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [ ] [Black-box Testing a Node.js Web API](https://medium.com/@grantcarthew/black-box-testing-a-node-js-web-api-d626f7d651be)
 ## Services
 - [ ] [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [ ] [Mocha](https://mochajs.org/)
