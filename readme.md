@@ -21,6 +21,7 @@ This collection is just about everything connected to web development. As it was
 - [C#, .NET](#dotnet)
 - [NodeJS](#node-js)
 - [PHP](#php)
+- [Docker](#docker)
 - [Tests](#tests)
 - [Helpers](#helpers)
 - [Unsorted](#unsorted)
@@ -40,6 +41,10 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
 - [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
+- [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
+- [ ] [The EASIEST way to understand a REST server](https://medium.com/@kylemcleod1/the-easiest-way-to-understand-a-rest-server-6ad81f899ba0)
+- [ ] [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
+- [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
@@ -131,6 +136,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
+- [ ] [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
 
 # SASS
 - [ ] [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
@@ -148,6 +154,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
+- [ ] [Fonts: FontForge](https://fontforge.github.io/en-US/)
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
@@ -165,6 +172,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Behance](https://www.behance.net/) different designs (not only web)
 - [x] [Dribbble](https://dribbble.com/) so many different cool things
 - [x] [Templates](https://colorlib.com/wp/templates/)
+- [ ] [Templates: Freebiesbug](https://freebiesbug.com/)
 - [ ] [National park designs](https://nationalparktypeface.com/)
 - [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
@@ -195,6 +203,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [ ] [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 - [ ] [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
+- [ ] [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 # Workflow
 - [ ] [Git Book](https://git-scm.com/book/en/v2)
@@ -242,6 +251,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
 - [ ] [Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
 - [ ] [How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
+- [ ] [JavaScript: Array Methods Cheatsheet](https://medium.com/@timhancodes/javascript-array-methods-cheatsheet-633f761ac250)
+- [ ] [A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/@SilentHackz/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-cb1716d35381)
 - [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [ES6: Классы](https://learn.javascript.ru/es-class)
 - [ ] [ES6: Promise](https://learn.javascript.ru/promise)
@@ -270,6 +281,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
 - [ ] [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
 - [ ] [Piercing the Angular style encapsulation](https://medium.com/ng-gotchas/piercing-the-angular-style-encapsulation-c7030caeb519)
+- [ ] [An Angular Roadmap — The Past, Present, and Future of Angular](https://medium.com/grapecity/an-angular-roadmap-the-past-present-and-future-of-angular-7af4cd4ec6e7)
 - [ ] [Webpack: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
 - [ ] [JS>2: Upgrading AngularJS](https://www.upgradingangularjs.com/)
 - [ ] [Book: Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
@@ -291,6 +303,9 @@ This collection is just about everything connected to web development. As it was
 
 # PHP
 - [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+# Docker
+- [ ] [How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
 
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
