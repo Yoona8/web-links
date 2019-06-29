@@ -27,15 +27,13 @@ This collection is just about everything connected to web development. As it was
 - [Unsorted](#unsorted)
 
 # General
-- [ ] [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-- [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
+- [x] [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [x] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
-- [ ] [БЭМ](https://ru.bem.info/)
 - [x] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 - [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
-- [ ] [Front-end web development is not what you think it is.](https://dev.to/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
@@ -75,6 +73,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
 - [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
+- [ ] [Dev](https://dev.to/)
 
 # Courses and practice
 - [x] [Codewars](https://www.codewars.com/dashboard)
