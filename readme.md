@@ -31,8 +31,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
-- [x] [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
-- [ ] [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
+- [x] [БЭМ-методология](https://ru.bem.info/)
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
 - [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
@@ -40,14 +39,13 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 - [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
-- [ ] [The EASIEST way to understand a REST server](https://medium.com/@kylemcleod1/the-easiest-way-to-understand-a-rest-server-6ad81f899ba0)
 - [ ] [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
 - [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 
 # A11y
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
 - [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-- [ ] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+- [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [ ] [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 
 # People
@@ -221,6 +219,7 @@ This collection is just about everything connected to web development. As it was
 # Programming
 - [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
 - [x] [Regex](https://regex101.com/)
+- [x] [A Collection of different regex](http://html5pattern.com/)
 ## Algorithms
 - [ ] [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 ### Courses
@@ -252,6 +251,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
 - [ ] [JavaScript: Array Methods Cheatsheet](https://medium.com/@timhancodes/javascript-array-methods-cheatsheet-633f761ac250)
 - [ ] [A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/@SilentHackz/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-cb1716d35381)
+- [ ] [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 - [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [ES6: Классы](https://learn.javascript.ru/es-class)
 - [ ] [ES6: Promise](https://learn.javascript.ru/promise)
