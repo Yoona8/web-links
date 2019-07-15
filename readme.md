@@ -112,6 +112,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [State of CSS 2019](https://2019.stateofcss.com/)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
 - [ ] [Layouts](https://every-layout.dev/)
+- [ ] [Layouts: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] [Grid Garden](http://cssgridgarden.com/)
@@ -134,6 +135,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 - [ ] [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
+- [ ] [Houdini](https://css-houdini.rocks/js-in-css/)
 
 # SASS
 - [ ] [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
@@ -251,6 +253,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
 - [ ] [JavaScript: Array Methods Cheatsheet](https://medium.com/@timhancodes/javascript-array-methods-cheatsheet-633f761ac250)
 - [ ] [A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/@SilentHackz/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-cb1716d35381)
+- [ ] [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 - [ ] [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 - [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [ES6: Классы](https://learn.javascript.ru/es-class)
