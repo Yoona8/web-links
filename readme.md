@@ -33,9 +33,9 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [x] [БЭМ-методология](https://ru.bem.info/)
 - [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
-- [ ] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
+- [x] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
-- [ ] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
+- [x] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
 - [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 - [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
@@ -43,8 +43,9 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 
 # A11y
+- [x] [ARIA spec](https://www.w3.org/TR/wai-aria-1.1/)
 - [x] [Deque](https://www.deque.com/) tools and articles about a11y
-- [ ] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+- [x] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 - [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [ ] [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 
@@ -88,9 +89,8 @@ This collection is just about everything connected to web development. As it was
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
-- [ ] [The i, b, em, strong elements](http://html5doctor.com/i-b-em-strong-element/)
+- [x] [The i, b, em, strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [ ] [Семантика или смерть](https://events.yandex.ru/lib/talks/1520/)
-- [ ] [Как отличить контентное изображение от декоративного](https://htmlacademy.ru/blog/153-content-or-decor-img)
 - [ ] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 - [ ] [Computer says NO to HTML5 document outline](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
 - [ ] [How to Disable Links](https://css-tricks.com/how-to-disable-links/)
