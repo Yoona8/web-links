@@ -9,6 +9,8 @@ This collection is just about everything connected to web development. As it was
 - [HTML](#html)
 - [CSS](#css)
 - [SASS](#sass)
+- [Fonts](#fonts)
+- [SVG](#svg)
 - [Design](#design)
 - [Optimization](#optimization)
 - [Automatization](#automatization)
@@ -142,18 +144,32 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Online compiler](https://www.sassmeister.com/)
 - [ ] [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 
+# Fonts
+- [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
+- [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
+- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
+- [ ] [Fonts: FontForge](https://fontforge.github.io/en-US/)
+- [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
+- [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [ ] [Fonts: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
+- [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+
+# SVG
+- [ ] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
+- [ ] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
+- [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+- [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
+
 # Design
 - [ ] [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
 - [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Design articles and courses](https://designacademy.io/)
 - [ ] [Sketch master courses](http://sketchmaster.com/)
 - [ ] [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
-- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
-- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
-- [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
-- [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
-- [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
-- [ ] [Fonts: FontForge](https://fontforge.github.io/en-US/)
 - [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
 - [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
@@ -189,16 +205,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
 - [ ] [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 - [ ] [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
-- [ ] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
-- [ ] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
-- [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
-- [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
-- [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-- [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-- [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
-- [ ] [Fonts: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
-- [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
-- [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 - [ ] [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [ ] [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 - [ ] [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
