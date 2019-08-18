@@ -17,6 +17,7 @@ This collection is just about everything connected to web development. As it was
 - [Workflow](#workflow)
 - [Programming](#programming)
 - [JavaScript](#javascript)
+- [TypeScript](#typescript)
 - [Angular](#angular)
 - [React](#react)
 - [Serverless](#serverless)
@@ -260,6 +261,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [JavaScript: Array Methods Cheatsheet](https://medium.com/@timhancodes/javascript-array-methods-cheatsheet-633f761ac250)
 - [ ] [A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/@SilentHackz/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-cb1716d35381)
 - [ ] [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
+- [x] [Things You Didn’t Know You Could Do With The Console in JavaScript](https://medium.com/the-non-traditional-developer/things-you-didnt-know-you-could-do-with-the-console-in-javascript-6eed68ccf534)
 - [ ] [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 - [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [ ] [ES6: Классы](https://learn.javascript.ru/es-class)
@@ -279,6 +281,9 @@ This collection is just about everything connected to web development. As it was
 - [x] Book: JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
 - [ ] Book: JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
 - [ ] Book: JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
+
+# TypeScript
+- [x] [Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
 # Angular
 - [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
