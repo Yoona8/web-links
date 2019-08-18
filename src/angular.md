@@ -14,13 +14,13 @@
 - [ContentChild and ng-content]
 - [View Encapsulation]
 - [Component Life-cycle]
-- [Directives]
-  - [Attribute]
-  - [Structural]
+- [Directives](#directives)
+  - [Attribute](#attribute)
+  - [Structural](#structural)
   - [Custom]
-- [Models]
-- [Routing]
-  - [Setting up]
+- [Models](#models)
+- [Routing](#routing)
+  - [Setting up](#setting-up)
   - [Adding routes]
   - [Links and navigation]
   - [Parameters]
@@ -29,36 +29,36 @@
 
 ## How Angular builds the App
 1. main.ts
-  * `.bootstrapModule(AppModule)` (import `AppModule`)
-    ```TypeScript
-    import { enableProdMode } from '@angular/core';
-    import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+    - `.bootstrapModule(AppModule)` (import `AppModule`)
+      ```TypeScript
+      import { enableProdMode } from '@angular/core';
+      import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
-    import { AppModule } from './app/app.module';
-    import { environment } from './environments/environment';
+      import { AppModule } from './app/app.module';
+      import { environment } from './environments/environment';
 
-    if (environment.production) {
-      enableProdMode();
-    }
+      if (environment.production) {
+        enableProdMode();
+      }
 
-    platformBrowserDynamic().bootstrapModule(AppModule)
-      .catch(err => console.error(err));
-    ```
+      platformBrowserDynamic().bootstrapModule(AppModule)
+        .catch(err => console.error(err));
+      ```
 2. app.module.ts
-  * `bootstrap: [AppComponent]` root component, in the decorator `@NgModule` (from `@angular/core`)
-  * `bootstrap: [...]` [] of should be known components when Angular analyses `index.html`
+    - `bootstrap: [AppComponent]` root component, in the decorator `@NgModule` (from `@angular/core`)
+    - `bootstrap: [...]` [] of should be known components when Angular analyses `index.html`
 3. index.html
-  * `<app-root></app-root>` (other components are added inside the root components)
+    - `<app-root></app-root>` (other components are added inside the root components)
 
 ## AppModule
 - bundles different pieces into one package
 - custom modules mostly for big projects
 - gives Angular info on which features to use
 - `@NgModule` from `@angular/core`
-  - `declarations[]` components, directives
-  - `imports[]` modules
-  - `bootstrap[]` root component (needed on start)
-  - `providers[]` services
+  - `declarations: []` components, directives
+  - `imports: []` modules
+  - `bootstrap: []` root component (needed on start)
+  - `providers: []` services
 
 ## Debugging
 
@@ -69,3 +69,51 @@
 ## Binding to custom property
 
 ## Binding to custom events
+
+## Directives
+
+### Attribute
+- looks like a normal HTML attribute
+- doesn't change DOM
+- event and data bindings are possible
+- multiple on one element
+- `[ngStyle]="{ 'background-color': 'prop' }"` or `[ngStyle]="{ backgroundColor: 'prop' }"`
+- `[ngClass]="{ 'class-name': boolean }"` or `[ngClass]="{ className: boolean }"`
+- `ngSwitch` directive is also attribute, but cases are structural
+
+### Structural
+- looks like a normal HTML attribute with a leading `*`
+- affects DOM (elements get added or removed)
+- can't use multiple on one element (error!)
+- if directive
+  - `*ngIf="boolean; else noServer"` else is optional
+  - `<ng-template #noServer>` to use else
+- for directive
+  - `*ngFor="let item of items; let i = index"` index is optional
+- `*ngSwitchCase`
+
+## Models
+- `recipe.model.ts` and `RecipeModel` naming
+- no decorator, just a simple class
+- works like a blueprint
+- props creation (2 ways)
+  - `constructor(public name: string) {}` shortcut, provided by TypeScript
+  - ```TypeScript
+    public name: string;
+    constructor(name: string) { this.name = name }
+    ```
+
+## Routing
+
+### Setting up
+- needed for adding navigation URLs
+- `app-routing.module.ts` and `AppRoutingModule` naming
+- `declarations: []` is not needed, all the components are declared in app.module
+- import components
+- `const appRoutes: Routes = [{...}];` from `@ang/router` add routes before decorator
+- `@NgModule` from `@ang/core`
+  - `imports: [RouterModule.forRoot(appRoutes)]` from `@ang/router` register routes (add configuration)
+  - `exports: [RouterModule]` export what should be imported and accessible in another module
+- `imports: [AppRoutingModule]` add module to app.module
+- `<router-outlet></router-outlet>` directive to the html, where we want to load the components from routes
+- `RouterModule.forRoot(appRoutes, { useHash: true })` hack for old browsers and servers with full paths (not returning index.html on 404 error)
