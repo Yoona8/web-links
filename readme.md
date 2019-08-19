@@ -1,7 +1,7 @@
 # Content
 I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
 This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
-- [General](#general-information)
+- [General](#general)
 - [A11y](#a11y)
 - [People](#people)
 - [Resources](#resources)
@@ -35,7 +35,6 @@ This collection is just about everything connected to web development. As it was
 - [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [x] [БЭМ-методология](https://ru.bem.info/)
-- [ ] [Advanced Techniques and Ideas for Better Coding Skills](https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675)
 - [x] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 - [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [x] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)

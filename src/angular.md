@@ -15,9 +15,10 @@
 - [View Encapsulation]
 - [Component Life-cycle]
 - [Directives](#directives)
-  - [Attribute](#attribute)
-  - [Structural](#structural)
-  - [Custom]
+  - [Attribute built-in](#attribute-built-in)
+  - [Structural built-in](#structural-built-in)
+  - [Attribute custom]
+  - [Structural custom](#structural-custom)
 - [Models](#models)
 - [Routing](#routing)
   - [Setting up](#setting-up)
@@ -72,7 +73,7 @@
 
 ## Directives
 
-### Attribute
+### Attribute built-in
 - looks like a normal HTML attribute
 - doesn't change DOM
 - event and data bindings are possible
@@ -81,7 +82,7 @@
 - `[ngClass]="{ 'class-name': boolean }"` or `[ngClass]="{ className: boolean }"`
 - `ngSwitch` directive is also attribute, but cases are structural
 
-### Structural
+### Structural built-in
 - looks like a normal HTML attribute with a leading `*`
 - affects DOM (elements get added or removed)
 - can't use multiple on one element (error!)
@@ -91,6 +92,45 @@
 - for directive
   - `*ngFor="let item of items; let i = index"` index is optional
 - `*ngSwitchCase`
+
+### Attribute custom
+
+### Structural custom
+- ```html
+  <div *ngIf="condition">
+    <p>Some content</p>
+  </div>
+  ```
+  turns into
+  ```html
+  <ng-template [ngIf]="condition">
+    <div>
+      <p>Some content</p>
+    </div>
+  </ng-template>
+  ```
+- `ng g d directive_name` to generate directive with Angular CLI
+- `unless.directive.ts` and `UnlessDirective` naming
+- ```TypeScript
+  import { Directive, Input, ViewContainerRef, TemplateRef } from '@angular/core';
+
+  @Directive({
+    selector: '[appUnless]' // any name
+  })
+
+  export class UnlessDirective {
+    @Input() set appUnless(condition: boolean) { // name === directory selector
+      if (!condition) {
+        this.vcRef.createEmbeddedView(this.templateRef);
+      } else {
+        this.vcRef.clear();
+      }
+    }
+
+    constructor(private vcRef: ViewContainerRef, private templateRef: TemplateRef<any>) {}
+  }
+  ```
+- `<div *appUnless="condition">...</div>` to use
 
 ## Models
 - `recipe.model.ts` and `RecipeModel` naming
