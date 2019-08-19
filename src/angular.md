@@ -1,5 +1,4 @@
 # Angular
-- Don't import with .ts (extensions)? webpack does it by itself on build.
 
 ## Content
 - [How Angular builds the App](#how-angular-builds-the-app)
@@ -33,6 +32,7 @@
 - [Observables]
 
 ## How Angular builds the App
+- don't import with .ts extensions, webpack adds it 
 1. main.ts
     - `.bootstrapModule(AppModule)` (import `AppModule`)
       ```TypeScript
