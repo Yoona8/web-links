@@ -20,6 +20,10 @@
   - [Attribute custom]
   - [Structural custom](#structural-custom)
 - [Models](#models)
+- [Services](#services)
+  - [Usage, hierarchical injector](#usage-hierarchical-injector)
+  - [In other services](#in-other-services)
+  - [Cross-component communication](#cross-component-communication)
 - [Routing](#routing)
   - [Setting up](#setting-up)
   - [Adding routes]
@@ -142,6 +146,37 @@
     public name: string;
     constructor(name: string) { this.name = name }
     ```
+
+## Services
+
+### Usage, hierarchical injector
+- common cases to use
+  - working with data
+  - DRY
+  - centralize functionality
+- has no decorators
+- NOT! `const loggingService = new LoggingService();` Angular has better way (hierarchical dependency injector)
+  - injects dependency into our component automatically
+  - `constructor(private logService: LoggingService) {}` to inform Angular that we require such an instance, type is required
+  - `providers: [LoggingService]` to let Angular know, how to give us a dependency
+- hierarchical dependency injector levels
+  - module level - the highest: services, components
+  - root component level - components
+  - component level - current components and all the children
+  - lower levels override higher (create a new instance of a service)
+
+### In other services
+1. provide on module level
+    - `providers: [LoggingService]` in app.module 
+    - `@Injectable({ provideIn: 'root' })` inside the service, also for lazy load (Angular 6+)
+2. import the service
+3. `constructor(private loggingService: LoggingService) {}`
+4. `@Injectable()` to allow injecting a service
+
+### Cross-component communication
+- add a custom event to the service
+- emit the event in one component
+- subscribe to the event in another component
 
 ## Routing
 
