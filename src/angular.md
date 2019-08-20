@@ -75,6 +75,23 @@
 ## Components
 
 ## Data-binding inside one component
+- communication between business logic and view
+- updates dynamically at runtime
+- output data
+  - `{{ data }}` string interpolation
+    - no multiline
+    - resolved to a string
+  - `[prop]="data"` property binding
+    - `[]` indicates to angular that it's a property binding
+  - can't mix string interpolation and prop binding
+- event binding (react dynamically to an event)
+  - `(click)="onButtonClick($event)"`
+    - `()` indicates event binding
+    - `$event` reserved name, browser `Event`
+- two-way binding
+  - `[(ngModel)]="data"` directive of `FormsModule`
+    - `FormsModule` from `@ang/forms` import to `app.module.ts`
+    - `[()]` combination of prop and event binding
 
 ## Binding to custom property
 
