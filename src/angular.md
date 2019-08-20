@@ -66,6 +66,11 @@
   - `providers: []` services
 
 ## Debugging
+- find an error in the console
+- using sourcemaps and breakpoints in browser
+  - `sources` => `webpack` => `.` => `src`
+- using `debugger;`
+- using chrome extension Augury (access from dev tools)
 
 ## Components
 
