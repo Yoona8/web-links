@@ -10,7 +10,7 @@
 - [Binding to custom events](#binding-to-custom-events)
 - [Local References]
 - [ViewChild]
-- [ContentChild and ng-content]
+- [ContentChild and ng-content](#contentchild-and-ng-content)
 - [View Encapsulation]
 - [Component Life-cycle]
 - [Directives](#directives)
@@ -96,6 +96,15 @@
 ## Binding to custom property
 
 ## Binding to custom events
+
+## ContentChild and ng-content
+- `<ng-content></ng-content>` hook to project html content from parent to child
+- `<app-child>...</app-child>` without `ng-content` ... content is lost
+- `#locRef` add to a parent's html
+- `@ContentChild('locRef') element: ElementRef` from `@ang/core` to access `<ng-content>` from parent in child
+- `this.element.nativeElement` to access html element
+- `@ContentChild('locRef', { static: true })` < 9 ver `true` if we plan to access from `ngOnInit()`, `false` otherwise
+- don't change value via this approach
 
 ## Directives
 
