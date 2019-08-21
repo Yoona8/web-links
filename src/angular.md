@@ -96,6 +96,11 @@
 ## Binding to custom property
 
 ## Binding to custom events
+- to inform parent from child
+- `@Output() cardAdded = new EventEmitter<card>();` from `@ang/core` create a custom event in child
+- `onAddCardClick() { this.cardAdded.emit(card); }` emit the event from child
+- `<app-child (cardAdded)="onCardAdded($event)">` bind from parent
+- `@Output('cAdded') cardAdded = ...` use not `(cardAdded)="..."`, but `(cAdded)="..."`
 
 ## ContentChild and ng-content
 - `<ng-content></ng-content>` hook to project html content from parent to child
