@@ -11,7 +11,7 @@
 - [Local References]
 - [ViewChild]
 - [ContentChild and ng-content](#contentchild-and-ng-content)
-- [View Encapsulation]
+- [View Encapsulation](#view-encapsulation)
 - [Component Life-cycle]
 - [Directives](#directives)
   - [Attribute built-in](#attribute-built-in)
@@ -110,6 +110,12 @@
 - `this.element.nativeElement` to access html element
 - `@ContentChild('locRef', { static: true })` < 9 ver `true` if we plan to access from `ngOnInit()`, `false` otherwise
 - don't change value via this approach
+
+## View Encapsulation
+- `encapsulation: ViewEncapsulation.Emulated` from `@ang/core` add to the decorator
+  - `Emulated` angular emulates shadow DOM (creates unique attributes)
+  - `Native` uses shadow DOM (not supported by all browsers)
+  - `None` no attributes added
 
 ## Directives
 
