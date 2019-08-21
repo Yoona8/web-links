@@ -30,26 +30,26 @@ This collection is just about everything connected to web development. As it was
 - [Unsorted](#unsorted)
 
 # General
-- [x] [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [x] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
-- [x] [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [x] [BEM: БЭМ-методология](https://ru.bem.info/)
+- [x] [Browsers: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
+- [x] [Case: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
 - [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
-- [x] [БЭМ-методология](https://ru.bem.info/)
-- [x] [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
-- [ ] [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
-- [x] [How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/)
+- [x] [Guide: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [x] [Guide: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [ ] [Story: What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 - [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
 - [ ] [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
 - [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
+- [x] [Book: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 
 # A11y
-- [x] [ARIA spec](https://www.w3.org/TR/wai-aria-1.1/)
-- [x] [Deque](https://www.deque.com/) tools and articles about a11y
-- [x] [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+- [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
+- [x] [Resource: Deque](https://www.deque.com/) tools and articles about a11y.
+- [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 - [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-- [ ] [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
+- [x] [Optimization: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/) - skip links, shortcut menus, user education, modal focusing, navigation menus, logical focus after some user events.
 
 # People
 - [x] [Addy Osmani](https://addyosmani.com/)
@@ -73,7 +73,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
 - [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
 - [ ] [Conf list](https://confs.tech/javascript)
-- [ ] [Checklist Design](https://www.checklist.design/) - A collection of the best UX and UI practices.
+- [ ] [Checklist Design](https://www.checklist.design/) - a collection of the best UX and UI practices.
 - [ ] [Dev](https://dev.to/)
 
 # Courses and practice
@@ -141,7 +141,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 
 # Fonts
-- [ ] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [x] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
@@ -302,9 +302,8 @@ This collection is just about everything connected to web development. As it was
 - [ ] [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
 
 # Dotnet
-- [x] [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
-## Books
-- [ ] [Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+- [x] [Lessons: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+- [ ] [Book: Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
 
 # Node JS
 - [ ] [Discovering Your Local Node Meetups, Events, and Speakers](https://medium.com/@nodejs/discovering-your-local-node-meetups-events-and-speakers-60cf0d04a878)
