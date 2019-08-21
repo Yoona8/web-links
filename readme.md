@@ -91,13 +91,9 @@ This collection is just about everything connected to web development. As it was
 
 # HTML
 - [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
-- [x] [The i, b, em, strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [ ] [Семантика или смерть](https://events.yandex.ru/lib/talks/1520/)
 - [ ] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
-- [ ] [Computer says NO to HTML5 document outline](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
-- [ ] [How to Disable Links](https://css-tricks.com/how-to-disable-links/)
-- [ ] [The Output Element](https://css-tricks.com/the-output-element/)
-- [ ] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
+- [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
 # CSS
 - [x] [Standards](https://www.w3.org/Style/CSS/)
