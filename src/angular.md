@@ -25,7 +25,7 @@
   - [Cross-component communication](#cross-component-communication)
 - [Routing](#routing)
   - [Setting up](#setting-up)
-  - [Adding routes]
+  - [Adding routes](#adding-routes)
   - [Links and navigation]
   - [Parameters]
   - [Query parameters and fragments]
@@ -234,3 +234,18 @@
 - `imports: [AppRoutingModule]` add module to app.module
 - `<router-outlet></router-outlet>` directive to the html, where we want to load the components from routes
 - `RouterModule.forRoot(appRoutes, { useHash: true })` hack for old browsers and servers with full paths (not returning index.html on 404 error)
+
+### Adding routes
+- `const appRoutes: Routes = [{ ... }];` from `@ang/router`
+  - `path`
+    - `path: ''` for starting (root) page
+    - `path: 'users'` without `/` (error)
+    - `path: ':id'` to use dynamic paths
+    - `path: '**'` catches all paths, which are not specified, must be the last route
+  - `component: ServerComponent` which component should be displayed when the path will be reached
+  - `redirectTo: 'path'` but without component
+  - `pathMatch: 'full'` reconfigures the default (when matched by prefix, so `/recipes` and `/` both match `''` path)
+  - `children: []` array of routes, nested in parent component, `<router-outlet>` required on parent
+  - `canActivate: []` guards
+  - `canActivateChild: []` guards
+  - `data: { message: 'Page not found!' }` to pass some static data
