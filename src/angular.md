@@ -26,7 +26,7 @@
 - [Routing](#routing)
   - [Setting up](#setting-up)
   - [Adding routes](#adding-routes)
-  - [Links and navigation]
+  - [Links and navigation](#links-and-navigation)
   - [Parameters]
   - [Query parameters and fragments]
 - [Observables]
@@ -244,8 +244,25 @@
     - `path: '**'` catches all paths, which are not specified, must be the last route
   - `component: ServerComponent` which component should be displayed when the path will be reached
   - `redirectTo: 'path'` but without component
-  - `pathMatch: 'full'` reconfigures the default (when matched by prefix, so `/recipes` and `/` both match `''` path)
+  - `pathMatch: 'full'` reconfigures the default (when matched by prefix, so `/recipes` and `/` both match `'/recipes'` path)
   - `children: []` array of routes, nested in parent component, `<router-outlet>` required on parent
   - `canActivate: []` guards
   - `canActivateChild: []` guards
   - `data: { message: 'Page not found!' }` to pass some static data
+
+### Links and navigation
+Navigating via links
+- `href="/recipes"` === type manually, works, but reloads the app
+- `routerLink="/recipes"` or `[routerLink]="['/users', 'user']"` second (and more) path without `/`, angular catches the event and prevents default
+- routes can be absolute and relative (from current component)
+- `routerLinkActive="class-name"` could be added to a link or it's wrapper
+- `[routerLinkOptions]="{ exact: true }"` for exact path match (full)
+
+Navigating programmatically
+- `router: Router` from `@ang/router` inject
+- `this.router.navigate(['/users', 'user'])` like in `[routerLink]`, but doesn't know about current route
+- `route: ActivatedRoute` from `@ang/router` inject, contains current route object
+- `this.router.navigate([...], { relativeTo: this.route })`
+- `this.router.navigate([...], { relativeTo: this.route, queryParamsHandling: '...' })`
+  - `merge` merges current + navigate to params
+  - `preserve` to keep only current params
