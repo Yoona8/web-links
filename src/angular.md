@@ -16,7 +16,7 @@
 - [Directives](#directives)
   - [Attribute built-in](#attribute-built-in)
   - [Structural built-in](#structural-built-in)
-  - [Attribute custom]
+  - [Attribute custom](#attribute-custom)
   - [Structural custom](#structural-custom)
 - [Models](#models)
 - [Services](#services)
@@ -149,6 +149,11 @@
 - `*ngSwitchCase`
 
 ### Attribute custom
+- `@Directive({ selector: '[appHighlight]' })` from `@ang/core`
+- `constructor(private element: ElementRef) {}` from `@ang/core` inject to access the element
+  - `this.element.nativeElement` to access directly, but in some complicated cases could not get rendered yet
+  - `constructor(private renderer: Renderer2) {}` form `@ang/core` is better
+  - `this.renderer.setStyle(this.element.nativeElement, 'color', 'green', ~flags)` flags like `!important` etc
 
 ### Structural custom
 - ```html
