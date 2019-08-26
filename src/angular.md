@@ -9,7 +9,7 @@
 - [Binding to custom property](#binding-to-custom-property)
 - [Binding to custom events](#binding-to-custom-events)
 - [Local References]
-- [ViewChild]
+- [ViewChild](#viewchild)
 - [ContentChild and ng-content](#contentchild-and-ng-content)
 - [View Encapsulation](#view-encapsulation)
 - [Component Life-cycle]
@@ -102,6 +102,15 @@
 - `<app-child (cardAdded)="onCardAdded($event)">` bind from parent
 - `@Output('cAdded') cardAdded = ...` use not `(cardAdded)="..."`, but `(cAdded)="..."`
 
+## ViewChild
+- to get access to the html element from ts file
+- `@ViewChild(Component / 'localRef') element: ElementRef` from `@ang/core`
+  - `Component` returns the first occurrence of the component in the app
+  - `localRef` returns an element with this localRef
+- `{ static: true / false }` true if we plan to use it inside `ngOnInit()` (for Angular < 9)
+- `this.element.nativeElement` to use
+- don't change the value via this approach
+
 ## ContentChild and ng-content
 - `<ng-content></ng-content>` hook to project html content from parent to child
 - `<app-child>...</app-child>` without `ng-content` ... content is lost
@@ -109,7 +118,7 @@
 - `@ContentChild('locRef') element: ElementRef` from `@ang/core` to access `<ng-content>` from parent in child
 - `this.element.nativeElement` to access html element
 - `@ContentChild('locRef', { static: true })` < 9 ver `true` if we plan to access from `ngOnInit()`, `false` otherwise
-- don't change value via this approach
+- don't change the value via this approach
 
 ## View Encapsulation
 - `encapsulation: ViewEncapsulation.Emulated` from `@ang/core` add to the decorator

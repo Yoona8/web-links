@@ -75,34 +75,32 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Conf list](https://confs.tech/javascript)
 - [ ] [Checklist Design](https://www.checklist.design/) - a collection of the best UX and UI practices.
 - [ ] [Dev](https://dev.to/)
+- [ ] [Codrops](https://tympanus.net/codrops/)
 
 # Courses and practice
 - [x] [Codewars](https://www.codewars.com/dashboard)
 - [x] [HackerRank](https://www.hackerrank.com/dashboard)
 - [x] [JavaScript functions - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
-- [ ] [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+- [x] [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 - [x] [Code with Mosh](https://codewithmosh.teachable.com/)
 - [x] [FreeCodeCamp](https://www.freecodecamp.org/)
 - [ ] [SitePoint](https://www.sitepoint.com/)
-- [ ] [Flatiron School](https://flatironschool.com/)
+- [x] [Flatiron School](https://flatironschool.com/)
 - [ ] [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
-- [ ] [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [x] [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [ ] [Springboard](https://www.springboard.com/)
 
 # HTML
-- [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works)
-- [ ] [Семантика или смерть](https://events.yandex.ru/lib/talks/1520/)
+- [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works) in Russian
 - [ ] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 - [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
 # CSS
 - [x] [Standards](https://www.w3.org/Style/CSS/)
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [ ] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [ ] [CSS Triggers](https://csstriggers.com/)
-- [ ] [Codrops](https://tympanus.net/codrops/)
 - [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
-- [ ] [How to make HTML disappear completely](https://www.freecodecamp.org/news/how-to-disappear-completely-2f23ddb14835/)
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
@@ -125,7 +123,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 - [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
-- [ ] [Styling Cross-Browser Compatible Range Inputs with CSS](https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/)
 - [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
 - [ ] [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
