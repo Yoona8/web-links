@@ -27,7 +27,7 @@
   - [Setting up](#setting-up)
   - [Adding routes](#adding-routes)
   - [Links and navigation](#links-and-navigation)
-  - [Parameters]
+  - [Dynamic paths parameters](#dynamic-paths-parameters)
   - [Query parameters and fragments]
 - [Observables]
 
@@ -280,3 +280,5 @@ Navigating programmatically
 - `this.router.navigate([...], { relativeTo: this.route, queryParamsHandling: '...' })`
   - `merge` merges current + navigate to params
   - `preserve` to keep only current params
+
+### Dynamic paths parameters
