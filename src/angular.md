@@ -282,3 +282,9 @@ Navigating programmatically
   - `preserve` to keep only current params
 
 ### Dynamic paths parameters
+- get parameters from paths like `:id`
+- `constructor(private route: ActivatedRoute) {}` inject from `@ang/router`
+- `this.route.snapshot.params['id']` to access the parameter in the initialization, not dynamic
+- but by default Angular doesn't re-instantiate the component we currently in
+- `this.route.params.subscribe((params: Params) => this.id = params['id])` for dynamical use the params observable
+- don't need to unsubscribe, for this case Angular does it automatically on component is destroyed 
