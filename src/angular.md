@@ -8,7 +8,7 @@
 - [Data-binding inside one component](#data-binding-inside-one-component)
 - [Binding to custom property](#binding-to-custom-property)
 - [Binding to custom events](#binding-to-custom-events)
-- [Local References]
+- [Local References](#local-references)
 - [ViewChild](#viewchild)
 - [ContentChild and ng-content](#contentchild-and-ng-content)
 - [View Encapsulation](#view-encapsulation)
@@ -109,6 +109,12 @@
 - `onAddCardClick() { this.cardAdded.emit(card); }` emit the event from child
 - `<app-child (cardAdded)="onCardAdded($event)">` bind from parent
 - `@Output('cAdded') cardAdded = ...` use not `(cardAdded)="..."`, but `(cAdded)="..."`
+
+## Local References
+- usage inside a template, for ex when we don't need two-way binding
+- returns an HTML element
+- `#locRef` to any element
+- `(click)="onButtonClick(locRef)"` or `{{ locRef.value }}`
 
 ## ViewChild
 - to get access to the html element from ts file
