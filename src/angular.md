@@ -73,6 +73,14 @@
 - using chrome extension Augury (access from dev tools)
 
 ## Components
+- `@Component({})` from `@ang/core`
+  - `selector: 'app-name' / '[appDir]' / '.class'` unique string
+    - `<app-name>` typically for components
+    - `<p appDir>` typically for directives
+  - `template / templateUrl` required, only one notation
+  - `styles / styleUrls` optional, only one notation
+- `declarations: []` add to module
+- `ng g c _component-name_` to create with CLI
 
 ## Data-binding inside one component
 - communication between business logic and view
