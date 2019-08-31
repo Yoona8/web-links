@@ -28,7 +28,7 @@
   - [Adding routes](#adding-routes)
   - [Links and navigation](#links-and-navigation)
   - [Dynamic paths parameters](#dynamic-paths-parameters)
-  - [Query parameters and fragments]
+  - [Query parameters and fragments](#query-parameters-and-fragments)
 - [Observables]
 
 ## How Angular builds the App
@@ -312,4 +312,19 @@ Navigating programmatically
 - `this.route.snapshot.params['id']` to access the parameter in the initialization, not dynamic
 - but by default Angular doesn't re-instantiate the component we currently in
 - `this.route.params.subscribe((params: Params) => this.id = params['id])` for dynamical use the params observable
-- don't need to unsubscribe, for this case Angular does it automatically on component is destroyed 
+- don't need to unsubscribe, for this case Angular does it automatically on component is destroyed
+
+### Query parameters and fragments
+Via links
+- `[queryParams]="{ allowEdit: '1', id: '2' }"` to `?allowEdit=1&id=2` bindable property of router directive
+- `[fragment]="'loading'"` to `#loading`
+
+Programmatically
+- `constructor(private router: Router)` from `@ang/router`
+- `this.router.navigate(['/users', id, 'edit'], { queryParams: { allowEdit: '1' }, fragment: 'loading' })`
+- `queryParamsHandling: 'preserve' / 'merge'` don't forget to add
+
+Getting parameters and fragments
+- `constructor(private route: ActivatedRoute)` from `@ang/router`
+- `this.route.snapshot.queryParams / fragment` for static
+- `this.route.queryParams / fragment.subscribe()` for dynamic
