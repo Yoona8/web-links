@@ -12,7 +12,7 @@
 - [ViewChild](#viewchild)
 - [ContentChild and ng-content](#contentchild-and-ng-content)
 - [View Encapsulation](#view-encapsulation)
-- [Component Life-cycle]
+- [Component Lifecycle](#component-lifecycle)
 - [Directives](#directives)
   - [Attribute built-in](#attribute-built-in)
   - [Structural built-in](#structural-built-in)
@@ -139,6 +139,17 @@
   - `Emulated` angular emulates shadow DOM (creates unique attributes)
   - `Native` uses shadow DOM (not supported by all browsers)
   - `None` no attributes added
+
+## Component lifecycle
+0. `constructor()`
+1. `ngOnChanges(changes: SimpleChanges)` from `@ang/core` multi, after bound props change, changes contains those props
+2. `ngOnInit()` once, when the component is initiated
+3. `ngDoCheck()` multi, during every change detection runs (by Angular)
+4. `ngAfterContentInit()` once, after `<ng-content>` has been projected into the view, can't access `@ContentChild` before
+5. `ngAfterContentChecked()` multi, change detection
+6. `ngAfterViewInit()` once, after view and child views initiated
+7. `ngAfterViewChecked()` multi, change detection
+8. `ngOnDestroy()` once, when about to be destroyed (ex `*ngIf`), clean-up here
 
 ## Directives
 
