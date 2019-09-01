@@ -139,11 +139,12 @@ This collection is just about everything connected to web development. As it was
 
 # Fonts
 - [x] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
-- [ ] [Fonts: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
-- [ ] [Fonts: Variable Fonts](https://variablefonts.dev/)
+- [ ] [SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
+- [ ] [Variable Fonts](https://variablefonts.dev/)
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 - [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
 - [ ] [Fonts: FontForge](https://fontforge.github.io/en-US/)
+- [x] [Fonts storage](https://fontstorage.com/)
 - [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 - [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 - [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)

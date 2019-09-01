@@ -102,6 +102,9 @@
     - `[()]` combination of prop and event binding
 
 ## Binding to custom property
+- `@Input() element: string;` from `@ang/core` decorator is needed, because by default all the props of the component are accessible only inside of the component
+- `[element]="'element'"` to pass the value from parent
+- `@Input('el') element: string;` to pass value now use `[el]`
 
 ## Binding to custom events
 - to inform parent from child
