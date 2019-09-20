@@ -91,7 +91,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Springboard](https://www.springboard.com/)
 
 # HTML
-- [ ] [Meta viewport and how it works](https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works) in Russian
+- [x] [Specification](https://www.w3.org/TR/html52/)
 - [ ] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 - [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
