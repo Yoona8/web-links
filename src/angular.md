@@ -17,6 +17,7 @@
   - [Attribute built-in](#attribute-built-in)
   - [Structural built-in](#structural-built-in)
   - [Attribute custom](#attribute-custom)
+  - [Binding custom](#binding-custom)
   - [Structural custom](#structural-custom)
 - [Models](#models)
 - [Services](#services)
@@ -182,6 +183,17 @@
   - `this.element.nativeElement` to access directly, but in some complicated cases could not get rendered yet
   - `constructor(private renderer: Renderer2) {}` form `@ang/core` is better
   - `this.renderer.setStyle(this.element.nativeElement, 'color', 'green', ~flags)` flags like `!important` etc
+
+### Binding custom
+- `@HostListener('mouseenter') hover(eventData: Event) { this.renderer... };` from `@ang/core` works like adding an event listener on the tag, where the directive is used
+- `@HostBinding('style.backgroundColor') backgroundColor: string = transparent;` from `@ang/core` have to set initial color not to get an error
+- `this.backgroundColor = 'blue';` now can be used instead of renderer
+- `@Input() defaultColor: string = 'transparent';` to bind to a custom property
+- `@HostBinding('style.backgroundColor') backgroundColor: string = this.defaultColor;` won't work on init
+- `ngOnInit() { this.backgroundColor = this.defaultColor; }` have to set it here
+- `@Input('appDirName') ...` to bind to the same name as a directive selector
+- `<p appDirName>` if not the same name for the prop
+- `<p [appDirName]="'blue'">` when the name of the prop is the same
 
 ### Structural custom
 - ```html
