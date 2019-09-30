@@ -33,12 +33,11 @@ This collection is just about everything connected to web development. As it was
 - [x] [BEM: БЭМ-методология](https://ru.bem.info/)
 - [x] [Browsers: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
 - [x] [Case: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
-- [ ] [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding)
 - [x] [Guide: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [x] [Guide: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] [Story: What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
-- [ ] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
-- [ ] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
+- [x] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [x] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 - [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
 - [ ] [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
 - [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
@@ -92,20 +91,20 @@ This collection is just about everything connected to web development. As it was
 
 # HTML
 - [x] [Specification](https://www.w3.org/TR/html52/)
-- [ ] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
+- [x] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 - [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
 # CSS
 - [x] [Standards](https://www.w3.org/Style/CSS/)
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-- [ ] [CSS Triggers](https://csstriggers.com/)
-- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
+- [x] [CSS Triggers](https://csstriggers.com/)
+- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e) p
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [ ] [State of CSS 2019](https://2019.stateofcss.com/)
+- [x] [State of CSS 2019](https://2019.stateofcss.com/)
 - [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
 - [ ] [Layouts](https://every-layout.dev/)
 - [ ] [Layouts: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
@@ -131,11 +130,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 - [ ] [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
 - [ ] [Houdini](https://css-houdini.rocks/js-in-css/)
-
-# SASS
-- [ ] [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
-- [ ] [Online compiler](https://www.sassmeister.com/)
-- [ ] [An opinionated styleguide for writing sane, maintainable and scalable Sass.](https://sass-guidelin.es/)
 
 # Fonts
 - [x] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
