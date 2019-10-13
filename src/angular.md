@@ -30,6 +30,7 @@
   - [Links and navigation](#links-and-navigation)
   - [Dynamic paths parameters](#dynamic-paths-parameters)
   - [Query parameters and fragments](#query-parameters-and-fragments)
+  - [Guards: canActivate](#guards-canactivate)
 - [Observables]
 
 ## How Angular builds the App
@@ -263,8 +264,8 @@
 
 ### In other services
 1. provide on module level
-    - `providers: [LoggingService]` in app.module 
-    - `@Injectable({ provideIn: 'root' })` inside the service, also for lazy load (Angular 6+)
+  - `providers: [LoggingService]` in app.module 
+  - `@Injectable({ provideIn: 'root' })` inside the service, also for lazy load (Angular 6+)
 2. import the service
 3. `constructor(private loggingService: LoggingService) {}`
 4. `@Injectable()` to allow injecting a service
@@ -343,3 +344,51 @@ Getting parameters and fragments
 - `constructor(private route: ActivatedRoute)` from `@ang/router`
 - `this.route.snapshot.queryParams / fragment` for static
 - `this.route.queryParams / fragment.subscribe()` for dynamic
+
+### Guards: canActivate
+- to protect the route, runs before entering the route
+- `canActivate(Child): [AuthGuard]` add to the route to protect route + children or children only
+- `auth-guard.service.ts` export `AuthGuard(Service)`
+- `CanActivate(Child)` implements from `@ang/router`
+- for ex add some fake service
+  ```TypeScript
+  export class AuthService {
+    isLoggedIn = false;
+    
+    isAuthenticated() {
+      return new Promise((resolve, reject) => {
+        setTimeout(() => { resolve(this.isLoggedIn); }, 800);
+      });
+    }
+    
+    login() {
+      // some logic
+    }
+  
+    logout() {
+      // some logic
+    }
+  }
+  ```
+- `AuthService` provide on the module level
+- `@Injectable()`add to guard service, provide on the module level
+- ```TypeScript
+  canActivate( // can run both async and static
+    route: ActivatedRouteSnapshot, 
+    state: RouterStateSnapshot,
+    router: Router, // from @ang/router
+    authService: AuthService
+  ): Observable<boolean> | Promise<boolean> | boolean { // from 'rxjs/Observable
+    return this.authService.isAuthenticated()
+      .then((authenticated: boolean) => {
+        if (authenticated) { 
+          return true; 
+        } else {
+          return false;
+          // or
+          this.router.navigate(['/']);
+        }
+      }
+    }
+  }
+  ```
