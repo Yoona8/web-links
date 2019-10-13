@@ -373,11 +373,11 @@ Getting parameters and fragments
 - `AuthService` provide on the module level
 - `@Injectable()`add to guard service, provide on the module level
 - ```TypeScript
+  constructor(private authService: AuthService, private router: Router) {}
+  
   canActivate( // can run both async and static
     route: ActivatedRouteSnapshot, 
-    state: RouterStateSnapshot,
-    router: Router, // from @ang/router
-    authService: AuthService
+    state: RouterStateSnapshot// from @ang/router
   ): Observable<boolean> | Promise<boolean> | boolean { // from 'rxjs/Observable
     return this.authService.isAuthenticated()
       .then((authenticated: boolean) => {
