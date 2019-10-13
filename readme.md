@@ -48,25 +48,38 @@ This collection is just about everything connected to web development. As it was
 - [x] [Resource: Deque](https://www.deque.com/) tools and articles about a11y.
 - [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 
-  <details>
-  <summary>Notes:</summary>
-  
-  - place interactive elements where easily accessible
-  - `inputmode="numeric"` for special keyboard even if `type="text"`
-  
-  </details>
+    <details>
+    <summary>Notes:</summary>
+    
+    - place interactive elements where easily accessible
+    - `inputmode="numeric"` for special keyboard even if `type="text"`
+    
+    </details>
 
 - [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-  * `color: currentColor` to reset color to normal text color
-  * `a[aria-disabled="true"]` not good to disable a link, but sometimes needed (hint to use a CSS selector)
-  * `output.value = ''` accessible in JS for `<output>`
+
+    <details>
+    <summary>Notes:</summary>
+    
+    - `color: currentColor` to reset color to normal text color
+    - `a[aria-disabled="true"]` not good to disable a link, but sometimes needed (hint to use a CSS selector)
+    - `output.value = ''` accessible in JS for `<output>`
+    
+    </details>
+  
 - [x] [Optimization: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
-  * skip links
-  * shortcut menus
-  * user education
-  * modal focusing
-  * navigation menus
-  * logical focus after some user events
+
+    <details>
+    <summary>Notes:</summary>
+    
+    - skip links
+    - shortcut menus
+    - user education
+    - modal focusing
+    - navigation menus
+    - logical focus after some user events
+    
+    </details>
 
 # People
 - [x] [Addy Osmani](https://addyosmani.com/)
@@ -82,8 +95,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Евгений Закурдаев](https://eugeno.ru/)
 
 # Resources
-- [ ] [CSS-live](http://css-live.ru/)
-  * frontend articles in ru
+- [ ] [CSS-live](http://css-live.ru/) frontend articles in ru
 - [ ] [Coding Heroes](https://codingheroes.io/resources/)
 - [ ] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [ ] [Htmlacademy blog](https://htmlacademy.ru/blog)
@@ -91,8 +103,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
 - [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
 - [ ] [Conf list](https://confs.tech/javascript)
-- [ ] [Checklist Design](https://www.checklist.design/)
-  * a collection of the best UX and UI practices
+- [ ] [Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
 - [ ] [Dev](https://dev.to/)
 - [ ] [Codrops](https://tympanus.net/codrops/)
 
@@ -112,28 +123,34 @@ This collection is just about everything connected to web development. As it was
 # HTML
 - [x] [Specification](https://www.w3.org/TR/html52/)
 - [x] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
-  * a11y for complex images (graphs or alike)
-    1. use short and long descriptions 
-       ```html
-       <img src="#" alt="short description" longdesc="#long-desc">
-       <!--or-->
-       <img src="#" alt="short description" aria-labelledby="#long-desc">
-       <p id="long-desc">Long description here.</p>
-       ```
-    2. use figure
-       ```html
-       <figure>
-           <img src="#" alt="short description">
-           <figcaption>Long description here.</figcaption>
-       </figure>
-       ```
-  * groups of images (like star rating) - fill alt only for one, for others leave empty
-    ```html
-    <img src="#" alt="4 out of 5 stars">
-    <img src="#" alt="">
-    ...
-    ```
-  * for super unique cases like clickable schemes `<map>` and `<area>` could be useful
+
+    <details>
+    <summary>Notes:</summary>
+    
+    * a11y for complex images (graphs or alike)
+        1. use short and long descriptions 
+            ```html
+            <img src="#" alt="short description" longdesc="#long-desc">
+            <!--or-->
+            <img src="#" alt="short description" aria-labelledby="#long-desc">
+            <p id="long-desc">Long description here.</p>
+            ```
+        2. use figure
+            ```html
+            <figure>
+             <img src="#" alt="short description">
+             <figcaption>Long description here.</figcaption>
+            </figure>
+            ```
+    * groups of images (like star rating) - fill alt only for one, for others leave empty
+        ```html
+        <img src="#" alt="4 out of 5 stars">
+        <img src="#" alt="">
+        ```
+    * for super unique cases like clickable schemes `<map>` and `<area>` could be useful
+    
+    </details>
+  
 - [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 
 # CSS
@@ -141,10 +158,10 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [x] [CSS Triggers](https://csstriggers.com/)
-- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e) p
+- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
-  * `:lang(ko)` styling on lang attributes
+    * `:lang(ko)` styling on lang attributes
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [State of CSS 2019](https://2019.stateofcss.com/)
