@@ -377,7 +377,7 @@ Getting parameters and fragments
   
   canActivate( // can run both async and static
     route: ActivatedRouteSnapshot, 
-    state: RouterStateSnapshot// from @ang/router
+    state: RouterStateSnapshot // from @ang/router
   ): Observable<boolean> | Promise<boolean> | boolean { // from 'rxjs/Observable
     return this.authService.isAuthenticated()
       .then((authenticated: boolean) => {
