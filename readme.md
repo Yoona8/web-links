@@ -35,12 +35,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [Case: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
 - [x] [Guide: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [x] [Guide: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ ] [Story: What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd?RGa=true)
 - [x] [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [x] [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
-- [ ] [How to effortlessly create a website for free with GitHub Pages](https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1)
-- [ ] [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
-- [ ] [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 - [x] [Book: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 
 # A11y
@@ -95,9 +91,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [Евгений Закурдаев](https://eugeno.ru/)
 
 # Resources
-- [ ] [CSS-live](http://css-live.ru/) frontend articles in ru
-- [ ] [Coding Heroes](https://codingheroes.io/resources/)
-- [ ] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [x] [Coding Heroes](https://codingheroes.io/resources/)
+- [x] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [ ] [Htmlacademy blog](https://htmlacademy.ru/blog)
 - [ ] [Google developers](https://developers.google.com/)
 - [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
@@ -158,7 +153,6 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [x] [CSS Triggers](https://csstriggers.com/)
-- [ ] [Things nobody ever taught me about CSS.](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
     * `:lang(ko)` styling on lang attributes
@@ -270,6 +264,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 - [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+- [x] [Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
 - [ ] Book: Code Complete (by Steve McConnell)
 
 # Programming
