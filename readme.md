@@ -202,6 +202,17 @@ This collection is just about everything connected to web development. As it was
 
 # SVG
 - [x] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - use fewer nodes
+    - fewer handles
+    - integers instead of floats
+    - grid not too big
+
+    </details>
+
 - [x] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
 - [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
 - [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
