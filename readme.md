@@ -43,7 +43,6 @@ This collection is just about everything connected to web development. As it was
 - [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
 - [x] [Resource: Deque](https://www.deque.com/) tools and articles about a11y.
 - [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-
     <details>
     <summary>Notes:</summary>
     
@@ -51,7 +50,6 @@ This collection is just about everything connected to web development. As it was
     - `inputmode="numeric"` for special keyboard even if `type="text"`
     
     </details>
-
 - [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
     <details>
