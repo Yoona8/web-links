@@ -214,7 +214,31 @@ This collection is just about everything connected to web development. As it was
     </details>
 
 - [x] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
-- [ ] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+    
+    <details>
+    <summary>Notes:</summary>
+
+    - HTML inline sprites `<svg><symbol>...</symbol></svg>`
+    - SVG sprite file (for IE add plugin svg4everybody)
+    - CSS inline SVG sprite (svg+xml, fallback base64, fallback images) can't change CSS props that way
+    - using SVG fragment ids and views (some bugs in Safari)
+
+    </details>
+
+- [x] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+    
+    <details>
+    <summary>Notes:</summary>
+
+    - nothing - just add sizes for browser not to re-render
+    - placeholder static - ex. a person svg for a person avatar
+    - solid color or gradient most suitable colors for the image
+    - svg simple shapes (vary 10-100), could be heavy
+    - svg simple shapes + blur filter more light and smooth
+    - svg silhouettes even with 2 colors look nice
+
+    </details>
+
 - [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
 
 # Design
