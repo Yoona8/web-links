@@ -45,34 +45,25 @@ This collection is just about everything connected to web development. As it was
 - [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
     <details>
     <summary>Notes:</summary>
-    
     - place interactive elements where easily accessible
     - `inputmode="numeric"` for special keyboard even if `type="text"`
-    
     </details>
 - [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-
     <details>
     <summary>Notes:</summary>
-    
     - `color: currentColor` to reset color to normal text color
     - `a[aria-disabled="true"]` not good to disable a link, but sometimes needed (hint to use a CSS selector)
     - `output.value = ''` accessible in JS for `<output>`
-    
     </details>
-  
 - [x] [Optimization: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
-
     <details>
     <summary>Notes:</summary>
-    
     - skip links
     - shortcut menus
     - user education
     - modal focusing
     - navigation menus
     - logical focus after some user events
-    
     </details>
 
 # People
