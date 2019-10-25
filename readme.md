@@ -239,7 +239,19 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [ ] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
+- [x] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
+    
+    <details>
+    <summary>Notes:</summary>
+
+    The conclusion from the article:
+    1. Compressing smaller raw data would probably produce smaller compressed data.
+    2. Fewer distinct characters means less entropy. Less entropy is better compression.
+    3. More frequently found characters are compressed with less number of bits. Getting rid of less common characters and making the more common chars to be even more common would most probably improve the compression.
+    4. Long runs of duplicated code are compressed with a few bits. DRY is not always the best option. Sometimes you’d like to repeat yourself to get better results.
+    5. Sometimes more raw data will produce smaller compressed data. Removing entropy will allow the compressor to better remove what is redundant.
+
+    </details>
 
 # Design
 - [ ] [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
