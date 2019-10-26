@@ -254,7 +254,6 @@ This collection is just about everything connected to web development. As it was
     </details>
 
 # Design
-- [ ] [“UX trends”. Don’t believe the hype.](https://blog.prototypr.io/ux-trends-dont-believe-the-hype-f4334dfbc2f0)
 - [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Design articles and courses](https://designacademy.io/)
 - [ ] [Sketch master courses](http://sketchmaster.com/)
