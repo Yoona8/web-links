@@ -282,10 +282,7 @@ This collection is just about everything connected to web development. As it was
 
 # Optimization
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [ ] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
-- [ ] [Чек-лист вёрстки  что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
-- [ ] [Что поправить в верстке перед выпуском в продакшн?](http://arinagavrilova.ru/skills-up/frontend/chto-popravit-v-verstke-pered-vypuskom-v-prodakshn/)
-- [ ] [Производительность верстки](http://h4.github.io/intensive-adaptive-lesson-7/#cover) слайды
+- [x] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 - [ ] [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [ ] [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [ ] [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
