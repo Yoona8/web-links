@@ -94,13 +94,13 @@ This collection is just about everything connected to web development. As it was
 # Resources
 - [x] [Coding Heroes](https://codingheroes.io/resources/)
 - [x] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [ ] [Htmlacademy blog](https://htmlacademy.ru/blog)
-- [ ] [Google developers](https://developers.google.com/)
-- [ ] [MDN Web docs](https://developer.mozilla.org/en-US/)
+- [x] [Htmlacademy blog](https://htmlacademy.ru/blog)
+- [x] [Google developers](https://developers.google.com/)
+- [x] [MDN Web docs](https://developer.mozilla.org/en-US/)
 - [ ] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
-- [ ] [Conf list](https://confs.tech/javascript)
+- [x] [Conf list](https://confs.tech/javascript)
 - [ ] [Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
-- [ ] [Dev](https://dev.to/)
+- [x] [Dev](https://dev.to/)
 - [ ] [Codrops](https://tympanus.net/codrops/)
 
 # Courses and practice
@@ -308,7 +308,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
 - [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 - [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- [ ] [Кодгайд: почему, зачем и как?](https://htmlacademy.ru/blog/62-codeguide-why-what-and-how)
 - [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 - [x] [Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
