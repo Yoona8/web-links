@@ -253,8 +253,10 @@ This collection is just about everything connected to web development. As it was
         - `ssh -T git@github.com` permission denied?
             - `~/.ssh/config` for settings (also using the appropriate private key)
             - add to the file
-                ```Host github.com
-                    IdentityFile ~/.ssh/key```
+                ```
+                Host github.com
+                    IdentityFile ~/.ssh/key
+                ```
 
     </details>
 
