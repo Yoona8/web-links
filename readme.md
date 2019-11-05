@@ -100,7 +100,14 @@ This collection is just about everything connected to web development. As it was
 - [x] [CSS Triggers](https://csstriggers.com/)
 - [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
+
+    <details>
+    <summary>Notes:</summary>
+
     * `:lang(ko)` styling on lang attributes
+
+    </details>
+
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [State of CSS 2019](https://2019.stateofcss.com/)
@@ -132,6 +139,22 @@ This collection is just about everything connected to web development. As it was
 
 # JavaScript
 - [x] [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - if `obj.getThis4 = obj.getThis2.bind(obj);` then here `obj.getThis4.call(a);` we get `this === obj` instead of `a` (respects the first binding)
+    - if created like that, always returns `undefined` (arrow functions have never their own `this`, only lexical scope's `this`, even if we use `call` or `bind`)
+        ```JavaScript
+        const obj = {
+            getThis: () => this;
+        };
+        ```
+    - if we use `new` keyword to create an instance, lexical `this` will be the object (binds `this` in the constructor)
+      
+
+    </details>
+
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [ ] [Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
@@ -194,9 +217,66 @@ This collection is just about everything connected to web development. As it was
 
 # Workflow
 - [ ] [Git Book](https://git-scm.com/book/en/v2)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - setup git
+        - download git (both mac and win)
+        - download terminal
+        - for ru version (if needed): environment => `set LC_ALL=ru_RU.UTF-8` and `set LANG=ru_RU.UTF-8`
+    - git line endings
+        - set inside `.gitattributes` file
+        - `*.md text` for text file to be converted CRLF (win) => LF (macOS, linux)
+        - `*.png binary` for `-text -diff` macros
+    - config git
+        - `git config --global/-g user.name/email "name"/"email"`
+        - `git config --list` stored in the user's dir `.gitconfig` file path: `~/.gitconfig`
+        - `git init` to add git to current folder
+    - git commands
+        - `git status`
+        - `git add ./file` dir current add to index files for commit
+        - `git commit -m "message"` creates a save
+        - `git diff`
+        - `git log` history
+        - `git show [commit hash]` to show the content of the commit
+    - set SSH and integrations
+        - `git remote add origin git@github.com...` to link remote and local repos
+        - `git remote -v` shows remote repos
+        - `git push -u origin master`
+        - `mkdir ~/.ssh` creates a folder in user's folder, create an SSH key in this folder
+        - `ssh-keygen -t -rsa -b 4060 -C "emain@email.com"` where `-t rsa` sets key type and `-b 4096` sets key length (bit)
+            - store private key only on your computer
+            - load public key to repo
+        - `cat key.pub` copy content to github
+        - `ssh -T -i ~/.ssh/key git@github.com` to check if the key works
+        - `ssh -T git@github.com` permission denied?
+            - `~/.ssh/config` for settings (also using the appropriate private key)
+            - add to the file
+                ```Host github.com
+                    IdentityFile ~/.ssh/key```
+
+    </details>
+
 - [ ] [Git How To](https://githowto.com/)
 - [ ] [Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - `pwd` full path to current dir
+    - `cd` change dir
+        - `cd -` to previous folder
+    - `mkdir name` and `touch name` creates a dir or file
+    - `ls [path/to]`
+        - `ls -1` vertically
+        - `ls -a` +hidden
+    - `open .` or `start .` or instead of `.` add path to open dir or file
+    - `cat [file]` shows the content
+
+    </details>
+
 - [ ] [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
 - [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
 - [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
@@ -217,6 +297,17 @@ This collection is just about everything connected to web development. As it was
 # Optimization
 - [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [x] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+
+    <details>
+    <summary>Notes:</summary>
+
+    - `-webkit-overflow-scrolling: touch;` scroll native to iPhone (not sure, read more)
+    - for blocks, which could be empty, add `:empty { display: none; }`
+    - `will-change` for animations, but don't use often
+    - `<link rel="prefetch">` if needed
+
+    </details>
+
 - [ ] [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
 - [ ] [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [ ] [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
