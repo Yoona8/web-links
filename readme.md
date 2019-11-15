@@ -25,7 +25,17 @@ This collection is just about everything connected to web development. As it was
 
 # A11y
 - [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
-- [x] [Resource: Deque](https://www.deque.com/) tools and articles
+- [x] [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - add good text to links (not just "click here" or "show more")
+    - add alt to image with important information
+    - use the full name and (abbreviation) in brackets on first occurrence, if the abbreviation is less known
+
+    </details>
+
 - [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 
     <details>
