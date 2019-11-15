@@ -240,12 +240,14 @@ This collection is just about everything connected to web development. As it was
         - `*.md text` for text file to be converted CRLF (win) => LF (macOS, linux)
         - `*.png binary` for `-text -diff` macros
     - config git
-        - `git config --global/-g user.name/email "name"/"email"`
+        - `git config --global user.name "<name>"`
+        - `git config -g user.email "<email>"`
         - `git config --list` stored in the user's dir `.gitconfig` file path: `~/.gitconfig`
         - `git init` to add git to current folder
     - git commands
         - `git status`
-        - `git add ./file` dir current add to index files for commit
+        - `git add .` dir current add to index files for commit
+        - `git add <path-to-file>` add particular file(s)
         - `git commit -m "message"` creates a save
         - `git diff`
         - `git log` history
@@ -281,11 +283,11 @@ This collection is just about everything connected to web development. As it was
     - `cd` change dir
         - `cd -` to previous folder
     - `mkdir name` and `touch name` creates a dir or file
-    - `ls [path/to]`
+    - `ls <path/to>`
         - `ls -1` vertically
         - `ls -a` +hidden
     - `open .` or `start .` or instead of `.` add path to open dir or file
-    - `cat [file]` shows the content
+    - `cat <file>` shows the content
 
     </details>
 
