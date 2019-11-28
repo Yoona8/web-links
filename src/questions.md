@@ -3,6 +3,7 @@
 - [CSS](#css)
   - [Grids](#grids)
   - [Shadows](#shadows)
+- [Angular](#angular)
 ## HTML
 ## CSS
 ### Grids
@@ -18,3 +19,6 @@
 3. How to do a shadow, which looks like border?
 4. What are the main 4 combinations of blur + spread?
 5. How multiple shadows layer?
+## Angular
+### Observables
+1. Make an example of good observable usage with interval observable.
