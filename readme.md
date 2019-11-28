@@ -105,6 +105,22 @@ This collection is just about everything connected to web development. As it was
   
 - [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
 - [x] [CSS Standards](https://www.w3.org/Style/CSS/)
+
+    <details>
+    <summary>Questions:</summary>
+
+    <details>
+    <summary>Floats</summary>
+        - Why to use floats?
+        - How to use floats?
+        - What about element sizes with floats?
+        - How different boxes behave with floats?
+        - What is clear property?
+        - What is clearfix and why do we need it?
+    </details>
+
+    </details>
+
 - [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [x] [CSS Triggers](https://csstriggers.com/)
