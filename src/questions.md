@@ -7,6 +7,7 @@
 - [Angular](#angular)
   - [Routing](#routing)
   - [Observables](#observables)
+- [Programming languages theory](#programming-languages-theory)
 ## HTML
 ## CSS
 ### Flow and Grids
@@ -56,3 +57,11 @@
 8. Make an example of good observable usage with interval observable.
 9. What are operators and why do we need to use them?
 10. How to use operators?
+## Programming languages theory
+1. What are the error types in programming languages?
+2. How computers are organized?
+3. What is virtual machine?
+4. What is the difference between compilation and interpretation?
+5. What is virtual machines hierarchy?
+6. What are translation steps?
+7. What are the basic programme analysis steps?
