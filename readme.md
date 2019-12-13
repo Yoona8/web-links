@@ -25,7 +25,7 @@ This collection is just about everything connected to web development. As it was
 
 # A11y
 - [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
-- [x] [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
+- [x] [Article: Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
 
     <details>
     <summary>Notes:</summary>
@@ -36,7 +36,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [Mobile: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+- [x] [Article: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
 
     <details>
     <summary>Notes:</summary>
@@ -46,7 +46,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [Forms: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+- [x] [Article: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 
     <details>
     <summary>Notes:</summary>
@@ -57,7 +57,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [Optimization: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
+- [x] [Article: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 
     <details>
     <summary>Notes:</summary>
@@ -70,11 +70,37 @@ This collection is just about everything connected to web development. As it was
     - logical focus after some user events
 
     </details>
-- [x] [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
+
+- [x] [Article: Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
+
+    <details>
+    <summary>Notes:</summary>
+
+    - What is a menu?
+    - What is a navigation system?
+    - What are ARIA menus actually for?
+    - What is the difference between top-level menu button and nav top-level link?
+    - On what state does menu open?
+    - What are the problems with with dropdowns for touch screens?
+    - When and why to use content pages?
+    - What is the most popular navigation button example (on web)?
+    - Why do we use both `hidden` and `[hidden] {display: none;}`?
+    - What are WAI ARIA roles for true menus and why don't we use it on lists of links?
+    - What are true menus?
+    - How to create a true menu with ARIA?
+    - Why should we use JS solution instead of non-JS solution?
+    - What should be added for a proper keyboard navigation for true menus?
+
+    </details>
 
 # HTML and CSS
-- [x] [HTML Specification](https://www.w3.org/TR/html52/)
-- [x] [Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
+- [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
+- [x] [Spec: CSS Standards](https://www.w3.org/Style/CSS/)
+- [x] [Resource: HTML symbols](https://dev.w3.org/html5/html-author/charref)
+- [x] [Resource: CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [x] [Resource: CSS Triggers](https://csstriggers.com/)
+- [x] [Practice: Grid Garden](http://cssgridgarden.com/)
+- [x] [Article: Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 
     <details>
     <summary>Notes:</summary>
@@ -103,13 +129,9 @@ This collection is just about everything connected to web development. As it was
     
     </details>
   
-- [x] [HTML symbols](https://dev.w3.org/html5/html-author/charref)
-- [x] [CSS Standards](https://www.w3.org/Style/CSS/)
-- [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [x] [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-- [x] [CSS Triggers](https://csstriggers.com/)
-- [x] [Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-- [x] [CSS-селекторы](https://learn.javascript.ru/css-selectors)
+- [x] [Article: Centering: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [x] [Article: Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
+- [x] [Article: CSS-селекторы](https://learn.javascript.ru/css-selectors)
 
     <details>
     <summary>Notes:</summary>
@@ -126,7 +148,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Layouts: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [x] [Grid Garden](http://cssgridgarden.com/)
 - [ ] [Grid template builder](https://codepen.io/anthonydugois/)
 - [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [ ] [Grid by example](https://gridbyexample.com/resources/)
@@ -148,7 +169,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Houdini](https://css-houdini.rocks/js-in-css/)
 
 # JavaScript
-- [x] [What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
+- [x] [Article: What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 
     <details>
     <summary>Notes:</summary>
@@ -205,7 +226,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] Book: JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
 # TypeScript
-- [x] [Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
+- [x] [Article: Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
 # Angular
 - [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
@@ -226,7 +247,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
 # Workflow
-- [ ] [Git Book](https://git-scm.com/book/en/v2)
+- [x] [Resource: Git Book](https://git-scm.com/book/en/v2)
 
     <details>
     <summary>Notes:</summary>
@@ -335,8 +356,8 @@ This collection is just about everything connected to web development. As it was
 - [x] [Book: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 
 # Optimization
-- [ ] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [x] [The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+- [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [x] [Resource: The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 
     <details>
     <summary>Notes:</summary>
@@ -362,7 +383,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 # Fonts
-- [x] [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [x] [Resource: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 - [ ] [SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Variable Fonts](https://variablefonts.dev/)
 - [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
@@ -377,7 +398,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 
 # SVG
-- [x] [Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
+- [x] [Article: Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
 
     <details>
     <summary>Notes:</summary>
@@ -389,7 +410,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
+- [x] [Article: An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
     
     <details>
     <summary>Notes:</summary>
@@ -401,7 +422,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
+- [x] [Article: How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
     
     <details>
     <summary>Notes:</summary>
@@ -415,7 +436,7 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
+- [x] [Article: Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
     
     <details>
     <summary>Notes:</summary>
@@ -441,7 +462,7 @@ This collection is just about everything connected to web development. As it was
 - [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 - [x] [Color Picker](https://colorsupplyyy.com/app)
 - [ ] [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
-- [x] [Undraw](https://undraw.co/)
+- [x] [Resource: Undraw](https://undraw.co/)
 - [x] [UI8](https://ui8.net/?rel=leda)
 - [x] [Unsplash](https://unsplash.com/)
 - [x] [Pexels](https://www.pexels.com/)
