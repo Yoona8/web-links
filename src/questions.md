@@ -6,6 +6,7 @@
   - [Flex](#flex)
   - [Grid](#grid)
   - [Positions](#positions)
+  - [Backgrounds](#backgrounds)
   - [Borders](#borders)
   - [Shadows](#shadows)
 - [Angular](#angular)
@@ -42,6 +43,17 @@
 ### Positions
 1. When with `position: absolute;` does scroll appears and when not?
 2. What are default coordinates of `position: absolute;`?
+### Backgrounds
+1. How do backgrounds layer?
+2. What types of colors can we use?
+3. What is upper, color or image?
+4. What repeat values are there?
+5. How can we position the background?
+6. What is background attachment?
+7. How to set a background size?
+8. What is background origin?
+9. What is background clip?
+10. What is the order of props in `background`?
 ### Borders
 1. What is the difference between `outline` and `border`?
 2. How to add a 3d borders with `outline`?
