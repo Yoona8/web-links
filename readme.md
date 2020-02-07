@@ -19,6 +19,7 @@ This collection is just about everything connected to web development. As it was
 - [PHP](#php)
 - [Docker](#docker)
 - [Tests](#tests)
+- [Machine Learning](#machine-learning)
 - [Helpers](#helpers)
 - [People and Resources](#people-and-resources)
 - [Courses and Practice](#cources-and-practice)
@@ -508,6 +509,9 @@ This collection is just about everything connected to web development. As it was
 
 # Docker
 - [ ] [How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+
+# Machine Learning
+- [x] [Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
