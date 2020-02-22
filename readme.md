@@ -94,6 +94,8 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
+- [x] [Service: Accessibility Insights](https://accessibilityinsights.io/)
+
 # HTML and CSS
 - [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
 - [x] [Spec: CSS Standards](https://www.w3.org/Style/CSS/)
@@ -185,6 +187,16 @@ This collection is just about everything connected to web development. As it was
     - if we use `new` keyword to create an instance, lexical `this` will be the object (binds `this` in the constructor)
       
 
+    </details>
+
+- [x] [Removing duplicate objects from an Array](https://bitsofco.de/removing-duplicate-objects-from-an-array-is-hard/)
+    
+    <details>
+    <summary>Notes:</summary>
+    
+    - not very good, but also some comments are helpful
+    - consider: maybe add some decisions here
+    
     </details>
 
 - [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
@@ -382,6 +394,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 - [ ] [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
 - [ ] [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [x] [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 
 # Fonts
 - [x] [Resource: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
