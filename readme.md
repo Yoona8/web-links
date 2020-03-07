@@ -99,10 +99,7 @@ This collection is just about everything connected to web development. As it was
 # HTML and CSS
 - [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
 - [x] [Spec: CSS Standards](https://www.w3.org/Style/CSS/)
-- [x] [Resource: HTML symbols](https://dev.w3.org/html5/html-author/charref)
-- [x] [Resource: CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [x] [Resource: CSS Triggers](https://csstriggers.com/)
-- [x] [Practice: Grid Garden](http://cssgridgarden.com/)
+
 - [x] [Article: Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
 
     <details>
@@ -143,6 +140,10 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
+- [x] [Resource: HTML symbols](https://dev.w3.org/html5/html-author/charref)
+- [x] [Resource: CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [x] [Resource: CSS Triggers](https://csstriggers.com/)
+- [x] [Practice: Grid Garden](http://cssgridgarden.com/)
 - [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [x] [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [x] [State of CSS 2019](https://2019.stateofcss.com/)
@@ -190,7 +191,7 @@ This collection is just about everything connected to web development. As it was
     </details>
 
 - [x] [Removing duplicate objects from an Array](https://bitsofco.de/removing-duplicate-objects-from-an-array-is-hard/)
-    
+
     <details>
     <summary>Notes:</summary>
     
