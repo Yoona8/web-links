@@ -1,7 +1,6 @@
 # Angular
 
 ## Content
-- [AppModule](#appmodule)
 - [Debugging](#debugging)
 - [Components](#components)
 - [Data-binding inside one component](#data-binding-inside-one-component)
@@ -38,7 +37,7 @@
   - [Template Driven](#template-driven) // fill
   - [Reactive](#reactive) // fill
 
-## How Angular builds the App
+## 1 - How Angular builds the App
 <details>
 <summary>Notes</summary>
 
@@ -67,7 +66,10 @@
 
 </details>
 
-## AppModule
+## 2 - AppModule
+<details>
+<summary>Notes</summary>
+
 - bundles different pieces into one package
 - custom modules mostly for big projects
 - gives Angular info on which features to use
@@ -76,6 +78,8 @@
   - `imports: []` modules
   - `bootstrap: []` root component (needed on start)
   - `providers: []` services
+
+</details>
 
 ## Debugging
 - find an error in the console
