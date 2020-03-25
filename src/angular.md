@@ -1,39 +1,5 @@
 # Angular
 
-## Content
-- [Binding to custom property](#binding-to-custom-property)
-- [Binding to custom events](#binding-to-custom-events)
-- [Local References](#local-references)
-- [ViewChild](#viewchild)
-- [ContentChild and ng-content](#contentchild-and-ng-content)
-- [View Encapsulation](#view-encapsulation)
-- [Component Lifecycle](#component-lifecycle)
-- [Directives](#directives)
-  - [Attribute built-in](#attribute-built-in)
-  - [Structural built-in](#structural-built-in)
-  - [Attribute custom](#attribute-custom)
-  - [Binding custom](#binding-custom)
-  - [Structural custom](#structural-custom)
-- [Models](#models)
-- [Services](#services)
-  - [Usage, hierarchical injector](#usage-hierarchical-injector)
-  - [In other services](#in-other-services)
-  - [Cross-component communication](#cross-component-communication)
-- [Routing](#routing)
-  - [Setting up](#setting-up)
-  - [Adding routes](#adding-routes)
-  - [Links and navigation](#links-and-navigation)
-  - [Dynamic paths parameters](#dynamic-paths-parameters)
-  - [Query parameters and fragments](#query-parameters-and-fragments)
-  - [Guards: canActivate](#guards-canactivate)
-  - [Guards: canDeactivate](#guards-candeactivate) // fill
-  - [Passing data to route](#passing-data-to-route) // fill
-- [Observables](#Observables) // fill + content
-- [Forms](#forms) // fill
-  - [Basic idea](#basic-idea) // fill
-  - [Template Driven](#template-driven) // fill
-  - [Reactive](#reactive) // fill
-
 ## 1 - How Angular builds the App
 <details>
 <summary>Notes</summary>
