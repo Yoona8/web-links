@@ -1,7 +1,6 @@
 # Angular
 
 ## Content
-- [How Angular builds the App](#how-angular-builds-the-app)
 - [AppModule](#appmodule)
 - [Debugging](#debugging)
 - [Components](#components)
@@ -31,9 +30,17 @@
   - [Dynamic paths parameters](#dynamic-paths-parameters)
   - [Query parameters and fragments](#query-parameters-and-fragments)
   - [Guards: canActivate](#guards-canactivate)
-- [Observables]
+  - [Guards: canDeactivate](#guards-candeactivate) // fill
+  - [Passing data to route](#passing-data-to-route) // fill
+- [Observables](#Observables) // fill + content
+- [Forms](#forms) // fill
+  - [Basic idea](#basic-idea) // fill
+  - [Template Driven](#template-driven) // fill
+  - [Reactive](#reactive) // fill
 
-## How Angular builds the App
+<details>
+<summary>1 - How Angular builds the App</summary>
+
 - don't import with .ts extensions, webpack adds it 
 1. main.ts
     - `.bootstrapModule(AppModule)` (import `AppModule`)
@@ -56,6 +63,8 @@
     - `bootstrap: [...]` [] of should be known components when Angular analyses `index.html`
 3. index.html
     - `<app-root></app-root>` (other components are added inside the root components)
+
+</details>
 
 ## AppModule
 - bundles different pieces into one package
@@ -392,3 +401,65 @@ Getting parameters and fragments
     }
   }
   ```
+
+### Guards: canDeactivate
+
+### Passing data to route
+
+## Observables
+
+### Theory
+
+### Interval example
+
+### Custom
+
+### Operators
+
+### Subject
+
+## Forms
+
+### Basic idea
+
+### Template Driven
+
+#### TD Validation
+
+#### TD Preselected values
+
+#### TD Grouping controls
+
+#### TD Radio buttons
+
+#### TD Set and patch values
+
+#### TD Use form data
+
+#### TD Reset form
+
+### Reactive
+
+#### R Create a form
+
+#### R Sync form and HTML
+
+#### R Submit a form
+
+#### R Access to controls
+
+#### R Grouping controls
+
+#### R Arrays of controls
+
+#### R Validation
+
+#### R Custom validators
+
+#### R Error codes
+
+#### R Custom async validators
+
+#### R Reacting to status and value changes
+
+#### R Set and patch values
