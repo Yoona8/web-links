@@ -1,9 +1,6 @@
 # Angular
 
 ## Content
-- [Debugging](#debugging)
-- [Components](#components)
-- [Data-binding inside one component](#data-binding-inside-one-component)
 - [Binding to custom property](#binding-to-custom-property)
 - [Binding to custom events](#binding-to-custom-events)
 - [Local References](#local-references)
@@ -81,14 +78,22 @@
 
 </details>
 
-## Debugging
+## 3 - Debugging
+<details>
+<summary>Notes</summary>
+
 - find an error in the console
 - using sourcemaps and breakpoints in browser
   - `sources` => `webpack` => `.` => `src`
 - using `debugger;`
 - using chrome extension Augury (access from dev tools)
 
-## Components
+</details>
+
+## 4 - Components
+<details>
+<summary>Notes</summary>
+
 - `@Component({})` from `@ang/core`
   - `selector: 'app-name' / '[appDir]' / '.class'` unique string
     - `<app-name>` typically for components
@@ -98,7 +103,12 @@
 - `declarations: []` add to module
 - `ng g c _component-name_` to create with CLI
 
-## Data-binding inside one component
+</details>
+
+## 5 - Data-binding inside one component
+<details>
+<summary>Notes</summary>
+
 - communication between business logic and view
 - updates dynamically at runtime
 - output data
@@ -117,25 +127,45 @@
     - `FormsModule` from `@ang/forms` import to `app.module.ts`
     - `[()]` combination of prop and event binding
 
-## Binding to custom property
+</details>
+
+## 6 - Binding to custom property
+<details>
+<summary>Notes</summary>
+
 - `@Input() element: string;` from `@ang/core` decorator is needed, because by default all the props of the component are accessible only inside of the component
 - `[element]="'element'"` to pass the value from parent
 - `@Input('el') element: string;` to pass value now use `[el]`
 
-## Binding to custom events
+</details>
+
+## 7 - Binding to custom events
+<details>
+<summary>Notes</summary>
+
 - to inform parent from child
 - `@Output() cardAdded = new EventEmitter<card>();` from `@ang/core` create a custom event in child
 - `onAddCardClick() { this.cardAdded.emit(card); }` emit the event from child
 - `<app-child (cardAdded)="onCardAdded($event)">` bind from parent
 - `@Output('cAdded') cardAdded = ...` use not `(cardAdded)="..."`, but `(cAdded)="..."`
 
-## Local References
+</details>
+
+## 8 - Local References
+<details>
+<summary>Notes</summary>
+
 - usage inside a template, for ex when we don't need two-way binding
 - returns an HTML element
 - `#locRef` to any element
 - `(click)="onButtonClick(locRef)"` or `{{ locRef.value }}`
 
-## ViewChild
+</details>
+
+## 9 - ViewChild
+<details>
+<summary>Notes</summary>
+
 - to get access to the html element from ts file
 - `@ViewChild(Component / 'localRef') element: ElementRef` from `@ang/core`
   - `Component` returns the first occurrence of the component in the app
@@ -144,7 +174,12 @@
 - `this.element.nativeElement` to use
 - don't change the value via this approach
 
-## ContentChild and ng-content
+</details>
+
+## 10 - ContentChild and ng-content
+<details>
+<summary>Notes</summary>
+
 - `<ng-content></ng-content>` hook to project html content from parent to child
 - `<app-child>...</app-child>` without `ng-content` ... content is lost
 - `#locRef` add to a parent's html
@@ -153,13 +188,23 @@
 - `@ContentChild('locRef', { static: true })` < 9 ver `true` if we plan to access from `ngOnInit()`, `false` otherwise
 - don't change the value via this approach
 
-## View Encapsulation
+</details>
+
+## 11 - View Encapsulation
+<details>
+<summary>Notes</summary>
+
 - `encapsulation: ViewEncapsulation.Emulated` from `@ang/core` add to the decorator
   - `Emulated` angular emulates shadow DOM (creates unique attributes)
   - `Native` uses shadow DOM (not supported by all browsers)
   - `None` no attributes added
 
-## Component lifecycle
+</details>
+
+## 12 - Component lifecycle
+<details>
+<summary>Notes</summary>
+
 0. `constructor()`
 1. `ngOnChanges(changes: SimpleChanges)` from `@ang/core` multi, after bound props change, changes contains those props
 2. `ngOnInit()` once, when the component is initiated
@@ -170,9 +215,14 @@
 7. `ngAfterViewChecked()` multi, change detection
 8. `ngOnDestroy()` once, when about to be destroyed (ex `*ngIf`), clean-up here
 
-## Directives
+</details>
+
+## 13 - Directives
 
 ### Attribute built-in
+<details>
+<summary>Notes</summary>
+
 - looks like a normal HTML attribute
 - doesn't change DOM
 - event and data bindings are possible
@@ -181,7 +231,12 @@
 - `[ngClass]="{ 'class-name': boolean }"` or `[ngClass]="{ className: boolean }"`
 - `ngSwitch` directive is also attribute, but cases are structural
 
+</details>
+
 ### Structural built-in
+<details>
+<summary>Notes</summary>
+
 - looks like a normal HTML attribute with a leading `*`
 - affects DOM (elements get added or removed)
 - can't use multiple on one element (error!)
@@ -192,14 +247,24 @@
   - `*ngFor="let item of items; let i = index"` index is optional
 - `*ngSwitchCase`
 
+</details>
+
 ### Attribute custom
+<details>
+<summary>Notes</summary>
+
 - `@Directive({ selector: '[appHighlight]' })` from `@ang/core`
 - `constructor(private element: ElementRef) {}` from `@ang/core` inject to access the element
   - `this.element.nativeElement` to access directly, but in some complicated cases could not get rendered yet
   - `constructor(private renderer: Renderer2) {}` form `@ang/core` is better
   - `this.renderer.setStyle(this.element.nativeElement, 'color', 'green', ~flags)` flags like `!important` etc
 
+</details>
+
 ### Binding custom
+<details>
+<summary>Notes</summary>
+
 - `@HostListener('mouseenter') hover(eventData: Event) { this.renderer... };` from `@ang/core` works like adding an event listener on the tag, where the directive is used
 - `@HostBinding('style.backgroundColor') backgroundColor: string = transparent;` from `@ang/core` have to set initial color not to get an error
 - `this.backgroundColor = 'blue';` now can be used instead of renderer
@@ -210,7 +275,12 @@
 - `<p appDirName>` if not the same name for the prop
 - `<p [appDirName]="'blue'">` when the name of the prop is the same
 
+</details>
+
 ### Structural custom
+<details>
+<summary>Notes</summary>
+
 - ```html
   <div *ngIf="condition">
     <p>Some content</p>
@@ -247,7 +317,12 @@
   ```
 - `<div *appUnless="condition">...</div>` to use
 
-## Models
+</details>
+
+## 14 - Models
+<details>
+<summary>Notes</summary>
+
 - `recipe.model.ts` and `RecipeModel` naming
 - no decorator, just a simple class
 - works like a blueprint
@@ -258,9 +333,14 @@
     constructor(name: string) { this.name = name }
     ```
 
-## Services
+</details>
+
+## 15 - Services
 
 ### Usage, hierarchical injector
+<details>
+<summary>Notes</summary>
+
 - common cases to use
   - working with data
   - DRY
@@ -276,7 +356,12 @@
   - component level - current components and all the children
   - lower levels override higher (create a new instance of a service)
 
+</details>
+
 ### In other services
+<details>
+<summary>Notes</summary>
+
 1. provide on module level
   - `providers: [LoggingService]` in app.module 
   - `@Injectable({ provideIn: 'root' })` inside the service, also for lazy load (Angular 6+)
@@ -284,14 +369,24 @@
 3. `constructor(private loggingService: LoggingService) {}`
 4. `@Injectable()` to allow injecting a service
 
+</details>
+
 ### Cross-component communication
+<details>
+<summary>Notes</summary>
+
 - add a custom event to the service
 - emit the event in one component
 - subscribe to the event in another component
 
-## Routing
+</details>
+
+## 16 - Routing
 
 ### Setting up
+<details>
+<summary>Notes</summary>
+
 - needed for adding navigation URLs
 - `app-routing.module.ts` and `AppRoutingModule` naming
 - `declarations: []` is not needed, all the components are declared in app.module
@@ -304,7 +399,12 @@
 - `<router-outlet></router-outlet>` directive to the html, where we want to load the components from routes
 - `RouterModule.forRoot(appRoutes, { useHash: true })` hack for old browsers and servers with full paths (not returning index.html on 404 error)
 
+</details>
+
 ### Adding routes
+<details>
+<summary>Notes</summary>
+
 - `const appRoutes: Routes = [{ ... }];` from `@ang/router`
   - `path`
     - `path: ''` for starting (root) page
@@ -319,7 +419,12 @@
   - `canActivateChild: []` guards
   - `data: { message: 'Page not found!' }` to pass some static data
 
+</details>
+
 ### Links and navigation
+<details>
+<summary>Notes</summary>
+
 Navigating via links
 - `href="/recipes"` === type manually, works, but reloads the app
 - `routerLink="/recipes"` or `[routerLink]="['/users', 'user']"` second (and more) path without `/`, angular catches the event and prevents default
@@ -336,7 +441,12 @@ Navigating programmatically
   - `merge` merges current + navigate to params
   - `preserve` to keep only current params
 
+</details>
+
 ### Dynamic paths parameters
+<details>
+<summary>Notes</summary>
+
 - get parameters from paths like `:id`
 - `constructor(private route: ActivatedRoute) {}` inject from `@ang/router`
 - `this.route.snapshot.params['id']` to access the parameter in the initialization, not dynamic
@@ -344,7 +454,12 @@ Navigating programmatically
 - `this.route.params.subscribe((params: Params) => this.id = params['id])` for dynamical use the params observable
 - don't need to unsubscribe, for this case Angular does it automatically on component is destroyed
 
+</details>
+
 ### Query parameters and fragments
+<details>
+<summary>Notes</summary>
+
 Via links
 - `[queryParams]="{ allowEdit: '1', id: '2' }"` to `?allowEdit=1&id=2` bindable property of router directive
 - `[fragment]="'loading'"` to `#loading`
@@ -359,7 +474,12 @@ Getting parameters and fragments
 - `this.route.snapshot.queryParams / fragment` for static
 - `this.route.queryParams / fragment.subscribe()` for dynamic
 
+</details>
+
 ### Guards: canActivate
+<details>
+<summary>Notes</summary>
+
 - to protect the route, runs before entering the route
 - `canActivate(Child): [AuthGuard]` add to the route to protect route + children or children only
 - `auth-guard.service.ts` export `AuthGuard(Service)`
@@ -407,11 +527,13 @@ Getting parameters and fragments
   }
   ```
 
+</details>
+
 ### Guards: canDeactivate
 
 ### Passing data to route
 
-## Observables
+## 17 - Observables
 
 ### Theory
 
@@ -423,7 +545,7 @@ Getting parameters and fragments
 
 ### Subject
 
-## Forms
+## 18 - Forms
 
 ### Basic idea
 
