@@ -38,8 +38,9 @@
   - [Template Driven](#template-driven) // fill
   - [Reactive](#reactive) // fill
 
+## How Angular builds the App
 <details>
-<summary>1 - How Angular builds the App</summary>
+<summary>Notes</summary>
 
 - don't import with .ts extensions, webpack adds it 
 1. main.ts
