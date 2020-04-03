@@ -37,7 +37,7 @@
 - custom modules mostly for big projects
 - gives Angular info on which features to use
 - `@NgModule` from `@angular/core`
-  - `declarations: []` components, directives
+  - `declarations: []` components, directives, pipes
   - `imports: []` modules
   - `bootstrap: []` root component (needed on start)
   - `providers: []` services

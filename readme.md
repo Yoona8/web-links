@@ -7,10 +7,11 @@ This collection is just about everything connected to web development. As it was
 - [TypeScript](#typescript)
 - [Angular](#angular)
 - [React](#react)
-- [Workflow](#workflow)
 - [Optimization](#optimization)
 - [Fonts](#fonts)
 - [SVG](#svg)
+- [Git](#git)
+- [Workflow](#workflow)
 - [Design](#design)
 - [Programming](#programming)
 - [Serverless](#serverless)
@@ -152,7 +153,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Layouts: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
 - [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] [Grid template builder](https://codepen.io/anthonydugois/)
 - [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [ ] [Grid by example](https://gridbyexample.com/resources/)
 - [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
@@ -169,7 +169,6 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 - [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
 - [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
-- [ ] [Finally, a CSS only solution to :hover on touchscreens](https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
 - [ ] [Houdini](https://css-houdini.rocks/js-in-css/)
 
 # JavaScript
@@ -260,7 +259,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 - [ ] [How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
-# Workflow
+# Git
 - [x] [Resource: Git Book](https://git-scm.com/book/en/v2)
 
     <details>
@@ -318,7 +317,7 @@ This collection is just about everything connected to web development. As it was
         - `git remote -v` shows remote repos
         - `git push -u origin master`
         - `mkdir ~/.ssh` creates a folder in user's folder, create an SSH key in this folder
-        - `ssh-keygen -t -rsa -b 4096 -C "<email@email.com>"` where `-t rsa` sets key type and `-b 4096` sets key length (bit)
+        - `ssh-keygen -t rsa -b 4096 -C "<email@email.com>"` where `-t rsa` sets key type and `-b 4096` sets key length (bit)
             - store private key only on your computer
             - load public key to repo
         - `cat <key>.pub` copy content to github
@@ -355,6 +354,9 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
 - [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
 - [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+
+# Workflow
+
 - [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
 - [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
