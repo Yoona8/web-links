@@ -518,40 +518,83 @@ As it was basically made for personal usage, information could still not be full
 - [x] [Article: 8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
 - [x] [Service: Regex](https://regex101.com/)
 - [x] [Service: A Collection of different regex](http://html5pattern.com/)
+- [ ] Book: Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
 
 </details>
 
 ## Algorithms
-- [ ] [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-### Courses
-- [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-- [ ] [Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
-## Data structures
-- [ ] [Patterns: Pyramid of Doom — the Signs and Symptoms of a common anti-pattern](https://itnext.io/pyramid-of-doom-the-signs-and-symptoms-of-a-common-anti-pattern-c716838e1819)
-- [ ] [Patterns: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
-- [ ] [Patterns: Software Architecture - The Difference Between Architecture and Design](https://medium.com/@maladdinsayed/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
-- [ ] [Patterns: GRASP](https://ru.wikipedia.org/wiki/GRASP)
-- [ ] Book: Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+- [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 - [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
-# Serverless
-- [ ] [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
+</details>
 
-# Dotnet
-- [x] [Lessons: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
-- [ ] [Book: Essential Angular for ASP.NET Core MVC](https://www.apress.com/gp/book/9781484229156#aboutAuthors)
+## Design Patterns
 
-# Node JS
-- [ ] [Discovering Your Local Node Meetups, Events, and Speakers](https://medium.com/@nodejs/discovering-your-local-node-meetups-events-and-speakers-60cf0d04a878)
+<details>
+<summary>View links</summary>
 
-# PHP
-- [ ] [PHP Standards Recommendations](https://www.php-fig.org/psr/)
+- [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
+- [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 
-# Docker
-- [ ] [How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+</details>
 
-# Machine Learning
-- [x] [Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
+## Serverless
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
+
+</details>
+
+## C-sharp
+
+<details>
+<summary>View links</summary>
+
+- [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+
+</summary>
+
+## Node JS
+
+<details>
+<summary>View links</summary>
+
+</details>
+
+## PHP
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Info: PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+</details>
+
+## Docker
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+
+</details>
+
+## Machine Learning
+
+<details>
+<summary>View links</summary>
+
+- [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
+
+</details>
 
 # Tests
 - [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
@@ -566,8 +609,14 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Tool: Emmet Re:view](http://re-view.emmet.io/)
 - [ ] [Tool: Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
 
-# Helpers
-- [x] [SNILS generator](https://ortex.github.io/snils-generator/)
+## Helpers
+
+<details>
+<summary>View links</summary>
+
+- [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
+
+</details>
 
 # People and Resources
 - [x] [Addy Osmani](https://addyosmani.com/)
