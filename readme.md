@@ -425,7 +425,11 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# SVG
+## SVG
+
+<details>
+<summary>View links</summary>
+
 - [x] [Article: Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
 
     <details>
@@ -477,6 +481,8 @@ As it was basically made for personal usage, information could still not be full
     5. Sometimes more raw data will produce smaller compressed data. Removing entropy will allow the compressor to better remove what is redundant.
 
     </details>
+
+</details>
 
 # Design
 - [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
