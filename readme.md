@@ -560,7 +560,7 @@ As it was basically made for personal usage, information could still not be full
 
 - [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 
-</summary>
+</details>
 
 ## Node JS
 
