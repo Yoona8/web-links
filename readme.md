@@ -359,7 +359,6 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 - [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
-- [ ] Book: Code Complete (by Steve McConnell)
 - [x] [Article: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
 - [x] [Article: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [x] [Article: Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
@@ -367,13 +366,31 @@ As it was basically made for personal usage, information could still not be full
 - [x] [Info: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [x] [Info: БЭМ-методология](https://ru.bem.info/)
 - [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- [ ] Book: Code Complete (by Steve McConnell)
 
 </details>
 
-# Optimization
-- [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+## Optimization
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [x] [Resource: The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
+- [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
+- [ ] [Article: Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [ ] [Article: Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
+- [ ] [Article: Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+- [ ] [Article: Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
+- [ ] [Article: CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
+- [ ] [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+- [ ] [Article: A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
+- [x] [Article: Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+- [ ] [Info: Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
+- [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
+- [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [x] [Service: The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 
     <details>
     <summary>Notes:</summary>
@@ -385,19 +402,7 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
-- [ ] [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
-- [ ] [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
-- [ ] [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [ ] [Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
-- [ ] [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
-- [ ] [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
-- [ ] [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
-- [ ] [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
-- [ ] [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
-- [ ] [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-- [ ] [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
-- [ ] [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [x] [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+</details>
 
 # Fonts
 - [x] [Resource: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
