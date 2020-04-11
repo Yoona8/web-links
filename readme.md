@@ -404,20 +404,26 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# Fonts
-- [x] [Resource: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
-- [ ] [SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
-- [ ] [Variable Fonts](https://variablefonts.dev/)
-- [ ] [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
-- [x] [CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
-- [ ] [Fonts: FontForge](https://fontforge.github.io/en-US/)
-- [x] [Fonts storage](https://fontstorage.com/)
-- [ ] [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-- [ ] [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-- [ ] [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
-- [ ] [Fonts: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
-- [ ] [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
-- [ ] [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+## Fonts
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
+- [ ] [Article: Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+- [ ] [Article: System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
+- [ ] [Article: Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [ ] [Article: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
+- [ ] [Article: How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [ ] [Article: Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+- [ ] [Info: Variable Fonts](https://variablefonts.dev/)
+- [ ] [Info: Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [x] [Service: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [x] [Service: CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
+- [x] [Service: Fonts storage](https://fontstorage.com/)
+- [ ] [App: FontForge](https://fontforge.github.io/en-US/)
+
+</details>
 
 # SVG
 - [x] [Article: Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
