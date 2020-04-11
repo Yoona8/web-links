@@ -80,7 +80,11 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# HTML and CSS
+## HTML and CSS
+
+<details>
+<summary>View links</summary>
+
 - [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
 - [x] [Spec: CSS Standards](https://www.w3.org/Style/CSS/)
 - [x] [Article: Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
@@ -111,8 +115,7 @@ As it was basically made for personal usage, information could still not be full
     * for super unique cases like clickable schemes `<map>` and `<area>` could be useful
     
     </details>
-  
-- [x] [Article: Centering: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+
 - [x] [Article: Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
 - [x] [Article: CSS-селекторы](https://learn.javascript.ru/css-selectors)
 
@@ -123,36 +126,38 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
-- [x] [Article: Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [x] [Resource: HTML symbols](https://dev.w3.org/html5/html-author/charref)
-- [x] [Resource: CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [x] [Resource: CSS Triggers](https://csstriggers.com/)
+- [x] [Article: Centering: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [ ] [Article: Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+- [x] [Article: A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+- [ ] [Article: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [Article: Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [ ] [Article: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [Article: Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
+- [x] [Article: Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
+- [x] [Article: SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
+- [x] [Article: Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+- [ ] [Video: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
+- [ ] [Video: Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+- [x] [Info: Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [ ] [Info: Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [x] [Info: CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [x] [Info: State of CSS 2019](https://2019.stateofcss.com/)
+- [ ] [Info: Layouts](https://every-layout.dev/)
+- [ ] [Info: CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [ ] [Info: Grid by example](https://gridbyexample.com/resources/)
+- [ ] [Info: Houdini](https://css-houdini.rocks/js-in-css/)
+- [ ] [Practice: Flexbox Froggy](http://flexboxfroggy.com/)
 - [x] [Practice: Grid Garden](http://cssgridgarden.com/)
+- [ ] [Practice: Griddy. Learn the CSS Grid!](http://griddy.io/)
+- [x] [Service: HTML symbols](https://dev.w3.org/html5/html-author/charref)
+- [x] [Service: CSS Triggers](https://csstriggers.com/)
+- [x] [Code: CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
+- [x] [Code: CSS Animations Snippets](https://daneden.github.io/animate.css/)
+- [ ] [Code: CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
+- [ ] [Book: Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
+- [ ] [Book: CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 
-- [x] [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
-- [x] [State of CSS 2019](https://2019.stateofcss.com/)
-- [x] [SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-- [ ] [Layouts](https://every-layout.dev/)
-- [ ] [Layouts: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
-- [ ] [CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] [Griddy. Learn the CSS Grid!](http://griddy.io/)
-- [ ] [Grid by example](https://gridbyexample.com/resources/)
-- [ ] [Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-- [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
-- [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-- [ ] [Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-- [ ] [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-- [x] [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
-- [x] [Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
-- [x] [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
-- [x] [CSS Animations Snippets](https://daneden.github.io/animate.css/)
-- [ ] [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
-- [ ] [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-- [ ] [Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
-- [ ] [CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
-- [ ] [Houdini](https://css-houdini.rocks/js-in-css/)
+</details>
 
 # JavaScript
 - [x] [Article: What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
