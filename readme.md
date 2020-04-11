@@ -510,10 +510,17 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [National park designs](https://nationalparktypeface.com/)
 - [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
-# Programming
-- [x] [8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
-- [x] [Regex](https://regex101.com/)
-- [x] [A Collection of different regex](http://html5pattern.com/)
+## Regex
+
+<details>
+<summary>View links</summary>
+
+- [x] [Article: 8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
+- [x] [Service: Regex](https://regex101.com/)
+- [x] [Service: A Collection of different regex](http://html5pattern.com/)
+
+</details>
+
 ## Algorithms
 - [ ] [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 ### Courses
