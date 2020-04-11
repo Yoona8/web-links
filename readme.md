@@ -202,6 +202,7 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Article: Promises: The Definitive Guide](https://itnext.io/promises-the-definitive-guide-6a49e0dbf3b7)
 - [ ] [Article: 4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
 - [ ] [Article: List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+- [x] [Article: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
 - [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 - [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
@@ -224,22 +225,38 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# Angular
-- [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
-- [ ] [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
-- [ ] [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
-- [ ] [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
-- [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
-- [ ] [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
-- [ ] [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
-- [ ] [Webpack: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+## Angular
 
-# React
-- [ ] [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
-- [ ] [How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
+<details>
+<summary>View links</summary>
 
-# Git
-- [x] [Resource: Git Book](https://git-scm.com/book/en/v2)
+- [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
+- [ ] [Article: Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
+- [ ] [Article: Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
+- [ ] [Article: Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+- [ ] [Article: Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
+- [ ] [Article: Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
+- [ ] [Article: Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
+- [ ] [Article: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+
+</details>
+
+## React
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+- [ ] [Article: How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
+
+</details>
+
+## Git
+
+<details>
+<summary>View links</summary>
+
+- [x] [Info: Git Book](https://git-scm.com/book/en/v2)
 
     <details>
     <summary>Notes:</summary>
@@ -311,9 +328,9 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
-- [ ] [Git How To](https://githowto.com/)
-- [ ] [Git FAQ](http://firstaidgit.ru/#/)
-- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [ ] [Info: Git How To](https://githowto.com/)
+- [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
+- [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
     <details>
     <summary>Notes:</summary>
@@ -330,23 +347,28 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
-- [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+- [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
-# Workflow
+</details>
 
-- [ ] [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- [ ] [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
-- [ ] [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
-- [x] [Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
+## Workflow
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
+- [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+- [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
 - [ ] Book: Code Complete (by Steve McConnell)
-- [x] [BEM: БЭМ-методология](https://ru.bem.info/)
-- [x] [Browsers: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
-- [x] [Case: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
-- [x] [Guide: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
-- [x] [Guide: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [x] [Article: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
+- [x] [Article: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
 - [x] [Article: Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [x] [Article: Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
-- [x] [Book: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
+- [x] [Info: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [x] [Info: БЭМ-методология](https://ru.bem.info/)
+- [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+
+</details>
 
 # Optimization
 - [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
@@ -545,6 +567,7 @@ As it was basically made for personal usage, information could still not be full
 - [x] [Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
 - [x] [Dev](https://dev.to/)
 - [x] [Codrops](https://tympanus.net/codrops/)
+- [x] [Info: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 # Courses and Practice
 - [x] [Practice: Codewars](https://www.codewars.com/dashboard)
