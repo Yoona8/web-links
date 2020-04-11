@@ -1,31 +1,12 @@
-# Content
-I've created this repository to sort all my tips, tricks, rules, links etc. on how to do web. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
-This collection is just about everything connected to web development. As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
-- [A11y](#a11y)
-- [HTML and CSS](#html-and-css)
-- [JavaScript](#javascript)
-- [TypeScript](#typescript)
-- [Angular](#angular)
-- [React](#react)
-- [Optimization](#optimization)
-- [Fonts](#fonts)
-- [SVG](#svg)
-- [Git](#git)
-- [Workflow](#workflow)
-- [Design](#design)
-- [Programming](#programming)
-- [Serverless](#serverless)
-- [C#, .NET](#dotnet)
-- [NodeJS](#node-js)
-- [PHP](#php)
-- [Docker](#docker)
-- [Tests](#tests)
-- [Machine Learning](#machine-learning)
-- [Helpers](#helpers)
-- [People and Resources](#people-and-resources)
-- [Courses and Practice](#cources-and-practice)
+# Collection of Links
+I've created this repository to sort all my tips, tricks, rules, links etc. related to <b>web development</b>. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
+As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
 
-# A11y
+## A11y
+
+<details>
+<summary>View links</summary>
+
 - [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
 - [x] [Article: Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
 
@@ -95,7 +76,9 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [x] [Service: Accessibility Insights](https://accessibilityinsights.io/)
+- [x] [App: Accessibility Insights](https://accessibilityinsights.io/)
+
+</details>
 
 # HTML and CSS
 - [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
@@ -233,11 +216,7 @@ This collection is just about everything connected to web development. As it was
 - [ ] [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
 - [ ] [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
 - [ ] [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
-- [ ] [Piercing the Angular style encapsulation](https://medium.com/ng-gotchas/piercing-the-angular-style-encapsulation-c7030caeb519)
-- [ ] [An Angular Roadmap — The Past, Present, and Future of Angular](https://medium.com/grapecity/an-angular-roadmap-the-past-present-and-future-of-angular-7af4cd4ec6e7)
 - [ ] [Webpack: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
-- [ ] [JS>2: Upgrading AngularJS](https://www.upgradingangularjs.com/)
-- [ ] [Book: Pro Angular 6](https://www.apress.com/gp/book/9781484236482#aboutBook)
 
 # React
 - [ ] [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
@@ -335,8 +314,6 @@ This collection is just about everything connected to web development. As it was
 
     </details>
 
-- [ ] [Command Line courses](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
-- [ ] [Command Line courses adv](https://learncodethehardway.org/unix/)
 - [ ] [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
 # Workflow
