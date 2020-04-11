@@ -159,7 +159,11 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# JavaScript
+## JavaScript
+
+<details>
+<summary>View links</summary>
+
 - [x] [Article: What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
 
     <details>
@@ -177,7 +181,7 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
-- [x] [Removing duplicate objects from an Array](https://bitsofco.de/removing-duplicate-objects-from-an-array-is-hard/)
+- [x] [Article: Removing duplicate objects from an Array](https://bitsofco.de/removing-duplicate-objects-from-an-array-is-hard/)
 
     <details>
     <summary>Notes:</summary>
@@ -187,28 +191,29 @@ As it was basically made for personal usage, information could still not be full
     
     </details>
 
-- [ ] [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-- [ ] [Учебник JavaScript](https://learn.javascript.ru/)
-- [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [ ] [Build anything you want with JavaScript](https://learnjavascript.today/)
-- [ ] [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
-- [ ] [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
-- [ ] [JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
-- [ ] [Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
-- [ ] [How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
-- [ ] [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
-- [ ] [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
-- [ ] [ES6: New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-- [ ] [ES6: Promises: The Definitive Guide](https://itnext.io/promises-the-definitive-guide-6a49e0dbf3b7)
-- [ ] [ES6: 4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
+- [ ] [Article: What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+- [ ] [Article: Build anything you want with JavaScript](https://learnjavascript.today/)
+- [ ] [Article: JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
+- [ ] [Article: Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
+- [ ] [Article: JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
+- [ ] [Article: Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
+- [ ] [Article: How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
+- [ ] [Article: ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
+- [ ] [Article: Promises: The Definitive Guide](https://itnext.io/promises-the-definitive-guide-6a49e0dbf3b7)
+- [ ] [Article: 4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
+- [ ] [Article: List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+- [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
+- [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
+- [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
 - [x] [Lib: Flatpickr](https://flatpickr.js.org/getting-started/)
 - [x] [Lib: Moment.js](https://momentjs.com/)
-- [ ] [List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 - [ ] [Book: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 - [x] Book: Head First JavaScript Programming (O'Reilly, by Elisabeth Robson, Eric Freeman)
 - [x] Book: JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
 - [ ] Book: JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
 - [ ] Book: JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
+
+</details>
 
 # TypeScript
 - [x] [Article: Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
@@ -338,6 +343,7 @@ As it was basically made for personal usage, information could still not be full
 - [x] [Book: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) book
 
 # Optimization
+- [ ] [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [x] [Resource: The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
 
