@@ -215,8 +215,14 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# TypeScript
+## TypeScript
+
+<details>
+<summary>View links</summary>
+
 - [x] [Article: Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
+
+</details>
 
 # Angular
 - [ ] [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
