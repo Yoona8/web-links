@@ -482,33 +482,48 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
+- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
+
 </details>
 
-# Design
-- [ ] [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
-- [ ] [Design articles and courses](https://designacademy.io/)
-- [ ] [Sketch master courses](http://sketchmaster.com/)
-- [ ] [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
-- [ ] [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- [ ] [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
-- [ ] [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
-- [ ] [Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
-- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
-- [x] [Color Picker](https://colorsupplyyy.com/app)
-- [ ] [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
-- [x] [Resource: Undraw](https://undraw.co/)
-- [x] [UI8](https://ui8.net/?rel=leda)
-- [x] [Unsplash](https://unsplash.com/)
-- [x] [Pexels](https://www.pexels.com/)
-- [x] [Pages](https://www.pages.xyz/)
-- [x] [Land-book](https://land-book.com/)
-- [x] [Lapa](https://www.lapa.ninja/)
-- [x] [Behance](https://www.behance.net/) different designs (not only web)
-- [x] [Dribbble](https://dribbble.com/) so many different cool things
-- [x] [Templates](https://colorlib.com/wp/templates/)
-- [ ] [Templates: Freebiesbug](https://freebiesbug.com/)
-- [ ] [National park designs](https://nationalparktypeface.com/)
+## Design
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
+- [ ] [Article: Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [ ] [Article: Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
+- [ ] [Article: Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
+- [ ] [Article: Designing in color](https://www.freecodecamp.org/news/designing-in-color-abd358660a7b/)
+- [ ] [Slides: Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+- [ ] [Info: Design articles and courses](https://designacademy.io/)
+- [ ] [Info: Sketch master courses](http://sketchmaster.com/)
+- [x] [Service: Color Picker](https://colorsupplyyy.com/app)
+- [x] [Service: Undraw](https://undraw.co/) - SVG illustrations
+- [x] [Service: Unsplash](https://unsplash.com/) - photos
+- [x] [Service: Pexels](https://www.pexels.com/) - photos
+- [x] [Service: UI8](https://ui8.net/) - designs
+- [x] [Service: Pages](https://www.pages.xyz/) - designs
+- [x] [Service: Land-book](https://land-book.com/) - designs
+- [x] [Service: Lapa](https://www.lapa.ninja/) - designs
+- [x] [Service: Behance](https://www.behance.net/) - designs
+- [x] [Service: Dribbble](https://dribbble.com/) - designs
+- [x] [Service: ColorLib](https://colorlib.com/wp/templates/) - designs
+- [ ] [Service: Freebiesbug](https://freebiesbug.com/) - designs
+- [x] [Service: National park designs](https://nationalparktypeface.com/)
 - [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
+
+</details>
+
+## Ideas and Inspiration
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+
+</details>
 
 ## Regex
 
