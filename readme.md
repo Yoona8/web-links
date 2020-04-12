@@ -76,6 +76,7 @@ As it was basically made for personal usage, information could still not be full
 
     </details>
 
+- [x] [Service: Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
 - [x] [App: Accessibility Insights](https://accessibilityinsights.io/)
 
 </details>
@@ -206,6 +207,7 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 - [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
+- [x] [Practice: JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [x] [Lib: Flatpickr](https://flatpickr.js.org/getting-started/)
 - [x] [Lib: Moment.js](https://momentjs.com/)
 - [ ] [Book: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
@@ -611,18 +613,21 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# Tests
-- [ ] [Why Use Test-Driven Development?](https://news.codecademy.com/test-driven-development/)
-- [ ] [Тестирование: гайд от "чайников"](http://slides.com/elizaveta_s/deck#/)
-- [ ] [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
-- [ ] [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
-- [ ] [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [ ] [Black-box Testing a Node.js Web API](https://medium.com/@grantcarthew/black-box-testing-a-node-js-web-api-d626f7d651be)
+## Tests
+
+<details>
+<summary>View links</summary>
+
+- [ ] [Article: Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
+- [ ] [Article: Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [ ] [Info: Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
 - [ ] [Tool: Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
 - [ ] [Tool: Mocha](https://mochajs.org/)
 - [ ] [Tool: Chai](http://www.chaijs.com/)
 - [ ] [Tool: Emmet Re:view](http://re-view.emmet.io/)
 - [ ] [Tool: Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
+
+</details>
 
 ## Helpers
 
@@ -633,32 +638,42 @@ As it was basically made for personal usage, information could still not be full
 
 </details>
 
-# People and Resources
-- [x] [Addy Osmani](https://addyosmani.com/)
-- [x] [Rob Dodson](https://robdodson.me/)
-- [x] [Heydon works](http://www.heydonworks.com/)
-- [x] [Sara Soueidan](https://www.sarasoueidan.com/)
-- [x] [Zell](https://zellwk.com/)
-- [x] [Una Kravets](https://una.im/)
-- [x] [Lea Verou](http://lea.verou.me/)
-- [x] [Jen Simmons](https://jensimmons.com/)
-- [x] [Yoksel](http://css.yoksel.ru/)
-- [x] [Николай Громов](https://nicothin.pro/)
-- [x] [Евгений Закурдаев](https://eugeno.ru/)
-- [x] [Coding Heroes](https://codingheroes.io/resources/)
-- [x] [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [x] [Htmlacademy blog](https://htmlacademy.ru/blog)
-- [x] [Google developers](https://developers.google.com/)
-- [x] [MDN Web docs](https://developer.mozilla.org/en-US/)
-- [x] [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
-- [x] [Conf list](https://confs.tech/javascript)
-- [x] [Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
-- [x] [Dev](https://dev.to/)
-- [x] [Codrops](https://tympanus.net/codrops/)
-- [x] [Info: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+## People and Resources
 
-# Courses and Practice
+<details>
+<summary>View links</summary>
+
+- [x] [People: Addy Osmani](https://addyosmani.com/)
+- [x] [People: Rob Dodson](https://robdodson.me/)
+- [x] [People: Heydon works](http://www.heydonworks.com/)
+- [x] [People: Sara Soueidan](https://www.sarasoueidan.com/)
+- [x] [People: Zell](https://zellwk.com/)
+- [x] [People: Una Kravets](https://una.im/)
+- [x] [People: Lea Verou](http://lea.verou.me/)
+- [x] [People: Jen Simmons](https://jensimmons.com/)
+- [x] [People: Yoksel](http://css.yoksel.ru/)
+- [x] [People: Николай Громов](https://nicothin.pro/)
+- [x] [People: Евгений Закурдаев](https://eugeno.ru/)
+- [x] [Info: Coding Heroes](https://codingheroes.io/resources/)
+- [x] [Info: Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [x] [Info: Htmlacademy blog](https://htmlacademy.ru/blog)
+- [x] [Info: Google developers](https://developers.google.com/)
+- [x] [Info: MDN Web docs](https://developer.mozilla.org/en-US/)
+- [x] [Info: Front-end Architecture and Performance Engineering](https://csswizardry.com/)
+- [x] [Info: Dev](https://dev.to/)
+- [x] [Info: Codrops](https://tympanus.net/codrops/)
+- [x] [Info: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [x] [Info: Conf list](https://confs.tech/javascript)
+
+</details>
+
+## Courses and Practice
+
+<details>
+<summary>View links</summary>
+
 - [x] [Practice: Codewars](https://www.codewars.com/dashboard)
+- [x] [Practice: FreeCodeCamp](https://www.freecodecamp.org/)
 - [x] [Practice: HackerRank](https://www.hackerrank.com/dashboard)
 - [x] [Practice: w3resource](https://www.w3resource.com/)
 - [x] [Practice: CodeSignal](https://app.codesignal.com/)
@@ -667,12 +682,12 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Practice: LeetCode](https://leetcode.com/)
 - [ ] [Practice: CodeChef](https://www.codechef.com/)
 - [ ] [Practice: CodeForces](http://codeforces.com/)
-- [x] [Practice: FreeCodeCamp](https://www.freecodecamp.org/)
-- [ ] [Practice and Courses: GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [ ] [Practice and Courses: CoderByte](https://www.coderbyte.com/)
-- [x] [Courses: Code with Mosh](https://codewithmosh.teachable.com/)
-- [ ] [Courses: Springboard](https://www.springboard.com/)
-- [ ] [Courses and Library: SitePoint](https://www.sitepoint.com/)
-- [x] [Flatiron School](https://flatironschool.com/)
-- [ ] [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
-- [x] [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [ ] [Practice: GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [ ] [Practice: CoderByte](https://www.coderbyte.com/)
+- [x] [Course: Code with Mosh](https://codewithmosh.teachable.com/)
+- [ ] [Course: Springboard](https://www.springboard.com/)
+- [ ] [Course: SitePoint](https://www.sitepoint.com/)
+- [x] [Course: Flatiron School](https://flatironschool.com/)
+- [ ] [Course: List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
+
+</details>
