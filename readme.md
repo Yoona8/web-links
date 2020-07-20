@@ -313,17 +313,6 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
 - [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [x] [Service: The Front-End Checklist](https://frontendchecklist.io/) great checklist on what to check before deployment
-
-    <details>
-    <summary>Notes:</summary>
-
-    - `-webkit-overflow-scrolling: touch;` scroll native to iPhone (not sure, read more)
-    - for blocks, which could be empty, add `:empty { display: none; }`
-    - `will-change` for animations, but don't use often
-    - `<link rel="prefetch">` if needed
-
-    </details>
 
 </details>
 
