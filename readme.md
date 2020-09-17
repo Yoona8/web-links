@@ -1,31 +1,9 @@
-# Collection of Links
-## A11y
-<details>
-<summary>View links</summary>
-
-- [x] [Service: Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
-
-</details>
-
 ## HTML and CSS
 
 <details>
 <summary>View links</summary>
 
-- [ ] [Video: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
-- [ ] [Video: Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-- [ ] [Info: Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
-- [x] [Info: CSS Reference](https://tympanus.net/codrops/css_reference/)
-- [x] [Info: State of CSS 2019](https://2019.stateofcss.com/)
-- [ ] [Info: Layouts](https://every-layout.dev/)
-- [ ] [Info: CSS Grid Layout on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [ ] [Info: Grid by example](https://gridbyexample.com/resources/)
 - [ ] [Info: Houdini](https://css-houdini.rocks/js-in-css/)
-- [ ] [Practice: Flexbox Froggy](http://flexboxfroggy.com/)
-- [x] [Practice: Grid Garden](http://cssgridgarden.com/)
-- [ ] [Practice: Griddy. Learn the CSS Grid!](http://griddy.io/)
-- [x] [Service: HTML symbols](https://dev.w3.org/html5/html-author/charref)
-- [x] [Service: CSS Triggers](https://csstriggers.com/)
 
 </details>
 
@@ -49,14 +27,6 @@
 - [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 - [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-- [x] [Practice: JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-- [x] [Lib: Flatpickr](https://flatpickr.js.org/getting-started/)
-- [x] [Lib: Moment.js](https://momentjs.com/)
-- [ ] [Book: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
-- [x] Book: Head First JavaScript Programming (O'Reilly, by Elisabeth Robson, Eric Freeman)
-- [x] Book: JavaScript: The Definitive Guide (O'Reilly, by David Flanagan)
-- [ ] Book: JavaScript: The Good Parts (O'Reilly, by Douglas Crockford)
-- [ ] Book: JavaScript Patterns (O'Reilly, by Stoyan Stefanov)
 
 </details>
 
@@ -100,97 +70,9 @@
 <details>
 <summary>View links</summary>
 
-- [x] [Info: Git Book](https://git-scm.com/book/en/v2)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - setup git
-        - download git (both mac and win)
-        - download terminal
-        - for ru version (if needed): environment => `set LC_ALL=ru_RU.UTF-8` and `set LANG=ru_RU.UTF-8`
-    - git line endings
-        - set inside `.gitattributes` file
-        - `*.md text` for text file to be converted CRLF (win) => LF (macOS, linux)
-        - `*.png binary` for `-text -diff` macros
-    - config git
-        - `git config --global user.name "<name>"`
-        - `git config -g user.email "<email>"`
-        - `git config --list` stored in the user's dir `.gitconfig` file path: `~/.gitconfig`
-        - `git init` to add git to current folder
-    - git commands (general)
-        - `git help <command>`
-        - `git status`
-        - `git add .` dir current add to index files for commit
-        - `git add <path-to-file>` add particular file(s)
-        - `git commit -m "<message>"` creates a save
-        - `git commit --amend -m "<message>"` to correct the last commits message (amend changes hash)
-        - `git checkout <commit hash>` switches to commit, shows log till this commit
-        - `git cat-file -p <commit hash>` shows commit file content `-p` readable format
-        - `git diff`
-        - `git diff --staged` indexed files
-        - `git log` history
-        - `git log --oneline`
-        - `git log --all` shows the whole log
-        - `git log --graph`
-        - `git log -1<2/3/4...>` shows only 1/2/3/4/... last commits
-        - `git show <commit hash>` to show the content of the commit
-        - `git checkout <file>` for not commited, reset file to last commit, even if the file was deleted, can't reverse this command
-        - `git checkout <commit hash> <file>` resets file to the state in the commit
-        - `git reset HEAD <file>` to unstage indexed, but not yet commited file
-        - `git rm <file>` and `git commit --amend --no-edit` removes file from commit and deletes from folder
-        - `git rm --cached <file>` and `git commit --amend --no-edit` removes file from commit and keeps unstaged in folder
-    - git branches
-        - `git checkout -b <pointer name> <comment hash>` or without hash for current commit, creates a pointer to commit
-        - `HEAD` indicates current state (where we currently are)
-        - when we create a new commit in a branch, the pointer jumps to the last commit
-        - `git merge <pointer-to-merge> -m "<message>"` creates a merge commit, the pointer will be current branch
-        - `git push origin <what-to-push>:<where-to-push>`
-        - `git push :<where-to-push>` to remove branch
-        - `git branch -m <name>` to rename current branch
-        - `git fetch origin` to get all branches from repo
-        - `git checkout -b <new-pointer-name> origin/<branch-name>` to create a new branch from existing pointer
-        - `git branch --set-upstream-to=origin/<name>` to link current branch to repo branch
-        - `git branch -vv` to show links between branches
-    - set SSH and integrations
-        - `git remote add origin <git@github.com...>` to link remote and local repos
-        - `git remote -v` shows remote repos
-        - `git push -u origin master`
-        - `mkdir ~/.ssh` creates a folder in user's folder, create an SSH key in this folder
-        - `ssh-keygen -t rsa -b 4096 -C "<email@email.com>"` where `-t rsa` sets key type and `-b 4096` sets key length (bit)
-            - store private key only on your computer
-            - load public key to repo
-        - `cat <key>.pub` copy content to github
-        - `ssh -T -i ~/.ssh/<key> git@github.com` to check if the key works
-        - `ssh -T git@github.com` permission denied?
-            - `~/.ssh/config` for settings (also using the appropriate private key)
-            - add to the file
-                ```
-                Host github.com
-                    IdentityFile ~/.ssh/key
-                ```
-
-    </details>
-
 - [ ] [Info: Git How To](https://githowto.com/)
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - `pwd` full path to current dir
-    - `cd` change dir
-        - `cd -` to previous folder
-    - `mkdir name` and `touch name` creates a dir or file
-    - `ls <path/to>`
-        - `ls -1` vertically
-        - `ls -a` +hidden
-    - `open .` or `start .` or instead of `.` add path to open dir or file
-    - `cat <file>` shows the content
-
-    </details>
-
 - [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
 </details>
