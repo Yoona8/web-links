@@ -1,12 +1,3 @@
-## HTML and CSS
-
-<details>
-<summary>View links</summary>
-
-- [ ] [Info: Houdini](https://css-houdini.rocks/js-in-css/)
-
-</details>
-
 ## JavaScript
 
 <details>
@@ -27,15 +18,6 @@
 - [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
 - [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 - [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-
-</details>
-
-## TypeScript
-
-<details>
-<summary>View links</summary>
-
-- [x] [Article: Types: Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 
 </details>
 
@@ -133,71 +115,7 @@
 - [ ] [Article: Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 - [ ] [Info: Variable Fonts](https://variablefonts.dev/)
 - [ ] [Info: Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-- [x] [Service: Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
-- [x] [Service: CSS Font Stack](https://www.cssfontstack.com/) collection of web safe CSS fonts
-- [x] [Service: Fonts storage](https://fontstorage.com/)
 - [ ] [App: FontForge](https://fontforge.github.io/en-US/)
-
-</details>
-
-## SVG
-
-<details>
-<summary>View links</summary>
-
-- [x] [Article: Optimizing SVG for Web Use](https://medium.com/larsenwork-andreas-larsen/optimising-svgs-for-web-use-part-1-67e8f2d4035)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - use fewer nodes
-    - fewer handles
-    - integers instead of floats
-    - grid not too big
-
-    </details>
-
-- [x] [Article: An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/) by Sara Soueidan
-    
-    <details>
-    <summary>Notes:</summary>
-
-    - HTML inline sprites `<svg><symbol>...</symbol></svg>`
-    - SVG sprite file (for IE add plugin svg4everybody)
-    - CSS inline SVG sprite (svg+xml, fallback base64, fallback images) can't change CSS props that way
-    - using SVG fragment ids and views (some bugs in Safari)
-
-    </details>
-
-- [x] [Article: How to use SVG as a Placeholder, and Other Image Loading Techniques](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) from FCC
-    
-    <details>
-    <summary>Notes:</summary>
-
-    - nothing - just add sizes for browser not to re-render
-    - placeholder static - ex. a person svg for a person avatar
-    - solid color or gradient most suitable colors for the image
-    - svg simple shapes (vary 10-100), could be heavy
-    - svg simple shapes + blur filter more light and smooth
-    - svg silhouettes even with 2 colors look nice
-
-    </details>
-
-- [x] [Article: Of SVG, Minification and Gzip](https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007)
-    
-    <details>
-    <summary>Notes:</summary>
-
-    The conclusion from the article:
-    1. Compressing smaller raw data would probably produce smaller compressed data.
-    2. Fewer distinct characters means less entropy. Less entropy is better compression.
-    3. More frequently found characters are compressed with less number of bits. Getting rid of less common characters and making the more common chars to be even more common would most probably improve the compression.
-    4. Long runs of duplicated code are compressed with a few bits. DRY is not always the best option. Sometimes you’d like to repeat yourself to get better results.
-    5. Sometimes more raw data will produce smaller compressed data. Removing entropy will allow the compressor to better remove what is redundant.
-
-    </details>
-
-- [x] [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/) by Sara Soueidan
 
 </details>
 
@@ -215,9 +133,6 @@
 - [ ] [Info: Design articles and courses](https://designacademy.io/)
 - [ ] [Info: Sketch master courses](http://sketchmaster.com/)
 - [x] [Service: Color Picker](https://colorsupplyyy.com/app)
-- [x] [Service: Undraw](https://undraw.co/) - SVG illustrations
-- [x] [Service: Unsplash](https://unsplash.com/) - photos
-- [x] [Service: Pexels](https://www.pexels.com/) - photos
 - [x] [Service: UI8](https://ui8.net/) - designs
 - [x] [Service: Pages](https://www.pages.xyz/) - designs
 - [x] [Service: Land-book](https://land-book.com/) - designs
@@ -237,18 +152,6 @@
 <summary>View links</summary>
 
 - [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
-
-</details>
-
-## Regex
-
-<details>
-<summary>View links</summary>
-
-- [x] [Article: 8 полезных регэкспов с наглядным разбором](https://habr.com/ru/post/66931/)
-- [x] [Service: Regex](https://regex101.com/)
-- [x] [Service: A Collection of different regex](http://html5pattern.com/)
-- [ ] Book: Mastering Regular Expressions (O'Reilly, by Jeffrey Friedl)
 
 </details>
 
@@ -289,13 +192,6 @@
 <summary>View links</summary>
 
 - [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
-
-</details>
-
-## Node JS
-
-<details>
-<summary>View links</summary>
 
 </details>
 
@@ -385,12 +281,8 @@
 <details>
 <summary>View links</summary>
 
-- [x] [Practice: Codewars](https://www.codewars.com/dashboard)
-- [x] [Practice: FreeCodeCamp](https://www.freecodecamp.org/)
-- [x] [Practice: HackerRank](https://www.hackerrank.com/dashboard)
 - [x] [Practice: w3resource](https://www.w3resource.com/)
 - [x] [Practice: CodeSignal](https://app.codesignal.com/)
-- [x] [Practice: CodinGame](https://www.codingame.com/)
 - [x] [Practice: TopCoder](https://www.topcoder.com/challenges)
 - [ ] [Practice: LeetCode](https://leetcode.com/)
 - [ ] [Practice: CodeChef](https://www.codechef.com/)
