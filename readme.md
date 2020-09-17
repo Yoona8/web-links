@@ -1,83 +1,9 @@
 # Collection of Links
-I've created this repository to sort all my tips, tricks, rules, links etc. related to <b>web development</b>. It's not finished yet, actually I'm planning to fill it with new information at least once a week.
-As it was basically made for personal usage, information could still not be full or clear for anybody else. But if you want to use it, feel free.
-
 ## A11y
-
 <details>
 <summary>View links</summary>
 
-- [x] [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
-- [x] [Article: Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - add good text to links (not just "click here" or "show more")
-    - add alt to image with important information
-    - use the full name and (abbreviation) in brackets on first occurrence, if the abbreviation is less known
-
-    </details>
-
-- [x] [Article: Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - place interactive elements where easily accessible
-    - `inputmode="numeric"` for special keyboard even if `type="text"`
-
-    </details>
-
-- [x] [Article: Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - `color: currentColor` to reset color to normal text color
-    - `a[aria-disabled="true"]` not good to disable a link, but sometimes needed (hint to use a CSS selector)
-    - `output.value = ''` accessible in JS for `<output>`
-
-    </details>
-
-- [x] [Article: UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - skip links
-    - shortcut menus
-    - user education
-    - modal focusing
-    - navigation menus
-    - logical focus after some user events
-
-    </details>
-
-- [x] [Article: Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - What is a menu?
-    - What is a navigation system?
-    - What are ARIA menus actually for?
-    - What is the difference between top-level menu button and nav top-level link?
-    - On what state does menu open?
-    - What are the problems with with dropdowns for touch screens?
-    - When and why to use content pages?
-    - What is the most popular navigation button example (on web)?
-    - Why do we use both `hidden` and `[hidden] {display: none;}`?
-    - What are WAI ARIA roles for true menus and why don't we use it on lists of links?
-    - What are true menus?
-    - How to create a true menu with ARIA?
-    - Why should we use JS solution instead of non-JS solution?
-    - What should be added for a proper keyboard navigation for true menus?
-
-    </details>
-
 - [x] [Service: Checklist Design](https://www.checklist.design/) a collection of the best UX and UI practices
-- [x] [App: Accessibility Insights](https://accessibilityinsights.io/)
 
 </details>
 
@@ -86,60 +12,8 @@ As it was basically made for personal usage, information could still not be full
 <details>
 <summary>View links</summary>
 
-- [x] [Spec: HTML Specification](https://www.w3.org/TR/html52/)
-- [x] [Spec: CSS Standards](https://www.w3.org/Style/CSS/)
-- [x] [Article: Alternative Text and Images](https://bitsofco.de/alternative-text-and-images/)
-
-    <details>
-    <summary>Notes:</summary>
-    
-    * a11y for complex images (graphs or alike)
-        1. use short and long descriptions 
-            ```html
-            <img src="#" alt="short description" longdesc="#long-desc">
-            <!--or-->
-            <img src="#" alt="short description" aria-labelledby="#long-desc">
-            <p id="long-desc">Long description here.</p>
-            ```
-        2. use figure
-            ```html
-            <figure>
-             <img src="#" alt="short description">
-             <figcaption>Long description here.</figcaption>
-            </figure>
-            ```
-    * groups of images (like star rating) - fill alt only for one, for others leave empty
-        ```html
-        <img src="#" alt="4 out of 5 stars">
-        <img src="#" alt="">
-        ```
-    * for super unique cases like clickable schemes `<map>` and `<area>` could be useful
-    
-    </details>
-
-- [x] [Article: Селектор обобщенных родственных элементов](https://habrahabr.ru/post/150720/)
-- [x] [Article: CSS-селекторы](https://learn.javascript.ru/css-selectors)
-
-    <details>
-    <summary>Notes:</summary>
-
-    * `:lang(ko)` styling on lang attributes
-
-    </details>
-
-- [x] [Article: Centering: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-- [ ] [Article: Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
-- [x] [Article: A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
-- [ ] [Article: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [Article: Harnessing Flexbox For Today's Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
-- [ ] [Article: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] [Article: Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-- [x] [Article: Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
-- [x] [Article: SO, CAN WE USE CSS VARIABLES YET?](https://www.webdesignerdepot.com/2017/10/so-can-we-use-css-variables-yet/)
-- [x] [Article: Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [ ] [Video: Refactoring (the way we talk about) CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css)
 - [ ] [Video: Jen Simmons. CSS Grid videos on YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
-- [x] [Info: Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [ ] [Info: Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [x] [Info: CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [x] [Info: State of CSS 2019](https://2019.stateofcss.com/)
@@ -152,11 +26,6 @@ As it was basically made for personal usage, information could still not be full
 - [ ] [Practice: Griddy. Learn the CSS Grid!](http://griddy.io/)
 - [x] [Service: HTML symbols](https://dev.w3.org/html5/html-author/charref)
 - [x] [Service: CSS Triggers](https://csstriggers.com/)
-- [x] [Code: CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
-- [x] [Code: CSS Animations Snippets](https://daneden.github.io/animate.css/)
-- [ ] [Code: CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
-- [ ] [Book: Cascading Style Sheets: The Definitive Guide](http://shop.oreilly.com/product/9780596005252.do) by Eric Meyer
-- [ ] [Book: CSS3: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) by David McFarland
 
 </details>
 
@@ -164,33 +33,6 @@ As it was basically made for personal usage, information could still not be full
 
 <details>
 <summary>View links</summary>
-
-- [x] [Article: What is `this`? The Inner Workings of JavaScript Objects](https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a)
-
-    <details>
-    <summary>Notes:</summary>
-
-    - if `obj.getThis4 = obj.getThis2.bind(obj);` then here `obj.getThis4.call(a);` we get `this === obj` instead of `a` (respects the first binding)
-    - if created like that, always returns `undefined` (arrow functions have never their own `this`, only lexical scope's `this`, even if we use `call` or `bind`)
-        ```JavaScript
-        const obj = {
-            getThis: () => this;
-        };
-        ```
-    - if we use `new` keyword to create an instance, lexical `this` will be the object (binds `this` in the constructor)
-      
-
-    </details>
-
-- [x] [Article: Removing duplicate objects from an Array](https://bitsofco.de/removing-duplicate-objects-from-an-array-is-hard/)
-
-    <details>
-    <summary>Notes:</summary>
-    
-    - not very good, but also some comments are helpful
-    - consider: maybe add some decisions here
-    
-    </details>
 
 - [ ] [Article: What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [ ] [Article: Build anything you want with JavaScript](https://learnjavascript.today/)
