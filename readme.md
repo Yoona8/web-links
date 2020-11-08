@@ -1,26 +1,3 @@
-## JavaScript
-
-<details>
-<summary>View links</summary>
-
-- [ ] [Article: What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-- [ ] [Article: Build anything you want with JavaScript](https://learnjavascript.today/)
-- [ ] [Article: JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
-- [ ] [Article: Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5)
-- [ ] [Article: JavaScript — Learn & Understand Closures](https://codeburst.io/javascript-learn-understand-closures-8ab35586b0c0)
-- [ ] [Article: Reactive UIs with VanillaJS](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
-- [ ] [Article: How to keep your JavaScript code simple and easy to read](https://www.freecodecamp.org/news/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c/)
-- [ ] [Article: ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
-- [ ] [Article: Promises: The Definitive Guide](https://itnext.io/promises-the-definitive-guide-6a49e0dbf3b7)
-- [ ] [Article: 4 Modern JavaScript (ES6+) Features You Should Be Using Now](https://programmingwithmosh.com/javascript/essential-modern-javascript-features/)
-- [ ] [Article: List of books](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
-- [x] [Article: How I added Dark Mode to my website](https://www.freecodecamp.org/news/how-i-added-dark-mode-to-my-website-33611d246425/) - case study.
-- [ ] [Info: Учебник JavaScript](https://learn.javascript.ru/)
-- [ ] [Info: JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
-- [ ] [Info: ES6 - New Features: Overview & Comparison](http://es6-features.org/#ExpressionBodies)
-
-</details>
-
 ## Angular
 
 <details>
@@ -52,7 +29,6 @@
 <details>
 <summary>View links</summary>
 
-- [ ] [Info: Git How To](https://githowto.com/)
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 - [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
