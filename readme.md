@@ -1,3 +1,5 @@
+This repository is no longer supported (moved to the new one https://github.com/Yoona8/frontend-curriculum).
+
 ## Angular
 
 <details>
