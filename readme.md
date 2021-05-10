@@ -3,15 +3,42 @@
 <details>
 <summary>HTML</summary>
 
-ENG
 - [ ] [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
 - [ ] [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 - [Validator](https://validator.w3.org/nu/)
-
-RU
 - [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
+
+</details>
+
+<details>
+<summary>CSS</summary>
+
+- [ ] 2017.09.18 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
+- [ ] 2012.09.03 [Селектор обобщенных родственных элементов](https://habr.com/ru/post/150720/)
+- [ ] 2021.04.07 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] 2015.03.02 [Harnessing Flexbox For Today’s Web Apps](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
+- [ ] 2021.03.10 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [ ] [Grid Resources](https://gridbyexample.com/resources/)
+- [ ] [Relearn CSS layout](https://every-layout.dev/)
+- [ ] 2020.02.19 [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [ ] 2020.12.28 [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+- [x] 2017.12.27 [A Sliding Nightmare: Understanding the Range Input](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
+- [ ] 2015.09.29 [Why Do We Have `repeating-linear-gradient` Anyway?](https://css-tricks.com/why-do-we-have-repeating-linear-gradient-anyway/)
+- [ ] 2020.02.14 [While You Weren’t Looking, CSS Gradients Got Better](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/)
+- [ ] 2018.01.24 [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/@cgallello/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
+- [ ] 2019.07 [Refactoring the way we talk about CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css#sNdvV9Y)
+- [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [CSS Triggers](https://csstriggers.com/)
+- [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
+- [Animate.css](https://animate.style/)
+- [CSS effects](https://emilkowalski.github.io/css-effects-snippets/)
+- [Houdini](https://css-houdini.rocks/js-in-css/)
+- Book [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
+- Book [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
 
 </details>
 
