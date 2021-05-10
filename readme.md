@@ -43,6 +43,32 @@
 </details>
 
 <details>
+<summary>JavaScript</summary>
+
+</details>
+
+<details>
+<summary>Browsers</summary>
+
+</details>
+
+## Animations
+
+<details>
+<summary>Canvas API</summary>
+
+</details>
+
+<details>
+<summary>WebGL</summary>
+
+</details>
+
+## Accessibility
+
+## Frameworks and Libraries
+
+<details>
 <summary>Angular</summary>
 
 - [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
@@ -56,73 +82,37 @@
 
 </details>
 
-## React
-
 <details>
-<summary>View links</summary>
+<summary>React</summary>
 
 - [ ] [Article: JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 - [ ] [Article: How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
 </details>
 
-## Git
-
 <details>
-<summary>View links</summary>
-
-- [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
-- [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-- [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+<summary>Vue</summary>
 
 </details>
 
-## Workflow
-
 <details>
-<summary>View links</summary>
-
-- [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
-- [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
-- [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
-- [x] [Article: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
-- [x] [Article: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
-- [x] [Article: Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
-- [x] [Article: Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
-- [x] [Info: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [x] [Info: БЭМ-методология](https://ru.bem.info/)
-- [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- [ ] Book: Code Complete (by Steve McConnell)
+<summary>TypeScript</summary>
 
 </details>
 
-## Optimization
-
+## Design and UX
 <details>
-<summary>View links</summary>
-
-- [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
-- [ ] [Article: Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
-- [ ] [Article: Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
-- [ ] [Article: Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
-- [ ] [Article: Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
-- [ ] [Article: CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
-- [ ] [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-- [ ] [Article: A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
-- [x] [Article: Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
-- [ ] [Info: Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
-- [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
-- [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+<summary>Graphics</summary>
 
 </details>
 
-## Fonts
+<details>
+<summary>Color theory</summary>
+
+</details>
 
 <details>
-<summary>View links</summary>
+<summary>Fonts</summary>
 
 - [ ] [Article: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Article: Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
@@ -137,10 +127,8 @@
 
 </details>
 
-## Design
-
 <details>
-<summary>View links</summary>
+<summary>Design</summary>
 
 - [ ] [Article: Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Article: Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
@@ -164,86 +152,43 @@
 
 </details>
 
-## Ideas and Inspiration
-
+## Tools
 <details>
-<summary>View links</summary>
+<summary>Git</summary>
 
-- [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+- [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
+- [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
 </details>
 
-## Algorithms
-
 <details>
-<summary>View links</summary>
+<summary>Workflow (refactor)</summary>
 
-- [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-- [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-- [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
-- [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+- [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
+- [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+- [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
+- [x] [Article: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
+- [x] [Article: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [x] [Article: Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [x] [Article: Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
+- [x] [Info: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [x] [Info: БЭМ-методология](https://ru.bem.info/)
+- [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- [ ] Book: Code Complete (by Steve McConnell)
 
 </details>
 
-## Design Patterns
-
 <details>
-<summary>View links</summary>
+<summary>Helpers</summary>
 
-- [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
-- [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
 
 </details>
 
-## Serverless
-
+## Testing
 <details>
-<summary>View links</summary>
-
-- [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
-
-</details>
-
-## C-sharp
-
-<details>
-<summary>View links</summary>
-
-- [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
-
-</details>
-
-## PHP
-
-<details>
-<summary>View links</summary>
-
-- [ ] [Info: PHP Standards Recommendations](https://www.php-fig.org/psr/)
-
-</details>
-
-## Docker
-
-<details>
-<summary>View links</summary>
-
-- [ ] [Article: How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
-
-</details>
-
-## Machine Learning
-
-<details>
-<summary>View links</summary>
-
-- [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
-
-</details>
-
-## Tests
-
-<details>
-<summary>View links</summary>
+<summary>Tests</summary>
 
 - [ ] [Article: Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
 - [ ] [Article: Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
@@ -256,29 +201,132 @@
 
 </details>
 
-## Helpers
-
+## Architecture and paradigms
 <details>
-<summary>View links</summary>
-
-- [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
+<summary>OOP</summary>
 
 </details>
 
-## People and Resources
+<details>
+<summary>Functional programming</summary>
 
+</details>
+
+<details>
+<summary>Procedural programming</summary>
+
+</details>
+
+<details>
+<summary>Architecture</summary>
+
+</details>
+
+<details>
+<summary>Design patterns</summary>
+
+- [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
+- [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+
+</details>
+
+## Algorithms and Data Structures
+<details>
+<summary>Algorithms</summary>
+
+- [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+- [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
+- [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+
+</details>
+
+## Performance and Optimization
+<details>
+<summary>Optimization</summary>
+
+- [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+- [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
+- [ ] [Article: Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [ ] [Article: Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
+- [ ] [Article: Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+- [ ] [Article: Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
+- [ ] [Article: CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
+- [ ] [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+- [ ] [Article: A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
+- [x] [Article: Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+- [ ] [Info: Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
+- [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
+- [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+</details>
+
+## Web Components
+
+## PWA
+
+## Modern WEB features
+
+## Databases and Servers
+<details>
+<summary>Serverless</summary>
+
+- [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
+
+</details>
+
+<details>
+<summary>C#</summary>
+
+- [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+
+</details>
+
+<details>
+<summary>PHP</summary>
+
+- [ ] [Info: PHP Standards Recommendations](https://www.php-fig.org/psr/)
+
+</details>
+
+<details>
+<summary>Docker</summary>
+
+- [ ] [Article: How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+
+</details>
+
+## Machine Learning
 <details>
 <summary>View links</summary>
 
-- [x] [People: Addy Osmani](https://addyosmani.com/)
+- [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
+
+</details>
+
+## Ideas and Inspiration
+<details>
+<summary>Ideas</summary>
+
+- [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+
+</details>
+
+## Cross-content
+- [Addy Osmani](https://addyosmani.com/)
+- [Tania Rascia](https://www.taniarascia.com/blog/)
+- [Dmitri Pavlutin](https://dmitripavlutin.com/all-posts/)
+- [Adam Silver](https://adamsilver.io/blog/)
 - [x] [People: Rob Dodson](https://robdodson.me/)
 - [x] [People: Heydon works](http://www.heydonworks.com/)
 - [x] [People: Sara Soueidan](https://www.sarasoueidan.com/)
-- [x] [People: Zell](https://zellwk.com/)
+- [Zell](https://zellwk.com/)
 - [x] [People: Una Kravets](https://una.im/)
-- [x] [People: Lea Verou](http://lea.verou.me/)
+- [Lea Verou](http://lea.verou.me/)
 - [x] [People: Jen Simmons](https://jensimmons.com/)
-- [x] [People: Yoksel](http://css.yoksel.ru/)
+- [Yoksel](http://css.yoksel.ru/)
 - [x] [People: Николай Громов](https://nicothin.pro/)
 - [x] [People: Евгений Закурдаев](https://eugeno.ru/)
 - [x] [Info: Coding Heroes](https://codingheroes.io/resources/)
@@ -287,18 +335,20 @@
 - [x] [Info: Google developers](https://developers.google.com/)
 - [x] [Info: MDN Web docs](https://developer.mozilla.org/en-US/)
 - [x] [Info: Front-end Architecture and Performance Engineering](https://csswizardry.com/)
-- [x] [Info: Dev](https://dev.to/)
 - [x] [Info: Codrops](https://tympanus.net/codrops/)
 - [x] [Info: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [x] [Info: Conf list](https://confs.tech/javascript)
+- [Web-Skills map](https://andreasbm.github.io/web-skills/)
+- [Hackernoon](https://hackernoon.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Dev.to](https://dev.to/)
+- [In-depth](https://indepth.dev/)
+- [Smashing magazine](https://www.smashingmagazine.com/)
+- [18 In-Demand Technology Skills to Learn in 2021](https://learntocodewith.me/posts/tech-skills-in-demand/)
+- Books [A book apart](https://abookapart.com/products/)
 
-</details>
-
-## Courses and Practice
-
-<details>
-<summary>View links</summary>
-
+## Practice
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 - [x] [Practice: w3resource](https://www.w3resource.com/)
 - [x] [Practice: CodeSignal](https://app.codesignal.com/)
 - [x] [Practice: TopCoder](https://www.topcoder.com/challenges)
@@ -307,10 +357,14 @@
 - [ ] [Practice: CodeForces](http://codeforces.com/)
 - [ ] [Practice: GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [ ] [Practice: CoderByte](https://www.coderbyte.com/)
+
+## Courses
 - [x] [Course: Code with Mosh](https://codewithmosh.teachable.com/)
 - [ ] [Course: Springboard](https://www.springboard.com/)
 - [ ] [Course: SitePoint](https://www.sitepoint.com/)
 - [x] [Course: Flatiron School](https://flatironschool.com/)
 - [ ] [Course: List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
+- [Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 
-</details>
+## Not Dev-related but useful
+- [Video: Top 17 Google Chrome Tips & Tricks](https://www.youtube.com/watch?v=7DHjtQgOnSs)
