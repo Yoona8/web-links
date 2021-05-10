@@ -1,9 +1,22 @@
-This repository is no longer supported (moved to the new one https://github.com/Yoona8/frontend-curriculum).
+# Web dev links
+## Fundamentals
+<details>
+<summary>HTML</summary>
 
-## Angular
+ENG
+- [ ] [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- [ ] [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
+- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
+- [Validator](https://validator.w3.org/nu/)
+
+RU
+- [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
+
+</details>
 
 <details>
-<summary>View links</summary>
+<summary>Angular</summary>
 
 - [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 - [ ] [Article: Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
