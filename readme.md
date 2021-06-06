@@ -9,6 +9,7 @@
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 - [Validator](https://validator.w3.org/nu/)
 - [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
+- [x] [Lazy-loading video](https://web.dev/lazy-loading-video/)
 
 </details>
 
@@ -30,6 +31,8 @@
 - [ ] 2020.02.14 [While You Weren’t Looking, CSS Gradients Got Better](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/)
 - [ ] 2018.01.24 [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/@cgallello/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 - [ ] 2019.07 [Refactoring the way we talk about CSS](https://noti.st/rachelandrew/VqOEAa/refactoring-the-way-we-talk-about-css#sNdvV9Y)
+- [ ] 2020.03.05 [CSS Import](https://www.keycdn.com/blog/css-import)
+- [ ] 2021.04.12 [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [CSS Triggers](https://csstriggers.com/)
@@ -37,6 +40,7 @@
 - [Animate.css](https://animate.style/)
 - [CSS effects](https://emilkowalski.github.io/css-effects-snippets/)
 - [Houdini](https://css-houdini.rocks/js-in-css/)
+- [Learn CSS](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
 - Book [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
 - Book [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
 
@@ -44,6 +48,8 @@
 
 <details>
 <summary>JavaScript</summary>
+
+- [ ] [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
 
 </details>
 
@@ -263,6 +269,13 @@
 
 </details>
 
+<details>
+<summary>Memory leaks</summary>
+
+- [x] [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+
+</details>
+
 ## Web Components
 
 ## PWA
@@ -314,6 +327,14 @@
 
 </details>
 
+<details>
+<summary>Inspiration</summary>
+
+- [Web and mobile UI design trends](https://screenlane.com/)
+- [Creative Market](https://creativemarket.com/)
+
+</details>
+
 ## Cross-content
 - [Addy Osmani](https://addyosmani.com/)
 - [Tania Rascia](https://www.taniarascia.com/blog/)
@@ -345,6 +366,7 @@
 - [In-depth](https://indepth.dev/)
 - [Smashing magazine](https://www.smashingmagazine.com/)
 - [18 In-Demand Technology Skills to Learn in 2021](https://learntocodewith.me/posts/tech-skills-in-demand/)
+- [Webgems - collection of resources](https://webgems.io/)
 - Books [A book apart](https://abookapart.com/products/)
 
 ## Practice
@@ -357,14 +379,20 @@
 - [ ] [Practice: CodeForces](http://codeforces.com/)
 - [ ] [Practice: GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [ ] [Practice: CoderByte](https://www.coderbyte.com/)
+- [ ] [Exercism](https://exercism.io/)
+- [ ] [Typing Practice for Programmers](https://typing.io/)
 
-## Courses
+## Courses and Tutorials
 - [x] [Course: Code with Mosh](https://codewithmosh.teachable.com/)
 - [ ] [Course: Springboard](https://www.springboard.com/)
 - [ ] [Course: SitePoint](https://www.sitepoint.com/)
 - [x] [Course: Flatiron School](https://flatironschool.com/)
 - [ ] [Course: List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
 - [Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+- [Fun and practical web development tutorials](https://scotch.io/)
+- [Codecademy](https://www.codecademy.com/)
+- [Treehouse](https://teamtreehouse.com/)
 
 ## Not Dev-related but useful
 - [Video: Top 17 Google Chrome Tips & Tricks](https://www.youtube.com/watch?v=7DHjtQgOnSs)
+- [Widgets manager for MacBook's Touch Bar](https://pock.dev/)
