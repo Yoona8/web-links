@@ -3,12 +3,12 @@
 <details>
 <summary>HTML</summary>
 
+- [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
 - [ ] [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
 - [ ] [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 - [Validator](https://validator.w3.org/nu/)
-- [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
 - [x] [Lazy-loading video](https://web.dev/lazy-loading-video/)
 
 </details>
@@ -85,6 +85,8 @@
 - [ ] [Article: Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
 - [ ] [Article: Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
 - [ ] [Article: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+- [Article: When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
+- [Article: 6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
 
 </details>
 
@@ -120,6 +122,7 @@
 <details>
 <summary>Fonts</summary>
 
+- [ ] 2021.06.03 [Best practices for fonts](https://web.dev/font-best-practices/)
 - [ ] [Article: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Article: Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
 - [ ] [Article: System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
@@ -165,6 +168,13 @@
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 - [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+
+</details>
+
+<details>
+<summary>Debugging</summary>
+
+- [Chrome DevTools Docs](https://developer.chrome.com/docs/devtools/)
 
 </details>
 
@@ -370,7 +380,8 @@
 - Books [A book apart](https://abookapart.com/products/)
 
 ## Practice
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [x] [FreeCodeCamp](https://www.freecodecamp.org/)
+- [x] [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
 - [x] [Practice: w3resource](https://www.w3resource.com/)
 - [x] [Practice: CodeSignal](https://app.codesignal.com/)
 - [x] [Practice: TopCoder](https://www.topcoder.com/challenges)
