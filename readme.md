@@ -87,6 +87,7 @@
 - [ ] [Article: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
 - [Article: When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
 - [Article: 6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
+- [Angular Custom Form Controls: Complete Guide](https://blog.angular-university.io/angular-custom-form-controls/) #article
 
 </details>
 
