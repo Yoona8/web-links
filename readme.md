@@ -1,17 +1,16 @@
 # Web dev links
+Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
+
 ## Fundamentals
-<details>
-<summary>HTML</summary>
+### HTML
 
-- [ ] 2021.01.21 [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links)
-- [ ] [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-- [ ] [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-- [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
-- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 - [Validator](https://validator.w3.org/nu/)
-- [x] [Lazy-loading video](https://web.dev/lazy-loading-video/)
-
-</details>
+- [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links) - it's a rare case, use button when you don't need a link
+- [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [Lazy-loading video](https://web.dev/lazy-loading-video/)
+- [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
+- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
 
 <details>
 <summary>CSS</summary>
