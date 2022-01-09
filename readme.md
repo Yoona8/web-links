@@ -3,7 +3,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## Fundamentals
 ### HTML
-
 - [Validator](https://validator.w3.org/nu/)
 - [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links) - it's a rare case, use button when you don't need a link
 - [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
@@ -12,9 +11,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
 
-<details>
-<summary>CSS</summary>
-
+### CSS
 - [ ] 2017.09.18 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [ ] 2012.09.03 [Селектор обобщенных родственных элементов](https://habr.com/ru/post/150720/)
 - [ ] 2021.04.07 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -43,39 +40,19 @@ Personal collection of useful resources, articles, courses, services and alike (
 - Book [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
 - Book [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
 
-</details>
-
-<details>
-<summary>JavaScript</summary>
-
+### JavaScript
 - [ ] [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
 
-</details>
-
-<details>
-<summary>Browsers</summary>
-
-</details>
+### Browsers
 
 ## Animations
-
-<details>
-<summary>Canvas API</summary>
-
-</details>
-
-<details>
-<summary>WebGL</summary>
-
-</details>
+### Canvas API
+### WebGL
 
 ## Accessibility
 
 ## Frameworks and Libraries
-
-<details>
-<summary>Angular</summary>
-
+### Angular
 - [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 - [ ] [Article: Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 - [ ] [Article: Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
@@ -88,40 +65,17 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Article: 6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
 - [Angular Custom Form Controls: Complete Guide](https://blog.angular-university.io/angular-custom-form-controls/) #article
 
-</details>
-
-<details>
-<summary>React</summary>
-
+### React
 - [ ] [Article: JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 - [ ] [Article: How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
-</details>
-
-<details>
-<summary>Vue</summary>
-
-</details>
-
-<details>
-<summary>TypeScript</summary>
-
-</details>
+### Vue
+### TypeScript
 
 ## Design and UX
-<details>
-<summary>Graphics</summary>
-
-</details>
-
-<details>
-<summary>Color theory</summary>
-
-</details>
-
-<details>
-<summary>Fonts</summary>
-
+### Graphics
+### Color theory
+### Fonts
 - [ ] 2021.06.03 [Best practices for fonts](https://web.dev/font-best-practices/)
 - [ ] [Article: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
 - [ ] [Article: Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
@@ -134,11 +88,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Info: Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 - [ ] [App: FontForge](https://fontforge.github.io/en-US/)
 
-</details>
-
-<details>
-<summary>Design</summary>
-
+### Design
 - [ ] [Article: Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
 - [ ] [Article: Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [ ] [Article: Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
@@ -159,28 +109,16 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [x] [Service: National park designs](https://nationalparktypeface.com/)
 - [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
-</details>
-
 ## Tools
-<details>
-<summary>Git</summary>
-
+### Git
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 - [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
-</details>
-
-<details>
-<summary>Debugging</summary>
-
+### Debugging
 - [Chrome DevTools Docs](https://developer.chrome.com/docs/devtools/)
 
-</details>
-
-<details>
-<summary>Workflow (refactor)</summary>
-
+### Workflow
 - [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
 - [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
 - [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
@@ -193,19 +131,11 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
 - [ ] Book: Code Complete (by Steve McConnell)
 
-</details>
-
-<details>
-<summary>Helpers</summary>
-
+### Helpers
 - [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
 
-</details>
-
 ## Testing
-<details>
-<summary>Tests</summary>
-
+### Tests
 - [ ] [Article: Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
 - [ ] [Article: Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 - [ ] [Info: Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
@@ -215,52 +145,24 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Tool: Emmet Re:view](http://re-view.emmet.io/)
 - [ ] [Tool: Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
 
-</details>
-
 ## Architecture and paradigms
-<details>
-<summary>OOP</summary>
-
-</details>
-
-<details>
-<summary>Functional programming</summary>
-
-</details>
-
-<details>
-<summary>Procedural programming</summary>
-
-</details>
-
-<details>
-<summary>Architecture</summary>
-
-</details>
-
-<details>
-<summary>Design patterns</summary>
-
+### OOP
+### Functional programming
+### Procedural programming
+### Architecture
+### Design patterns
 - [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 
-</details>
-
 ## Algorithms and Data Structures
-<details>
-<summary>Algorithms</summary>
-
+### Algorithms
 - [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 - [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 - [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
-</details>
-
 ## Performance and Optimization
-<details>
-<summary>Optimization</summary>
-
+### Optimization
 - [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
@@ -277,14 +179,8 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-</details>
-
-<details>
-<summary>Memory leaks</summary>
-
+### Memory leaks
 - [x] [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
-
-</details>
 
 ## Web Components
 
@@ -293,57 +189,28 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Modern WEB features
 
 ## Databases and Servers
-<details>
-<summary>Serverless</summary>
-
+### Serverless
 - [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
 
-</details>
-
-<details>
-<summary>C#</summary>
-
+### C#
 - [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 
-</details>
-
-<details>
-<summary>PHP</summary>
-
+### PHP
 - [ ] [Info: PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
-</details>
-
-<details>
-<summary>Docker</summary>
-
+### Docker
 - [ ] [Article: How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
 
-</details>
-
 ## Machine Learning
-<details>
-<summary>View links</summary>
-
 - [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
-</details>
-
 ## Ideas and Inspiration
-<details>
-<summary>Ideas</summary>
-
+### Ideas
 - [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 
-</details>
-
-<details>
-<summary>Inspiration</summary>
-
+### Inspiration
 - [Web and mobile UI design trends](https://screenlane.com/)
 - [Creative Market](https://creativemarket.com/)
-
-</details>
 
 ## Cross-content
 - [Addy Osmani](https://addyosmani.com/)
@@ -352,7 +219,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Adam Silver](https://adamsilver.io/blog/)
 - [x] [People: Rob Dodson](https://robdodson.me/)
 - [x] [People: Heydon works](http://www.heydonworks.com/)
-- [x] [People: Sara Soueidan](https://www.sarasoueidan.com/)
+- [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Zell](https://zellwk.com/)
 - [x] [People: Una Kravets](https://una.im/)
 - [Lea Verou](http://lea.verou.me/)
@@ -377,10 +244,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Smashing magazine](https://www.smashingmagazine.com/)
 - [18 In-Demand Technology Skills to Learn in 2021](https://learntocodewith.me/posts/tech-skills-in-demand/)
 - [Webgems - collection of resources](https://webgems.io/)
-- Books [A book apart](https://abookapart.com/products/)
 
 ## Practice
-- [x] [FreeCodeCamp](https://www.freecodecamp.org/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 - [x] [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
 - [x] [Practice: w3resource](https://www.w3resource.com/)
 - [x] [Practice: CodeSignal](https://app.codesignal.com/)
@@ -404,6 +270,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Codecademy](https://www.codecademy.com/)
 - [Treehouse](https://teamtreehouse.com/)
 
+## Books
+- [A book apart](https://abookapart.com/products/)
+
 ## Not Dev-related but useful
-- [Video: Top 17 Google Chrome Tips & Tricks](https://www.youtube.com/watch?v=7DHjtQgOnSs)
+- [Top 17 Google Chrome Tips & Tricks](https://www.youtube.com/watch?v=7DHjtQgOnSs)
 - [Widgets manager for MacBook's Touch Bar](https://pock.dev/)
