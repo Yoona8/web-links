@@ -50,6 +50,16 @@ Personal collection of useful resources, articles, courses, services and alike (
 ### WebGL
 
 ## Accessibility
+- [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
+- [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
+- [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
+- [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+- [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
+- [Accessibility Resources (list of tools)](https://www.staciearellano.com/accessibility-resources/)
+- [Color contrast accessibility tools](https://css-tricks.com/color-contrast-accessibility-tools/)
+- [Understanding Web Accessibility Color Contrast Guidelines and Ratios](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/)
+- [ ] [A list of tools and resources](https://a11yresources.webflow.io/)
+- [ ] [Accessibility Insights](https://accessibilityinsights.io/)
 
 ## Frameworks and Libraries
 ### Angular
