@@ -7,8 +7,8 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Tool: HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
 - [Tool: Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
 - [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links) - it's a rare case, use button when you don't need a link
-- [<time>: The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-- [<video>: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [time tag: The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- [video tag: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [Lazy-loading video](https://web.dev/lazy-loading-video/)
 
 ## CSS
