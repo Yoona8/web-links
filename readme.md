@@ -1,17 +1,20 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-## Fundamentals
-### HTML
-- [Validator](https://validator.w3.org/nu/)
+## HTML
+- [Spec: WHATWG](https://html.spec.whatwg.org/)
+- [Tool: Validator](https://validator.w3.org/nu/)
+- [Tool: HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
+- [Tool: Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
 - [Как ставить пустые ссылки](https://htmlacademy.ru/blog/boost/frontend/empty-links) - it's a rare case, use button when you don't need a link
-- [Datetime attribute valid values](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-- [The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [<time>: The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- [<video>: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [Lazy-loading video](https://web.dev/lazy-loading-video/)
-- [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
-- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
 
-### CSS
+## CSS
+- [Spec: W3C CSS](https://www.w3.org/Style/CSS/)
+- [Tool: CSS Triggers](https://csstriggers.com/)
+- [Selectors Explained - Translate CSS selectors into plain English.](https://hugogiraudel.github.io/selectors-explained/)
 - [ ] 2017.09.18 [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [ ] 2012.09.03 [Селектор обобщенных родственных элементов](https://habr.com/ru/post/150720/)
 - [ ] 2021.04.07 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -31,7 +34,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] 2021.04.12 [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
 - [Flexbugs](https://github.com/philipwalton/flexbugs#flexbugs)
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [CSS Triggers](https://csstriggers.com/)
 - [CSS Radio Button Styles From CodePen](https://freebiesupply.com/blog/css-radio-buttons/)
 - [Animate.css](https://animate.style/)
 - [CSS effects](https://emilkowalski.github.io/css-effects-snippets/)
@@ -45,24 +47,23 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ### Browsers
 
-## Animations
 ### Canvas API
 ### WebGL
 
 ## Accessibility
+- [Spec: W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/)
 - [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
-- [Spec: ARIA](https://www.w3.org/TR/wai-aria-1.1/)
 - [Accessibility Resources (list of tools)](https://www.staciearellano.com/accessibility-resources/)
 - [Color contrast accessibility tools](https://css-tricks.com/color-contrast-accessibility-tools/)
 - [Understanding Web Accessibility Color Contrast Guidelines and Ratios](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/)
 - [ ] [A list of tools and resources](https://a11yresources.webflow.io/)
 - [ ] [Accessibility Insights](https://accessibilityinsights.io/)
 
-## Frameworks and Libraries
 ### Angular
+- [Angular Dependency Injection: Complete Guide](https://blog.angular-university.io/angular-dependency-injection/)
 - [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 - [ ] [Article: Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 - [ ] [Article: Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
@@ -82,7 +83,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 ### Vue
 ### TypeScript
 
-## Design and UX
 ### Graphics
 ### Color theory
 ### Fonts
@@ -119,7 +119,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [x] [Service: National park designs](https://nationalparktypeface.com/)
 - [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
-## Tools
 ### Git
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
@@ -144,8 +143,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 ### Helpers
 - [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
 
-## Testing
-### Tests
+### Testing
 - [ ] [Article: Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
 - [ ] [Article: Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 - [ ] [Info: Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
@@ -155,24 +153,22 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Tool: Emmet Re:view](http://re-view.emmet.io/)
 - [ ] [Tool: Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
 
-## Architecture and paradigms
-### OOP
-### Functional programming
-### Procedural programming
-### Architecture
-### Design patterns
+## Design patterns
 - [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- Book: [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-2nd-ebook-dp-B09TTCGKY6/dp/B09TTCGKY6/ref=mt_other?_encoding=UTF8&me=&qid=1648647561)
 
 ## Algorithms and Data Structures
-### Algorithms
 - [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 - [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
-- [x] Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+- [How you can change the world by learning Data Structures and Algorithms](https://adrianmejia.com/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
+- [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+- [Data Structures in JavaScript: Arrays, HashMaps, and Lists](https://adrianmejia.com/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ## Performance and Optimization
-### Optimization
 - [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 - [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
@@ -188,8 +184,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
 - [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
 - [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-### Memory leaks
 - [x] [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 
 ## Web Components
@@ -198,7 +192,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## Modern WEB features
 
-## Databases and Servers
 ### Serverless
 - [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
 
@@ -214,7 +207,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Machine Learning
 - [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
-## Ideas and Inspiration
 ### Ideas
 - [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 
