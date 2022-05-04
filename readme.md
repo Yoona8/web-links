@@ -39,8 +39,10 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [CSS effects](https://emilkowalski.github.io/css-effects-snippets/)
 - [Houdini](https://css-houdini.rocks/js-in-css/)
 - [Learn CSS](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
+- [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
 - Book [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
 - Book [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
+- [CSS Reference](https://tympanus.net/codrops/css_reference/)
 
 ### JavaScript
 - [ ] [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
@@ -81,7 +83,10 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Article: How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
 ### Vue
-### TypeScript
+## TypeScript
+- [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
+- [class-validator](https://github.com/typestack/class-validator)
+- [class-transformer](https://github.com/typestack/class-transformer)
 
 ### Graphics
 ### Color theory
@@ -157,6 +162,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 - Book: [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-2nd-ebook-dp-B09TTCGKY6/dp/B09TTCGKY6/ref=mt_other?_encoding=UTF8&me=&qid=1648647561)
+- Book: [The Art of Computer Programming](https://www.amazon.com/Art-Computer-Programming-Combinatorial-Algorithms-ebook/dp/B01B1NGZFS/ref=sr_1_7?crid=2C1NBCGLWZSOD&keywords=The+Art+of+Computer+Programming&qid=1648647473&s=books&sprefix=the+art+of+computer+programming%2Cstripbooks-intl-ship%2C182&sr=1-7)
 
 ## Algorithms and Data Structures
 - [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
@@ -166,6 +172,21 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 - [Data Structures in JavaScript: Arrays, HashMaps, and Lists](https://adrianmejia.com/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- Wiki: [Tail call](https://en.wikipedia.org/wiki/Tail_call)
+- Wiki: [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
+- Wiki: [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+- Wiki: [Arbitrary-precision arithmetic](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic)
+- Wiki: [Horner's method](https://en.wikipedia.org/wiki/Horner%27s_method)
+- Wiki: [Modulo operations](https://en.wikipedia.org/wiki/Modulo_operation)
+- [Что такое логарифм](https://www.berdov.com/docs/logarithm/what/)
+- Wiki: [Radix sort](https://en.wikipedia.org/wiki/Radix_sort)
+- [My Favorite Algorithm: Linear Time Median Finding](https://rcoh.me/posts/linear-time-median-finding/)
+- [Сбалансированные двоичные деревья поиска: реализация на Julia](https://habr.com/ru/post/455172/)
+- [mid-square method](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/Glossary.html#term-mid-square-method)
+- Wiki: [MD5](https://en.wikipedia.org/wiki/MD5)
+- Wiki: [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+- Wiki(ru): [Двусторонняя очередь - Double-ended queue](https://star-wiki.ru/wiki/Double-ended_queue)
+- Wiki: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 - Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ## Performance and Optimization
