@@ -1,6 +1,11 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
+- [HTML](#html)
+- [CSS](#css)
+- [Accessibility](#accessibility)
+- [Ideas](#ideas)
+
 ## HTML
 - [Spec: WHATWG](https://html.spec.whatwg.org/)
 - [Tool: Validator](https://validator.w3.org/nu/)
@@ -228,8 +233,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Machine Learning
 - [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
-### Ideas
-- [ ] [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+## Ideas
+- [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+- [How I automated my job search by building a web crawler from scratch](https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/)
 
 ### Inspiration
 - [Web and mobile UI design trends](https://screenlane.com/)
