@@ -4,7 +4,38 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [HTML](#html)
 - [CSS](#css)
 - [Accessibility](#accessibility)
+- [JavaScript](#javascript)
+- [Angular](#angular)
+- [React](#react)
+- [Vue](#vue)
+- [TypeScript](#typescript)
+- [Graphics](#graphics)
+- [Color Theory](#color-theory)
+- [Fonts](#fonts)
+- [Design](#design)
+- [Git](#git)
+- [Browsers](#browsers)
+- [Workflow](#workflow)
+- [Helpers](#helpers)
+- [Testing](#testing)
+- [Design patterns](#design-patterns)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Performance and Optimization](#performance-and-optimization)
+- [Web Components](#web-components)
+- [PWA](#pwa)
+- [Modern WEB features](#modern-web-features)
+- [Serverless](#serverless)
+- [C#](#c)
+- [PHP](#php)
+- [Docker](#docker)
+- [Machine Learning](#machine-learning)
 - [Ideas](#ideas)
+- [Inspiration](#inspiration)
+- [Cross-content](#cross-content)
+- [Practice](#practice)
+- [Courses and Tutorials](#courses-and-tutorials)
+- [Books](#books)
+- [Not Dev-related but Useful](#not-dev-related-but-useful)
 
 ## HTML
 - Spec: [WHATWG](https://html.spec.whatwg.org/)
@@ -49,16 +80,13 @@ Personal collection of useful resources, articles, courses, services and alike (
 - Book: [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
 
-### JavaScript
-- [ ] [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
-
 ### Browsers
 
 ### Canvas API
 ### WebGL
 
 ## Accessibility
-- [Spec: W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/)
+- Spec: [W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/)
 - [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
@@ -66,113 +94,117 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Accessibility Resources (list of tools)](https://www.staciearellano.com/accessibility-resources/)
 - [Color contrast accessibility tools](https://css-tricks.com/color-contrast-accessibility-tools/)
 - [Understanding Web Accessibility Color Contrast Guidelines and Ratios](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/)
-- [ ] [A list of tools and resources](https://a11yresources.webflow.io/)
-- [ ] [Accessibility Insights](https://accessibilityinsights.io/)
+- [A list of tools and resources](https://a11yresources.webflow.io/)
+- [Accessibility Insights](https://accessibilityinsights.io/)
 
-### Angular
+## JavaScript
+- [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
+
+## Angular
 - [Angular Dependency Injection: Complete Guide](https://blog.angular-university.io/angular-dependency-injection/)
-- [ ] [Article: Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
-- [ ] [Article: Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
-- [ ] [Article: Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
-- [ ] [Article: Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
-- [ ] [Article: Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
-- [ ] [Article: Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
-- [ ] [Article: Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
-- [ ] [Article: How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
-- [Article: When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
-- [Article: 6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
+- [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
+- [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
+- [Designing scalable Angular applications](https://medium.com/@OlegVaraksin/designing-scalable-angular-applications-6629b5158277)
+- [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+- [Angular Revisited: Tree-shakable Components and Optional NgModules](https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d)
+- [Why & How to Lazy Load in Angular](https://medium.com/@kylerjohnson26/why-how-to-lazy-load-in-angular-f86b987cd528)
+- [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
+- [How to configure Webpack 4 with Angular 7: a complete guide](https://www.freecodecamp.org/news/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471/)
+- [When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
+- [6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
 - [Angular Custom Form Controls: Complete Guide](https://blog.angular-university.io/angular-custom-form-controls/) #article
 
-### React
+## React
 - [ ] [Article: JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 - [ ] [Article: How I integrated CSS Modules with SCSS into my React application](https://www.freecodecamp.org/news/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51/)
 
-### Vue
+## Vue
+
 ## TypeScript
 - [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 - [class-validator](https://github.com/typestack/class-validator)
 - [class-transformer](https://github.com/typestack/class-transformer)
 
-### Graphics
-### Color theory
-### Fonts
-- [ ] 2021.06.03 [Best practices for fonts](https://web.dev/font-best-practices/)
-- [ ] [Article: SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
-- [ ] [Article: Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
-- [ ] [Article: System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
-- [ ] [Article: Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
-- [ ] [Article: Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
-- [ ] [Article: How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
-- [ ] [Article: Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
-- [ ] [Info: Variable Fonts](https://variablefonts.dev/)
-- [ ] [Info: Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-- [ ] [App: FontForge](https://fontforge.github.io/en-US/)
+## Graphics
 
-### Design
-- [ ] [Article: Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
-- [ ] [Article: Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- [ ] [Article: Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
-- [ ] [Article: Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
-- [ ] [Article: Designing in color](https://www.freecodecamp.org/news/designing-in-color-abd358660a7b/)
-- [ ] [Slides: Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
-- [ ] [Info: Design articles and courses](https://designacademy.io/)
-- [ ] [Info: Sketch master courses](http://sketchmaster.com/)
-- [x] [Service: Color Picker](https://colorsupplyyy.com/app)
-- [x] [Service: UI8](https://ui8.net/) - designs
-- [x] [Service: Pages](https://www.pages.xyz/) - designs
-- [x] [Service: Land-book](https://land-book.com/) - designs
-- [x] [Service: Lapa](https://www.lapa.ninja/) - designs
-- [x] [Service: Behance](https://www.behance.net/) - designs
-- [x] [Service: Dribbble](https://dribbble.com/) - designs
-- [x] [Service: ColorLib](https://colorlib.com/wp/templates/) - designs
-- [ ] [Service: Freebiesbug](https://freebiesbug.com/) - designs
-- [x] [Service: National park designs](https://nationalparktypeface.com/)
-- [ ] [Book: Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
+## Color theory
 
-### Git
+## Fonts
+- [Best practices for fonts](https://web.dev/font-best-practices/)
+- [SuperSearch — Find Fonts by Contrast, X-Height, Weight and More!](https://fontba.se/blog/super-search)
+- [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+- [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
+- [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
+- [Optimizing Google Fonts Performance](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
+- [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
+- [Variable Fonts](https://variablefonts.dev/)
+- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [FontForge](https://fontforge.github.io/en-US/)
+
+## Design
+- [Bottom Navigation Interface](https://blog.prototypr.io/bottom-navigation-interface-fa4bff52065f)
+- [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [Форматы изображений](https://htmlacademy.ru/blog/113-image-formats)
+- [Про PNG](https://www.artlebedev.ru/technogrette/img/png-1/)
+- [Designing in color](https://www.freecodecamp.org/news/designing-in-color-abd358660a7b/)
+- [Image Formats: the nerdy parts](https://speakerdeck.com/lara/image-formats-the-nerdy-parts)
+- [Design articles and courses](https://designacademy.io/)
+- [Sketch master courses](http://sketchmaster.com/)
+- [Color Picker](https://colorsupplyyy.com/app)
+- [UI8](https://ui8.net/) - designs
+- [Pages](https://www.pages.xyz/) - designs
+- [Land-book](https://land-book.com/) - designs
+- [Lapa](https://www.lapa.ninja/) - designs
+- [Behance](https://www.behance.net/) - designs
+- [Dribbble](https://dribbble.com/) - designs
+- [ColorLib](https://colorlib.com/wp/templates/) - designs
+- [Freebiesbug](https://freebiesbug.com/) - designs
+- [National park designs](https://nationalparktypeface.com/)
+- Book: [Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
+
+## Git
 - [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
 - [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 - [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
-### Debugging
+## Browsers
 - [Chrome DevTools Docs](https://developer.chrome.com/docs/devtools/)
+- [Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
-### Workflow
-- [ ] [Article: Browser Developer Tools Explained By Training To Become a Chef](https://medium.freecodecamp.org/browser-developer-tools-explained-by-training-to-become-a-chef-edfaa82b740c)
-- [ ] [Article: Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
-- [x] [Article: Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
-- [x] [Article: The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
-- [x] [Article: Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
-- [x] [Article: Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
-- [x] [Article: Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
-- [x] [Info: How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [x] [Info: БЭМ-методология](https://ru.bem.info/)
-- [ ] [Info: HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- [ ] Book: Code Complete (by Steve McConnell)
+## Workflow
+- [Excluding Files and Folders from Deployment](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment)
+- [Mind the End of Your Line](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
+- [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) - browser rendering.
+- [Как зарегистрировать свой домен](https://htmlacademy.ru/blog/48-how-to-register-domain)
+- [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
+- [БЭМ-методология](https://ru.bem.info/)
+- [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
+- Book: Code Complete (by Steve McConnell)
 
-### Helpers
-- [x] [Service: SNILS generator](https://ortex.github.io/snils-generator/)
+## Helpers
+- [SSNILS generator](https://ortex.github.io/snils-generator/)
 
-### Testing
-- [ ] [Article: Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
-- [ ] [Article: Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-- [ ] [Info: Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
-- [ ] [Tool: Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
-- [ ] [Tool: Mocha](https://mochajs.org/)
-- [ ] [Tool: Chai](http://www.chaijs.com/)
-- [ ] [Tool: Emmet Re:view](http://re-view.emmet.io/)
-- [ ] [Tool: Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
+## Testing
+- [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
+- [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- [Автоматическое тестирование c использованием фреймворка Mocha](https://learn.javascript.ru/testing-mocha)
+- [Yandex Gemini](https://tech.yandex.ru/gemini/) - регрессионное тестирование отображения веб-страниц
+- [Mocha](https://mochajs.org/)
+- [Chai](http://www.chaijs.com/)
+- [Emmet Re:view](http://re-view.emmet.io/)
+- [Standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
 
 ## Design patterns
-- [ ] [Article: GRASP](https://ru.wikipedia.org/wiki/GRASP)
-- [ ] [Info: Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
+- [GRASP](https://ru.wikipedia.org/wiki/GRASP)
+- [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
 - Book: [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-2nd-ebook-dp-B09TTCGKY6/dp/B09TTCGKY6/ref=mt_other?_encoding=UTF8&me=&qid=1648647561)
 - Book: [The Art of Computer Programming](https://www.amazon.com/Art-Computer-Programming-Combinatorial-Algorithms-ebook/dp/B01B1NGZFS/ref=sr_1_7?crid=2C1NBCGLWZSOD&keywords=The+Art+of+Computer+Programming&qid=1648647473&s=books&sprefix=the+art+of+computer+programming%2Cstripbooks-intl-ship%2C182&sr=1-7)
 
 ## Algorithms and Data Structures
-- [ ] [Article: Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
-- [ ] [Course: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-- [ ] [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
+- [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 - [How you can change the world by learning Data Structures and Algorithms](https://adrianmejia.com/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
 - [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
 - [Data Structures in JavaScript: Arrays, HashMaps, and Lists](https://adrianmejia.com/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/)
@@ -195,22 +227,22 @@ Personal collection of useful resources, articles, courses, services and alike (
 - Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ## Performance and Optimization
-- [ ] [Article: What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [ ] [Article: Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [ ] [Article: История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
-- [ ] [Article: Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
-- [ ] [Article: Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
-- [ ] [Article: Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
-- [ ] [Article: Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
-- [ ] [Article: CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
-- [ ] [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-- [ ] [Article: A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
-- [x] [Article: Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
-- [ ] [Info: Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [ ] [Info: Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
-- [ ] [Info: Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
-- [x] [Service: Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [x] [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
+- [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+- [Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
+- [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
+- [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
+- [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
+- [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+- [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
+- [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+- [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
+- [Animations and Performance](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 
 ## Web Components
 
@@ -218,26 +250,26 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## Modern WEB features
 
-### Serverless
-- [ ] [Article: A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
+## Serverless
+- [A crash course on Serverless APIs with Express and MongoDB](https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe)
 
-### C#
-- [x] [Info: Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
+## C#
+- [Уроки по C# и платформе .NET Framework](https://professorweb.ru/)
 
-### PHP
-- [ ] [Info: PHP Standards Recommendations](https://www.php-fig.org/psr/)
+## PHP
+- [PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
-### Docker
-- [ ] [Article: How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
+## Docker
+- [How to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/)
 
 ## Machine Learning
-- [x] [Article: Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
+- [Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
 ## Ideas
 - [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 - [How I automated my job search by building a web crawler from scratch](https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/)
 
-### Inspiration
+## Inspiration
 - [Web and mobile UI design trends](https://screenlane.com/)
 - [Creative Market](https://creativemarket.com/)
 
@@ -246,25 +278,25 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Tania Rascia](https://www.taniarascia.com/blog/)
 - [Dmitri Pavlutin](https://dmitripavlutin.com/all-posts/)
 - [Adam Silver](https://adamsilver.io/blog/)
-- [x] [People: Rob Dodson](https://robdodson.me/)
-- [x] [People: Heydon works](http://www.heydonworks.com/)
+- [Rob Dodson](https://robdodson.me/)
+- [Heydon works](http://www.heydonworks.com/)
 - [Sara Soueidan](https://www.sarasoueidan.com/)
 - [Zell](https://zellwk.com/)
-- [x] [People: Una Kravets](https://una.im/)
+- [Una Kravets](https://una.im/)
 - [Lea Verou](http://lea.verou.me/)
-- [x] [People: Jen Simmons](https://jensimmons.com/)
+- [Jen Simmons](https://jensimmons.com/)
 - [Yoksel](http://css.yoksel.ru/)
-- [x] [People: Николай Громов](https://nicothin.pro/)
-- [x] [People: Евгений Закурдаев](https://eugeno.ru/)
-- [x] [Info: Coding Heroes](https://codingheroes.io/resources/)
-- [x] [Info: Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [x] [Info: Htmlacademy blog](https://htmlacademy.ru/blog)
-- [x] [Info: Google developers](https://developers.google.com/)
-- [x] [Info: MDN Web docs](https://developer.mozilla.org/en-US/)
-- [x] [Info: Front-end Architecture and Performance Engineering](https://csswizardry.com/)
-- [x] [Info: Codrops](https://tympanus.net/codrops/)
-- [x] [Info: Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [x] [Info: Conf list](https://confs.tech/javascript)
+- [Николай Громов](https://nicothin.pro/)
+- [Евгений Закурдаев](https://eugeno.ru/)
+- [Coding Heroes](https://codingheroes.io/resources/)
+- [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Htmlacademy blog](https://htmlacademy.ru/blog)
+- [Google developers](https://developers.google.com/)
+- [MDN Web docs](https://developer.mozilla.org/en-US/)
+- [Front-end Architecture and Performance Engineering](https://csswizardry.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Conf list](https://confs.tech/javascript)
 - [Web-Skills map](https://andreasbm.github.io/web-skills/)
 - [Hackernoon](https://hackernoon.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -276,28 +308,30 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## Practice
 - [FreeCodeCamp](https://www.freecodecamp.org/)
-- [x] [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
-- [x] [Practice: w3resource](https://www.w3resource.com/)
-- [x] [Practice: CodeSignal](https://app.codesignal.com/)
-- [x] [Practice: TopCoder](https://www.topcoder.com/challenges)
-- [ ] [Practice: LeetCode](https://leetcode.com/)
-- [ ] [Practice: CodeChef](https://www.codechef.com/)
-- [ ] [Practice: CodeForces](http://codeforces.com/)
-- [ ] [Practice: GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [ ] [Practice: CoderByte](https://www.coderbyte.com/)
-- [ ] [Exercism](https://exercism.io/)
-- [ ] [Typing Practice for Programmers](https://typing.io/)
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [w3resource](https://www.w3resource.com/)
+- [CodeSignal](https://app.codesignal.com/)
+- [TopCoder](https://www.topcoder.com/challenges)
+- [LeetCode](https://leetcode.com/)
+- [CodeChef](https://www.codechef.com/)
+- [CodeForces](http://codeforces.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [CoderByte](https://www.coderbyte.com/)
+- [Exercism](https://exercism.io/)
+- [Typing Practice for Programmers](https://typing.io/)
 
 ## Courses and Tutorials
-- [x] [Course: Code with Mosh](https://codewithmosh.teachable.com/)
-- [ ] [Course: Springboard](https://www.springboard.com/)
-- [ ] [Course: SitePoint](https://www.sitepoint.com/)
-- [x] [Course: Flatiron School](https://flatironschool.com/)
-- [ ] [Course: List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
+- [Code with Mosh](https://codewithmosh.teachable.com/)
+- [Springboard](https://www.springboard.com/)
+- [SitePoint](https://www.sitepoint.com/)
+- [Flatiron School](https://flatironschool.com/)
+- [List of courses](https://medium.freecodecamp.org/515-free-online-programming-computer-science-courses-you-can-start-in-april-8b0ce1817d61)
 - [Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Fun and practical web development tutorials](https://scotch.io/)
 - [Codecademy](https://www.codecademy.com/)
 - [Treehouse](https://teamtreehouse.com/)
+- Algorithms: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- Algorithms: [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 
 ## Books
 - [A book apart](https://abookapart.com/products/)
