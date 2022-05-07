@@ -164,9 +164,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 - Book: [Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
 ## Git
-- [ ] [Info: Git FAQ](http://firstaidgit.ru/#/)
-- [ ] [Info: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-- [ ] [Info: Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
+- [Git FAQ](http://firstaidgit.ru/#/)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+- [Как использовать консоль в Windows](http://nicothin.pro/page/console-windows)
 
 ## Browsers
 - [Chrome DevTools Docs](https://developer.chrome.com/docs/devtools/)
