@@ -86,6 +86,18 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## Accessibility
 - Spec: [W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/)
+- Spec: [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG22/)
+- W3C: [Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)
+- W3C: [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+- W3C: [How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/)
+- MDN: [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- MDN: [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- MDN: [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- MDN: [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
+- Web.dev: [Accessibility](https://web.dev/accessibility/)
+- Tool: [HTML5 Accessibility](https://www.html5accessibility.com/)
+- [Web accessibility in mind](https://webaim.org/articles/)
+- [A Little Book of Accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
 - [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/?source=post_page---------------------------)
 - [Happier HTML5 Form Validation](https://daverupert.com/2017/11/happier-html5-forms/)
 - [UX Optimizations For Keyboard-Only And Assistive Technology Users](https://www.smashingmagazine.com/2019/06/ux-optimizations-keyboard-only-assistive-technology-users/)
@@ -100,6 +112,11 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [JS classes are not “just syntactic sugar”](https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078)
 
 ## Angular
+- [Angular CLI Official](https://angular.io/cli)
+- [Angular Compiler Options](https://angular.io/guide/angular-compiler-options)
+- [Angular workspace configuration](https://angular.io/guide/workspace-config)
+- [Schematics for the Angular CLI](https://angular.io/guide/schematics)
+- [Docs: File structure](https://angular.io/guide/file-structure)
 - [Angular Dependency Injection: Complete Guide](https://blog.angular-university.io/angular-dependency-injection/)
 - [Angular Optimization. Memoized pipe functions in templates.](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
 - [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
