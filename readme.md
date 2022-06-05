@@ -1,7 +1,7 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-- [HTML](#html)
+- [HTML](#🌳-html)
 - [CSS](#css)
 - [Accessibility](#accessibility)
 - [JavaScript](#javascript)
@@ -9,6 +9,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [React](#react)
 - [Vue](#vue)
 - [TypeScript](#typescript)
+- [Emails](#emails)
 - [Graphics](#graphics)
 - [Color Theory](#color-theory)
 - [Fonts](#fonts)
@@ -16,7 +17,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Git](#git)
 - [Browsers](#browsers)
 - [Workflow](#workflow)
-- [Helpers](#helpers)
 - [Testing](#testing)
 - [Design patterns](#design-patterns)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -29,27 +29,24 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [PHP](#php)
 - [Docker](#docker)
 - [Machine Learning](#machine-learning)
+- [Official Documentation](#📝-official-documentations)
+- [General Tools](#💎-general-tools)
 - [Ideas](#ideas)
 - [Inspiration](#inspiration)
 - [Cross-content](#cross-content)
 - [Practice](#practice)
 - [Courses and Tutorials](#courses-and-tutorials)
-- [Books](#books)
+- [Books](#📚-books)
 - [Not Dev-related but Useful](#not-dev-related-but-useful)
 
-## HTML
-- Spec: [WHATWG](https://html.spec.whatwg.org/)
-- Tool: [Validator](https://validator.w3.org/nu/)
-- Tool: [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
-- Tool: [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/) - nice service to check all the combinations of input type/inputmode/autocomplete
-- MDN: [time tag: The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-- MDN: [video tag: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-- Web.dev: [Lazy-loading video](https://web.dev/lazy-loading-video/)
+## 🌳 HTML
+- [MDN: time tag - The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- [MDN: video tag - The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [Web.dev: Lazy-loading video](https://web.dev/lazy-loading-video/)
+
+[⬆️ Back to top](#web-dev-links)
 
 ## CSS
-- Spec: [W3C CSS](https://www.w3.org/Style/CSS/)
-- Tool: [CSS Triggers](https://csstriggers.com/)
-- Tool: [Animate.css](https://animate.style/)
 - [Selectors Explained - Translate CSS selectors into plain English.](https://hugogiraudel.github.io/selectors-explained/)
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499)
 - [Селектор обобщенных родственных элементов](https://habr.com/ru/post/150720/)
@@ -75,37 +72,27 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Houdini](https://css-houdini.rocks/js-in-css/)
 - [Learn CSS](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
 - [Creating smooth CSS animations — even with a heavy DOM](https://medium.com/purpledesign/creating-smooth-css-animations-even-with-a-heavy-dom-212cb80441a9)
-- Book: [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
-- Book: [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
+- [Grainy Gradients](https://css-tricks.com/grainy-gradients/)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
 
-### Browsers
-
-### Canvas API
-### WebGL
-
 ## Accessibility
-- Spec: [W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/)
-- Spec: [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG22/)
-- W3C: [Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)
-- W3C: [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
-- W3C: [How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/)
-- W3C: [https://www.w3.org/TR/core-aam-1.1/](https://www.w3.org/TR/core-aam-1.1/)
-- MDN: [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-- MDN: [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-- MDN: [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- MDN: [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
-- MDN: [WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
-- MDN: [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-- Web.dev: [Accessibility](https://web.dev/accessibility/)
-- Web.dev: [The Accessibility Tree](https://web.dev/the-accessibility-tree/)
-- SM: [Accessibility APIs: A Key To Web Accessibility](https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/)
+- [W3C: Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)
+- [W3C: W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+- [W3C: How to Meet WCAG](https://www.w3.org/WAI/WCAG21/quickref/)
+- [W3C: Core Accessibility API Mappings 1.1](https://www.w3.org/TR/core-aam-1.1/)
+- [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- [MDN: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [MDN: HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [MDN: Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
+- [MDN: WAI-ARIA basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
+- [MDN: ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [Web.dev: Accessibility](https://web.dev/accessibility/)
+- [Web.dev: The Accessibility Tree](https://web.dev/the-accessibility-tree/)
+- [SM: Accessibility APIs: A Key To Web Accessibility](https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/)
 - [Accessibility API и доступность](https://medium.com/@fokinatatiana/accessibility-api-%D0%B8-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C-5a0a93931397)
 - [The Accessibility Object Model (AOM)](https://wicg.github.io/aom/)
 - [Assistive Devices for People with Hearing, Voice, Speech, or Language Disorders](https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders)
 - [Assistive Technology Products](https://www.afb.org/blindness-and-low-vision/using-technology/assistive-technology-products)
-- Tool: [HTML5 Accessibility](https://www.html5accessibility.com/)
-- Tool: [HTML elements and accessible names](https://russmaxdesign.github.io/html-elements-names/)
 - [What is a screen reader?](https://axesslab.com/what-is-a-screen-reader/)
 - [Web accessibility in mind](https://webaim.org/articles/)
 - [A Little Book of Accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
@@ -154,6 +141,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [class-validator](https://github.com/typestack/class-validator)
 - [class-transformer](https://github.com/typestack/class-transformer)
 
+## Emails
+- [Good Email Code](https://www.goodemailcode.com/)
+
 ## Graphics
 
 ## Color theory
@@ -190,7 +180,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [ColorLib](https://colorlib.com/wp/templates/) - designs
 - [Freebiesbug](https://freebiesbug.com/) - designs
 - [National park designs](https://nationalparktypeface.com/)
-- Book: [Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
 
 ## Git
 - [Git FAQ](http://firstaidgit.ru/#/)
@@ -211,10 +200,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Bringing A Healthy Code Review Mindset To Your Team](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 - [БЭМ-методология](https://ru.bem.info/)
 - [HTML Academy Code style for HTML, CSS and JS](http://codeguide.academy/)
-- Book: Code Complete (by Steve McConnell)
-
-## Helpers
-- [SSNILS generator](https://ortex.github.io/snils-generator/)
 
 ## Testing
 - [Visual Regression Testing with PhantomCSS](https://css-tricks.com/visual-regression-testing-with-phantomcss/)
@@ -229,8 +214,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Design patterns
 - [GRASP](https://ru.wikipedia.org/wiki/GRASP)
 - [Design patterns, anti-patterns, refactoring](https://sourcemaking.com/)
-- Book: [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-2nd-ebook-dp-B09TTCGKY6/dp/B09TTCGKY6/ref=mt_other?_encoding=UTF8&me=&qid=1648647561)
-- Book: [The Art of Computer Programming](https://www.amazon.com/Art-Computer-Programming-Combinatorial-Algorithms-ebook/dp/B01B1NGZFS/ref=sr_1_7?crid=2C1NBCGLWZSOD&keywords=The+Art+of+Computer+Programming&qid=1648647473&s=books&sprefix=the+art+of+computer+programming%2Cstripbooks-intl-ship%2C182&sr=1-7)
 
 ## Algorithms and Data Structures
 - [Improving your Algorithms & Data Structure Skills](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
@@ -253,7 +236,6 @@ Personal collection of useful resources, articles, courses, services and alike (
 - Wiki: [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
 - Wiki(ru): [Двусторонняя очередь - Double-ended queue](https://star-wiki.ru/wiki/Double-ended_queue)
 - Wiki: [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
-- Book: Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ## Performance and Optimization
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
@@ -294,6 +276,25 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Machine Learning
 - [Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
+## 📝 Official Documentations
+- [WHATWG](https://html.spec.whatwg.org/): HTML specification
+- [W3C CSS](https://www.w3.org/Style/CSS/): CSS specification
+- [W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/): ARIA specification
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG22/): Accessibility specification
+
+[⬆️ Back to top](#web-dev-links)
+
+## 💎 General Tools
+- [HTML Validator](https://validator.w3.org/nu/)
+- [SNILS generator](https://ortex.github.io/snils-generator/)
+- [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
+- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/): check all the combinations of input `type`, `inputmode`, `autocomplete`
+- [CSS Triggers](https://csstriggers.com/): check what CSS properties trigger re-render
+- [Animate.css](https://animate.style/): a variety of CSS animations
+- [HTML5 Accessibility](https://www.html5accessibility.com/): test HTML5 features for accessibility
+
+[⬆️ Back to top](#web-dev-links)
+
 ## Ideas
 - [Article: 8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 - [How I automated my job search by building a web crawler from scratch](https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/)
@@ -303,6 +304,15 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Creative Market](https://creativemarket.com/)
 
 ## Cross-content
+- [Smashing magazine](https://www.smashingmagazine.com/)
+- [Web.dev](https://web.dev/)
+- [Ahmad Shadeed](https://ishadeed.com/)
+- [Josh Comeau](https://www.joshwcomeau.com/)
+
+- [Dev.to](https://dev.to/)
+- [LogRocket](https://blog.logrocket.com/)
+- [NOP](https://nuancesprog.ru/)
+- [Proglib](https://proglib.io/)
 - [Addy Osmani](https://addyosmani.com/)
 - [Tania Rascia](https://www.taniarascia.com/blog/)
 - [Dmitri Pavlutin](https://dmitripavlutin.com/all-posts/)
@@ -329,9 +339,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Web-Skills map](https://andreasbm.github.io/web-skills/)
 - [Hackernoon](https://hackernoon.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Dev.to](https://dev.to/)
 - [In-depth](https://indepth.dev/)
-- [Smashing magazine](https://www.smashingmagazine.com/)
 - [18 In-Demand Technology Skills to Learn in 2021](https://learntocodewith.me/posts/tech-skills-in-demand/)
 - [Webgems - collection of resources](https://webgems.io/)
 
@@ -359,11 +367,20 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Fun and practical web development tutorials](https://scotch.io/)
 - [Codecademy](https://www.codecademy.com/)
 - [Treehouse](https://teamtreehouse.com/)
-- Algorithms: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-- Algorithms: [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [Course: Algorithms Specialization](https://www.coursera.org/specializations/algorithms?authMode=login)
 
-## Books
-- [A book apart](https://abookapart.com/products/)
+## 📚 Books
+- [A book apart](https://abookapart.com/products/): lots of different books
+- [Cascading Style Sheets: The Definitive Guide, Second Edition](https://www.oreilly.com/library/view/cascading-style-sheets/0596005253/)
+- [CSS: The Missing Manual, 4th Edition](https://www.oreilly.com/library/view/css-the-missing/9781491918043/)
+- [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-2nd-ebook-dp-B09TTCGKY6/dp/B09TTCGKY6/ref=mt_other?_encoding=UTF8&me=&qid=1648647561)
+- [The Art of Computer Programming](https://www.amazon.com/Art-Computer-Programming-Combinatorial-Algorithms-ebook/dp/B01B1NGZFS/ref=sr_1_7?crid=2C1NBCGLWZSOD&keywords=The+Art+of+Computer+Programming&qid=1648647473&s=books&sprefix=the+art+of+computer+programming%2Cstripbooks-intl-ship%2C182&sr=1-7)
+- Code Complete (by Steve McConnell)
+- [Art Direction for the Web](https://www.smashingmagazine.com/printed-books/art-direction-for-the-web/)
+- Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
+
+[⬆️ Back to top](#web-dev-links)
 
 ## Not Dev-related but useful
 - [Top 17 Google Chrome Tips & Tricks](https://www.youtube.com/watch?v=7DHjtQgOnSs)
