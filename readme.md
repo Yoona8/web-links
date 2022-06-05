@@ -1,7 +1,7 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-- [HTML](#🌳-html)
+- [HTML](#-html)
 - [CSS](#css)
 - [Accessibility](#accessibility)
 - [JavaScript](#javascript)
@@ -29,14 +29,14 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [PHP](#php)
 - [Docker](#docker)
 - [Machine Learning](#machine-learning)
-- [Official Documentation](#📝-official-documentations)
-- [General Tools](#💎-general-tools)
+- [Official Documentation](#-official-documentations)
+- [General Tools](#-general-tools)
 - [Ideas](#ideas)
 - [Inspiration](#inspiration)
 - [Cross-content](#cross-content)
 - [Practice](#practice)
 - [Courses and Tutorials](#courses-and-tutorials)
-- [Books](#📚-books)
+- [Books](#-books)
 - [Not Dev-related but Useful](#not-dev-related-but-useful)
 
 ## 🌳 HTML
