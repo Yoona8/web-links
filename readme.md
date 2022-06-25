@@ -1,7 +1,7 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-- [HTML](#-html)
+- [HTML](#html)
 - [CSS](#css)
 - [Accessibility](#accessibility)
 - [JavaScript](#javascript)
@@ -9,6 +9,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [React](#react)
 - [Vue](#vue)
 - [TypeScript](#typescript)
+- [Animations](#animations)
 - [Emails](#emails)
 - [Graphics](#graphics)
 - [Color Theory](#color-theory)
@@ -29,8 +30,8 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [PHP](#php)
 - [Docker](#docker)
 - [Machine Learning](#machine-learning)
-- [Official Documentation](#-official-documentations)
-- [General Tools](#-general-tools)
+- [Official Documentation](#official-documentations)
+- [General Tools](#general-tools)
 - [Ideas](#ideas)
 - [Inspiration](#inspiration)
 - [Cross-content](#cross-content)
@@ -39,7 +40,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Books](#-books)
 - [Not Dev-related but Useful](#not-dev-related-but-useful)
 
-## 🌳 HTML
+## HTML
 - [MDN: time tag - The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
 - [MDN: video tag - The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [Web.dev: Lazy-loading video](https://web.dev/lazy-loading-video/)
@@ -140,6 +141,9 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [Generics and Augmentation will Make You a TypeScript Wizard](https://medium.com/iqoqo-engineering/two-advanced-techniques-to-make-you-a-typescript-wizard-df42e00b1cf8)
 - [class-validator](https://github.com/typestack/class-validator)
 - [class-transformer](https://github.com/typestack/class-transformer)
+
+## Animations
+- [Animations with three.js](https://ykob.github.io/sketch-threejs/)
 
 ## Emails
 - [Good Email Code](https://www.goodemailcode.com/)
@@ -276,7 +280,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 ## Machine Learning
 - [Machine Learning For Front-End Developers With Tensorflow.js](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/) September 2019
 
-## 📝 Official Documentations
+## Official Documentations
 - [WHATWG](https://html.spec.whatwg.org/): HTML specification
 - [W3C CSS](https://www.w3.org/Style/CSS/): CSS specification
 - [W3C ARIA](https://www.w3.org/TR/wai-aria-1.1/): ARIA specification
@@ -284,7 +288,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 [⬆️ Back to top](#web-dev-links)
 
-## 💎 General Tools
+## General Tools
 - [HTML Validator](https://validator.w3.org/nu/)
 - [SNILS generator](https://ortex.github.io/snils-generator/)
 - [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
