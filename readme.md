@@ -1,8 +1,10 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-- [HTML](#html)
-- [CSS](#css)
+|---|-------------------------|
+| 1 | [HTML](#html)           |
+| 2 | [CSS](#css)             |
+
 - [Accessibility](#accessibility)
 - [JavaScript](#javascript)
 - [Angular](#angular)
@@ -290,12 +292,13 @@ Personal collection of useful resources, articles, courses, services and alike (
 
 ## General Tools
 - [HTML Validator](https://validator.w3.org/nu/)
-- [SNILS generator](https://ortex.github.io/snils-generator/)
 - [HTML characters UNICODE](https://dev.w3.org/html5/html-author/charref)
-- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/): check all the combinations of input `type`, `inputmode`, `autocomplete`
+- [HTML Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/): check all the combinations of input `type`, `inputmode`, `autocomplete`
+- [HTML Accessibility](https://www.html5accessibility.com/): test HTML5 features for accessibility
 - [CSS Triggers](https://csstriggers.com/): check what CSS properties trigger re-render
 - [Animate.css](https://animate.style/): a variety of CSS animations
-- [HTML5 Accessibility](https://www.html5accessibility.com/): test HTML5 features for accessibility
+- [JS compatibility table](https://kangax.github.io/compat-table/es6/)
+- [SNILS generator](https://ortex.github.io/snils-generator/)
 
 [⬆️ Back to top](#web-dev-links)
 
