@@ -1,47 +1,46 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
-| N | Link                    |
-|---|-------------------------|
-| 1 | [HTML](#html)           |
-| 2 | [CSS](#css)             |
-
-- [Accessibility](#accessibility)
-- [JavaScript](#javascript)
-- [Angular](#angular)
-- [React](#react)
-- [Vue](#vue)
-- [TypeScript](#typescript)
-- [Animations](#animations)
-- [Emails](#emails)
-- [Graphics](#graphics)
-- [Color Theory](#color-theory)
-- [Fonts](#fonts)
-- [Design](#design)
-- [Git](#git)
-- [Browsers](#browsers)
-- [Workflow](#workflow)
-- [Testing](#testing)
-- [Design patterns](#design-patterns)
-- [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Performance and Optimization](#performance-and-optimization)
-- [Web Components](#web-components)
-- [PWA](#pwa)
-- [Modern WEB features](#modern-web-features)
-- [Serverless](#serverless)
-- [C#](#c)
-- [PHP](#php)
-- [Docker](#docker)
-- [Machine Learning](#machine-learning)
-- [Official Documentation](#official-documentations)
-- [General Tools](#general-tools)
-- [Ideas](#ideas)
-- [Inspiration](#inspiration)
-- [Cross-content](#cross-content)
-- [Practice](#practice)
-- [Courses and Tutorials](#courses-and-tutorials)
-- [Books](#-books)
-- [Not Dev-related but Useful](#not-dev-related-but-useful)
+| Nu | Link                                                              |
+|----|-------------------------------------------------------------------|
+| 01 | [HTML](#html)                                                     |
+| 02 | [CSS](#css)                                                       |
+| 03 | [Accessibility](#accessibility)                                   |
+| 04 | [JavaScript](#javascript)                                         |
+| 05 | [Angular](#angular)                                               |
+| 06 | [React](#react)                                                   |
+| 07 | [Vue](#vue)                                                       |
+| 08 | [TypeScript](#typescript)                                         |
+| 09 | [Animations](#animations)                                         |
+| 10 | [Emails](#emails)                                                 |
+| 11 | [Graphics](#graphics)                                             |
+| 12 | [Color Theory](#color-theory)                                     |
+| 13 | [Fonts](#fonts)                                                   |
+| 14 | [Design](#design)                                                 |
+| 15 | [Git](#git)                                                       |
+| 16 | [Browsers](#browsers)                                             |
+| 17 | [Workflow](#workflow)                                             |
+| 18 | [Testing](#testing)                                               |
+| 19 | [Design patterns](#design-patterns)                               |
+| 20 | [Algorithms and Data Structures](#algorithms-and-data-structures) |
+| 21 | [Performance and Optimization](#performance-and-optimization)     |
+| 22 | [Web Components](#web-components)                                 |
+| 23 | [PWA](#pwa)                                                       |
+| 24 | [Modern WEB features](#modern-web-features)                       |
+| 25 | [Serverless](#serverless)                                         |
+| 26 | [C#](#c)                                                          |
+| 27 | [PHP](#php)                                                       |
+| 28 | [Docker](#docker)                                                 |
+| 29 | [Machine Learning](#machine-learning)                             |
+| 30 | [Official Documentation](#official-documentations)                |
+| 31 | [General Tools](#general-tools)                                   |
+| 32 | [Ideas](#ideas)                                                   |
+| 33 | [Inspiration](#inspiration)                                       |
+| 34 | [Cross-content](#cross-content)                                   |
+| 35 | [Practice](#practice)                                             |
+| 36 | [Courses and Tutorials](#courses-and-tutorials)                   |
+| 37 | [Books](#-books)                                                  |
+| 38 | [Not Dev-related but Useful](#not-dev-related-but-useful)         |
 
 ## HTML
 - [MDN: time tag - The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
