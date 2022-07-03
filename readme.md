@@ -1,6 +1,7 @@
 # Web dev links
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian or Korean).
 
+| N | Link                    |
 |---|-------------------------|
 | 1 | [HTML](#html)           |
 | 2 | [CSS](#css)             |
