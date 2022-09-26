@@ -132,6 +132,7 @@ Personal collection of useful resources, articles, courses, services and alike (
 - [When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
 - [6 Ways to Unsubscribe from Observables in Angular](https://blog.bitsrc.io/6-ways-to-unsubscribe-from-observables-in-angular-ab912819a78f)
 - [Angular Custom Form Controls: Complete Guide](https://blog.angular-university.io/angular-custom-form-controls/) #article
+- [Angular Universal: First page loaded twice issue, Re-rendering or reflow of first page](https://www.youtube.com/watch?v=noRwaKAQXRs)
 
 ## React
 - [ ] [Article: JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
