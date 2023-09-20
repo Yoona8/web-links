@@ -1,14 +1,4 @@
 ## Frontend
-- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
-- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
-- [История одной оптимизации](http://chikuyonok.ru/2010/11/optimization-story/) старая, но интересная статья
-- [Front-end performance for web designers and front-end developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
-- [Анализ скорости загрузки сайта: от пользовательских проблем к их решению](https://www.searchengines.ru/analiz_skorosti.html)
-- [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/)
-- [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
-- [CSS performance revisited: selectors, bloat and expensive styles](https://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
-- [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-- [A Tale of Animation Performance](https://css-tricks.com/tale-of-animation-performance/)
 - [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 - [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=en)
@@ -76,7 +66,6 @@
 - Introduction To Algorithms (by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein)
 
 ## HTML & CSS
-- [Ahmad Shadeed](https://ishadeed.com/)
 - [MDN: time tag - The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
 - [MDN: video tag - The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 - [Web.dev: Lazy-loading video](https://web.dev/lazy-loading-video/)

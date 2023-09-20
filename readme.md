@@ -2,7 +2,21 @@
 Personal collection of useful resources, articles, courses, services and alike (mostly in English, sometimes in Russian and Korean).
 
 ## Frontend
-- 📜 [Smashing magazine](https://www.smashingmagazine.com/)
+<details>
+<summary>📜 Smashing magazine</summary>
+
+- [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+</details>
+
+<details>
+<summary>📜 Web.dev</summary>
+
+- [How to create high-performance CSS animations](https://web.dev/animations-guide/)
+
+</details>
+
+- 📜 [CSS Tricks](https://css-tricks.com/)
 - 📜 [HTMLacademy](https://htmlacademy.ru/)
 - 🎬 [Learn With Jason](https://www.youtube.com/@learnwithjason)
 - 🎬 [RoadsideCoder](https://www.youtube.com/@RoadsideCoder)
@@ -11,14 +25,17 @@ Personal collection of useful resources, articles, courses, services and alike (
 - 🎬 [Coding Girl](https://www.youtube.com/@codinggirl_)
 - 🎬 [드림코딩](https://www.youtube.com/@dream-coding)
 - 🎬 [Jack Herrington](https://www.youtube.com/@jherr)
-- 📜 [Web.dev](https://web.dev/)
 - 📜 [Josh Comeau](https://www.joshwcomeau.com/)
+- 📜 [Paul Irish gists](https://gist.github.com/paulirish)
+- 📜 [Ben Frain](https://benfrain.com/blog/)
 
 ## HTML & CSS
 - 📜 [WHATWG: HTML specification](https://html.spec.whatwg.org/)
 - 📜 [W3C CSS: CSS specification](https://www.w3.org/Style/CSS/)
 - 🎬 [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - 📜 [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- 📜 [CSS Wizardry](https://csswizardry.com/archive/)
+- 📜 [Ahmad Shadeed](https://ishadeed.com/)
 
 ## Accessibility
 - 📜 [W3C ARIA spec](https://www.w3.org/TR/wai-aria-1.1/)
